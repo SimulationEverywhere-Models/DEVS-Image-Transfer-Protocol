@@ -1,0 +1,320 @@
+00:00:00:000
+State for model input_reader_packetIn is next time: 00:00:00:000
+State for model input_reader_ackIn is next time: 00:00:00:000
+State for model Retransmission1 is current index is: 0|| dataLoss is: 0
+00:00:00:000
+State for model input_reader_packetIn is next time: 00:00:00:005
+State for model input_reader_ackIn is next time: 00:00:00:105
+State for model Retransmission1 is current index is: 0|| dataLoss is: 0
+00:00:00:005
+State for model input_reader_packetIn is next time: 00:00:00:005
+State for model input_reader_ackIn is next time: 00:00:00:105
+State for model Retransmission1 is current index is: 1|| dataLoss is: 0
+00:00:00:010
+State for model input_reader_packetIn is next time: 00:00:00:005
+State for model input_reader_ackIn is next time: 00:00:00:105
+State for model Retransmission1 is current index is: 2|| dataLoss is: 0
+00:00:00:015
+State for model input_reader_packetIn is next time: 00:00:00:005
+State for model input_reader_ackIn is next time: 00:00:00:105
+State for model Retransmission1 is current index is: 3|| dataLoss is: 0
+00:00:00:020
+State for model input_reader_packetIn is next time: 00:00:00:005
+State for model input_reader_ackIn is next time: 00:00:00:105
+State for model Retransmission1 is current index is: 4|| dataLoss is: 0
+00:00:00:025
+State for model input_reader_packetIn is next time: 00:00:00:005
+State for model input_reader_ackIn is next time: 00:00:00:105
+State for model Retransmission1 is current index is: 5|| dataLoss is: 0
+00:00:00:030
+State for model input_reader_packetIn is next time: 00:00:00:005
+State for model input_reader_ackIn is next time: 00:00:00:105
+State for model Retransmission1 is current index is: 6|| dataLoss is: 0
+00:00:00:035
+State for model input_reader_packetIn is next time: 00:00:00:005
+State for model input_reader_ackIn is next time: 00:00:00:105
+State for model Retransmission1 is current index is: 7|| dataLoss is: 0
+00:00:00:040
+State for model input_reader_packetIn is next time: 00:00:00:005
+State for model input_reader_ackIn is next time: 00:00:00:105
+State for model Retransmission1 is current index is: 8|| dataLoss is: 0
+00:00:00:045
+State for model input_reader_packetIn is next time: 00:00:00:005
+State for model input_reader_ackIn is next time: 00:00:00:105
+State for model Retransmission1 is current index is: 9|| dataLoss is: 0
+00:00:00:050
+State for model input_reader_packetIn is next time: 00:00:00:610
+State for model input_reader_ackIn is next time: 00:00:00:105
+State for model Retransmission1 is current index is: 10|| dataLoss is: 0
+00:00:00:105
+State for model input_reader_packetIn is next time: 00:00:00:610
+State for model input_reader_ackIn is next time: 00:00:00:005
+State for model Retransmission1 is current index is: 10|| dataLoss is: 0
+00:00:00:110
+State for model input_reader_packetIn is next time: 00:00:00:610
+State for model input_reader_ackIn is next time: 00:00:00:005
+State for model Retransmission1 is current index is: 10|| dataLoss is: 0
+00:00:00:115
+State for model input_reader_packetIn is next time: 00:00:00:610
+State for model input_reader_ackIn is next time: 00:00:00:005
+State for model Retransmission1 is current index is: 10|| dataLoss is: 0
+00:00:00:120
+State for model input_reader_packetIn is next time: 00:00:00:610
+State for model input_reader_ackIn is next time: 00:00:00:005
+State for model Retransmission1 is current index is: 10|| dataLoss is: 0
+00:00:00:125
+State for model input_reader_packetIn is next time: 00:00:00:610
+State for model input_reader_ackIn is next time: 00:00:00:010
+State for model Retransmission1 is current index is: 10|| dataLoss is: 0
+00:00:00:135
+State for model input_reader_packetIn is next time: 00:00:00:610
+State for model input_reader_ackIn is next time: 00:00:00:005
+State for model Retransmission1 is current index is: 10|| dataLoss is: 0
+00:00:00:140
+State for model input_reader_packetIn is next time: 00:00:00:610
+State for model input_reader_ackIn is next time: 00:00:00:005
+State for model Retransmission1 is current index is: 10|| dataLoss is: 0
+00:00:00:145
+State for model input_reader_packetIn is next time: 00:00:00:610
+State for model input_reader_ackIn is next time: 00:00:00:635
+State for model Retransmission1 is current index is: 10|| dataLoss is: 0
+00:00:00:650
+State for model input_reader_packetIn is next time: 00:00:00:610
+State for model input_reader_ackIn is next time: 00:00:00:635
+State for model Retransmission1 is current index is: 0|| dataLoss is: 20
+00:00:00:655
+State for model input_reader_packetIn is next time: 00:00:00:610
+State for model input_reader_ackIn is next time: 00:00:00:635
+State for model Retransmission1 is current index is: 0|| dataLoss is: 20
+00:00:00:660
+State for model input_reader_packetIn is next time: 00:00:00:005
+State for model input_reader_ackIn is next time: 00:00:00:635
+State for model Retransmission1 is current index is: 1|| dataLoss is: 20
+00:00:00:665
+State for model input_reader_packetIn is next time: 00:00:00:005
+State for model input_reader_ackIn is next time: 00:00:00:635
+State for model Retransmission1 is current index is: 2|| dataLoss is: 20
+00:00:00:670
+State for model input_reader_packetIn is next time: 00:00:00:005
+State for model input_reader_ackIn is next time: 00:00:00:635
+State for model Retransmission1 is current index is: 3|| dataLoss is: 20
+00:00:00:675
+State for model input_reader_packetIn is next time: 00:00:00:005
+State for model input_reader_ackIn is next time: 00:00:00:635
+State for model Retransmission1 is current index is: 4|| dataLoss is: 20
+00:00:00:680
+State for model input_reader_packetIn is next time: 00:00:00:005
+State for model input_reader_ackIn is next time: 00:00:00:635
+State for model Retransmission1 is current index is: 5|| dataLoss is: 20
+00:00:00:685
+State for model input_reader_packetIn is next time: 00:00:00:005
+State for model input_reader_ackIn is next time: 00:00:00:635
+State for model Retransmission1 is current index is: 6|| dataLoss is: 20
+00:00:00:690
+State for model input_reader_packetIn is next time: 00:00:00:005
+State for model input_reader_ackIn is next time: 00:00:00:635
+State for model Retransmission1 is current index is: 7|| dataLoss is: 20
+00:00:00:695
+State for model input_reader_packetIn is next time: 00:00:00:005
+State for model input_reader_ackIn is next time: 00:00:00:635
+State for model Retransmission1 is current index is: 8|| dataLoss is: 20
+00:00:00:700
+State for model input_reader_packetIn is next time: 00:00:00:005
+State for model input_reader_ackIn is next time: 00:00:00:635
+State for model Retransmission1 is current index is: 9|| dataLoss is: 20
+00:00:00:705
+State for model input_reader_packetIn is next time: 00:00:00:645
+State for model input_reader_ackIn is next time: 00:00:00:635
+State for model Retransmission1 is current index is: 10|| dataLoss is: 20
+00:00:00:780
+State for model input_reader_packetIn is next time: 00:00:00:645
+State for model input_reader_ackIn is next time: 00:00:00:010
+State for model Retransmission1 is current index is: 10|| dataLoss is: 20
+00:00:00:790
+State for model input_reader_packetIn is next time: 00:00:00:645
+State for model input_reader_ackIn is next time: 00:00:00:015
+State for model Retransmission1 is current index is: 10|| dataLoss is: 20
+00:00:00:805
+State for model input_reader_packetIn is next time: 00:00:00:645
+State for model input_reader_ackIn is next time: 00:00:00:645
+State for model Retransmission1 is current index is: 10|| dataLoss is: 20
+00:00:01:305
+State for model input_reader_packetIn is next time: 00:00:00:645
+State for model input_reader_ackIn is next time: 00:00:00:645
+State for model Retransmission1 is current index is: 0|| dataLoss is: 70
+00:00:01:310
+State for model input_reader_packetIn is next time: 00:00:00:645
+State for model input_reader_ackIn is next time: 00:00:00:645
+State for model Retransmission1 is current index is: 0|| dataLoss is: 70
+00:00:01:315
+State for model input_reader_packetIn is next time: 00:00:00:645
+State for model input_reader_ackIn is next time: 00:00:00:645
+State for model Retransmission1 is current index is: 0|| dataLoss is: 70
+00:00:01:320
+State for model input_reader_packetIn is next time: 00:00:00:645
+State for model input_reader_ackIn is next time: 00:00:00:645
+State for model Retransmission1 is current index is: 0|| dataLoss is: 70
+00:00:01:325
+State for model input_reader_packetIn is next time: 00:00:00:645
+State for model input_reader_ackIn is next time: 00:00:00:645
+State for model Retransmission1 is current index is: 0|| dataLoss is: 70
+00:00:01:330
+State for model input_reader_packetIn is next time: 00:00:00:645
+State for model input_reader_ackIn is next time: 00:00:00:645
+State for model Retransmission1 is current index is: 0|| dataLoss is: 70
+00:00:01:335
+State for model input_reader_packetIn is next time: 00:00:00:645
+State for model input_reader_ackIn is next time: 00:00:00:645
+State for model Retransmission1 is current index is: 0|| dataLoss is: 70
+00:00:01:340
+State for model input_reader_packetIn is next time: 00:00:00:645
+State for model input_reader_ackIn is next time: 00:00:00:645
+State for model Retransmission1 is current index is: 0|| dataLoss is: 70
+00:00:01:345
+State for model input_reader_packetIn is next time: 00:00:00:645
+State for model input_reader_ackIn is next time: 00:00:00:645
+State for model Retransmission1 is current index is: 0|| dataLoss is: 70
+00:00:01:350
+State for model input_reader_packetIn is next time: 00:00:00:005
+State for model input_reader_ackIn is next time: 00:00:00:645
+State for model Retransmission1 is current index is: 1|| dataLoss is: 70
+00:00:01:355
+State for model input_reader_packetIn is next time: 00:00:00:005
+State for model input_reader_ackIn is next time: 00:00:00:645
+State for model Retransmission1 is current index is: 2|| dataLoss is: 70
+00:00:01:360
+State for model input_reader_packetIn is next time: 00:00:00:005
+State for model input_reader_ackIn is next time: 00:00:00:645
+State for model Retransmission1 is current index is: 3|| dataLoss is: 70
+00:00:01:365
+State for model input_reader_packetIn is next time: 00:00:00:005
+State for model input_reader_ackIn is next time: 00:00:00:645
+State for model Retransmission1 is current index is: 4|| dataLoss is: 70
+00:00:01:370
+State for model input_reader_packetIn is next time: 00:00:00:005
+State for model input_reader_ackIn is next time: 00:00:00:645
+State for model Retransmission1 is current index is: 5|| dataLoss is: 70
+00:00:01:375
+State for model input_reader_packetIn is next time: 00:00:00:005
+State for model input_reader_ackIn is next time: 00:00:00:645
+State for model Retransmission1 is current index is: 6|| dataLoss is: 70
+00:00:01:380
+State for model input_reader_packetIn is next time: 00:00:00:605
+State for model input_reader_ackIn is next time: 00:00:00:645
+State for model Retransmission1 is current index is: 7|| dataLoss is: 70
+00:00:01:450
+State for model input_reader_packetIn is next time: 00:00:00:605
+State for model input_reader_ackIn is next time: 00:00:00:005
+State for model Retransmission1 is current index is: 7|| dataLoss is: 70
+00:00:01:455
+State for model input_reader_packetIn is next time: 00:00:00:605
+State for model input_reader_ackIn is next time: 00:00:00:005
+State for model Retransmission1 is current index is: 7|| dataLoss is: 70
+00:00:01:460
+State for model input_reader_packetIn is next time: 00:00:00:605
+State for model input_reader_ackIn is next time: 00:00:00:005
+State for model Retransmission1 is current index is: 7|| dataLoss is: 70
+00:00:01:465
+State for model input_reader_packetIn is next time: 00:00:00:605
+State for model input_reader_ackIn is next time: 00:00:00:005
+State for model Retransmission1 is current index is: 7|| dataLoss is: 70
+00:00:01:470
+State for model input_reader_packetIn is next time: 00:00:00:605
+State for model input_reader_ackIn is next time: 00:00:00:005
+State for model Retransmission1 is current index is: 7|| dataLoss is: 70
+00:00:01:475
+State for model input_reader_packetIn is next time: 00:00:00:605
+State for model input_reader_ackIn is next time: 00:00:00:005
+State for model Retransmission1 is current index is: 7|| dataLoss is: 70
+00:00:01:480
+State for model input_reader_packetIn is next time: 00:00:00:605
+State for model input_reader_ackIn is next time: 00:00:00:615
+State for model Retransmission1 is current index is: 7|| dataLoss is: 70
+00:00:01:985
+State for model input_reader_packetIn is next time: 00:00:00:005
+State for model input_reader_ackIn is next time: 00:00:00:615
+State for model Retransmission1 is current index is: 1|| dataLoss is: 70
+00:00:01:990
+State for model input_reader_packetIn is next time: 00:00:00:005
+State for model input_reader_ackIn is next time: 00:00:00:615
+State for model Retransmission1 is current index is: 2|| dataLoss is: 70
+00:00:01:995
+State for model input_reader_packetIn is next time: 00:00:00:005
+State for model input_reader_ackIn is next time: 00:00:00:615
+State for model Retransmission1 is current index is: 3|| dataLoss is: 70
+00:00:02:000
+State for model input_reader_packetIn is next time: 00:00:00:005
+State for model input_reader_ackIn is next time: 00:00:00:615
+State for model Retransmission1 is current index is: 4|| dataLoss is: 70
+00:00:02:005
+State for model input_reader_packetIn is next time: 00:00:00:005
+State for model input_reader_ackIn is next time: 00:00:00:615
+State for model Retransmission1 is current index is: 5|| dataLoss is: 70
+00:00:02:010
+State for model input_reader_packetIn is next time: 00:00:00:005
+State for model input_reader_ackIn is next time: 00:00:00:615
+State for model Retransmission1 is current index is: 6|| dataLoss is: 70
+00:00:02:015
+State for model input_reader_packetIn is next time: 00:00:00:005
+State for model input_reader_ackIn is next time: 00:00:00:615
+State for model Retransmission1 is current index is: 7|| dataLoss is: 70
+00:00:02:020
+State for model input_reader_packetIn is next time: 00:00:00:005
+State for model input_reader_ackIn is next time: 00:00:00:615
+State for model Retransmission1 is current index is: 8|| dataLoss is: 70
+00:00:02:025
+State for model input_reader_packetIn is next time: 00:00:00:005
+State for model input_reader_ackIn is next time: 00:00:00:615
+State for model Retransmission1 is current index is: 9|| dataLoss is: 70
+00:00:02:030
+State for model input_reader_packetIn is next time: inf
+State for model input_reader_ackIn is next time: 00:00:00:615
+State for model Retransmission1 is current index is: 10|| dataLoss is: 70
+00:00:02:095
+State for model input_reader_packetIn is next time: inf
+State for model input_reader_ackIn is next time: 00:00:00:015
+State for model Retransmission1 is current index is: 10|| dataLoss is: 70
+00:00:02:110
+State for model input_reader_packetIn is next time: inf
+State for model input_reader_ackIn is next time: 00:00:00:005
+State for model Retransmission1 is current index is: 10|| dataLoss is: 70
+00:00:02:115
+State for model input_reader_packetIn is next time: inf
+State for model input_reader_ackIn is next time: 00:00:00:005
+State for model Retransmission1 is current index is: 10|| dataLoss is: 70
+00:00:02:120
+State for model input_reader_packetIn is next time: inf
+State for model input_reader_ackIn is next time: 00:00:00:005
+State for model Retransmission1 is current index is: 10|| dataLoss is: 70
+00:00:02:125
+State for model input_reader_packetIn is next time: inf
+State for model input_reader_ackIn is next time: inf
+State for model Retransmission1 is current index is: 10|| dataLoss is: 70
+00:00:02:630
+State for model input_reader_packetIn is next time: inf
+State for model input_reader_ackIn is next time: inf
+State for model Retransmission1 is current index is: 0|| dataLoss is: 30
+00:00:02:635
+State for model input_reader_packetIn is next time: inf
+State for model input_reader_ackIn is next time: inf
+State for model Retransmission1 is current index is: 0|| dataLoss is: 30
+00:00:02:640
+State for model input_reader_packetIn is next time: inf
+State for model input_reader_ackIn is next time: inf
+State for model Retransmission1 is current index is: 0|| dataLoss is: 30
+00:00:02:645
+State for model input_reader_packetIn is next time: inf
+State for model input_reader_ackIn is next time: inf
+State for model Retransmission1 is current index is: 0|| dataLoss is: 30
+00:00:02:650
+State for model input_reader_packetIn is next time: inf
+State for model input_reader_ackIn is next time: inf
+State for model Retransmission1 is current index is: 0|| dataLoss is: 30
+00:00:02:655
+State for model input_reader_packetIn is next time: inf
+State for model input_reader_ackIn is next time: inf
+State for model Retransmission1 is current index is: 0|| dataLoss is: 30
+00:00:02:660
+State for model input_reader_packetIn is next time: inf
+State for model input_reader_ackIn is next time: inf
+State for model Retransmission1 is current index is: 0|| dataLoss is: 30

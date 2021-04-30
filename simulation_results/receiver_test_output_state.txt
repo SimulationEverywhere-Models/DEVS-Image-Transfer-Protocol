@@ -1,0 +1,48 @@
+00:00:00:000
+State for model input_reader is next time: 00:00:00:000
+State for model receiver1 is current ACK is: 0 & size is: 0
+00:00:00:000
+State for model input_reader is next time: 00:00:10:000
+State for model receiver1 is current ACK is: 0 & size is: 0
+00:00:10:000
+State for model input_reader is next time: 00:00:20:000
+State for model receiver1 is current ACK is: 1 & size is: 13
+00:00:10:000
+State for model input_reader is next time: 00:00:20:000
+State for model receiver1 is current ACK is: 1 & size is: 13
+00:00:30:000
+State for model input_reader is next time: 00:00:15:000
+State for model receiver1 is current ACK is: 2 & size is: 22
+00:00:30:000
+State for model input_reader is next time: 00:00:15:000
+State for model receiver1 is current ACK is: 2 & size is: 22
+00:00:45:000
+State for model input_reader is next time: 00:00:07:000
+State for model receiver1 is current ACK is: 3 & size is: 53
+00:00:45:000
+State for model input_reader is next time: 00:00:07:000
+State for model receiver1 is current ACK is: 3 & size is: 53
+00:00:52:000
+State for model input_reader is next time: 00:00:33:000
+State for model receiver1 is current ACK is: 4 & size is: 37
+00:00:52:000
+State for model input_reader is next time: 00:00:33:000
+State for model receiver1 is current ACK is: 4 & size is: 37
+00:01:25:000
+State for model input_reader is next time: 00:00:10:000
+State for model receiver1 is current ACK is: 5 & size is: 41
+00:01:25:000
+State for model input_reader is next time: 00:00:10:000
+State for model receiver1 is current ACK is: 5 & size is: 41
+00:01:35:000
+State for model input_reader is next time: 00:00:20:000
+State for model receiver1 is current ACK is: 6 & size is: 94
+00:01:35:000
+State for model input_reader is next time: 00:00:20:000
+State for model receiver1 is current ACK is: 6 & size is: 94
+00:01:55:000
+State for model input_reader is next time: inf
+State for model receiver1 is current ACK is: 7 & size is: 54
+00:01:55:000
+State for model input_reader is next time: inf
+State for model receiver1 is current ACK is: 7 & size is: 54

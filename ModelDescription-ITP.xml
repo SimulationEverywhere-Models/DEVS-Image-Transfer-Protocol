@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Models>
+	<Model name="ITP" type="coupled" description="DEVS top model for simulating image transmission protocal">
+		<Inputs>
+			<Port name="startSignal" type="int" description="number of total data to be transferred"/>
+		</Inputs>
+		<Outputs></Outputs>
+		<Files>
+			<File name="main_ITP_top_model.cpp" type="cpp" location="/top_model"/>
+		</Files>
+	</Model>
+	<Model name="ImageSender" type="coupled" description="a coupled system to send image data and wait for ACKs">
+		<Inputs>
+			<Port name="startSignal" type="int" description="number of total data to be transferred"/>
+			<Port name="ackIn" type="Packet_t" description="a ack packet with a sequence number"/>
+		</Inputs>
+		<Outputs>
+			<Port name="packetOut" type="Packet_t" description="a data packet to be sent out to the network"/>
+		</Outputs>
+		<Files>
+			<File name="main_imageSender_test.cpp" type="cpp" location="/test"/>
+		</Files>
+	</Model>
+	<Model name="PacketSender" type="coupled" description="a coupled system to send out the generated packets">
+		<Inputs>
+			<Port name="packetIn" type="Packet_t" description="a packet that is generated and ready to be sent"/>
+			<Port name="ackIn" type="Packet_t" description="a ack packet with a sequence number"/>
+		</Inputs>
+		<Outputs>
+			<Port name="packetOut" type="Packet_t" description="a data packet sent out to the network"/>
+			<Port name="nextPacket" type="int" description="a signal for packet generator to send the next packet"/>
+			<Port name="sizeChange" type="int" description="the data size for the next packet"/>			
+		</Outputs>
+		<Files>
+			<File name="main_packetSender_test.cpp" type="cpp" location="/test"/>
+		</Files>
+	</Model>
+	<Model name="Network" type="coupled" description="a coupled system to simulate the network environment">
+		<Inputs>
+			<Port name="packetIn" type="Packet_t" description="a packet that is received by the Network"/>
+		</Inputs>
+		<Outputs>
+			<Port name="packetOut" type="Packet_t" description="a packet that is sent to the receiver or sender"/>		
+		</Outputs>
+	</Model>
+	<Model name="PacketGenerator" type="atomic" description="a model to generate packets">
+		<Inputs>
+			<Port name="startSignal" type="int" description="number of total data to be transferred"/>
+			<Port name="sizeChange" type="int" description="the data size for the next packet"/>
+			<Port name="nextPacket" type="int" description="signal received from packetForwarder"/>
+		</Inputs>
+		<Outputs>
+			<Port name="packetOut" type="Packet_t" description="a packet that is ready to be sent"/>
+		</Outputs>
+		<Files>
+			<File name="packetGenerator.hpp" type="hpp" location="/atomic"/>
+			<File name="main_packetGenerator_test.cpp" type="cpp" location="/test"/>			
+		</Files>
+	</Model>
+	<Model name="PacketForwarder" type="atomic" description="a model to forward packets">
+		<Inputs>
+			<Port name="packetIn" type="Packet_t" description="a packet that is ready to be sent"/>
+			<Port name="resendIn" type="Packet_t" description="received from Retransmission, packets to be resent"/>
+		</Inputs>
+		<Outputs>
+			<Port name="packetOut" type="Packet_t" description="a packet that is sent to Network and retransmission"/>
+			<Port name="nextPacket" type="int" description="a signal for packetGenerator to send the next packet"/>
+		</Outputs>
+		<Files>
+			<File name="packetForwarder.hpp" type="hpp" location="/atomic"/>
+			<File name="main_packetForwarder_test.cpp" type="cpp" location="/test"/>
+		</Files>
+	</Model>
+	<Model name="Retransmission" type="atomic" description="a model to decide if a packet needs to be retransferred">
+		<Inputs>
+			<Port name="ackIn" type="Packet_t" description="ack received from the network"/>
+			<Port name="packetIn" type="Packet_t" description="receives from PacketForwarder, make a record of this packet that is sent to Network"/>
+		</Inputs>
+		<Outputs>
+			<Port name="resend" type="Packet_t" description="forward to packetForwarder,packets that needs to be re-sent"/>
+			<Port name="sizeChange" type="int" description="size change signal to PacketGenerator"/>
+		</Outputs>
+		<Files>
+			<File name="Retransmission.hpp" type="hpp" location="/atomic"/>
+			<File name="main_retransmission_test.cpp" type="cpp" location="/test"/>			
+		</Files>
+	</Model>
+	<Model name="NetworkDelay" type="atomic" description="a model to simulate network delay">
+		<Inputs>
+			<Port name="packetIn" type="Packet_t" description="a packet that is to be delayed"/>
+		</Inputs>
+		<Outputs>
+			<Port name="packetOut" type="Packet_t" description="a packet that is delayed by predetermined time"/>		
+		</Outputs>
+		<Files>
+			<File name="NetworkDelay.hpp" type="hpp" location="/atomic"/>
+			<File name="main_networkDelay_test.cpp" type="cpp" location="/test"/>			
+		</Files>
+	</Model>
+	<Model name="SwitchBuffer" type="atomic" description="a model to simulate limited switch buffer">
+		<Inputs>
+			<Port name="packetIn" type="Packet_t" description="packets received"/>
+		</Inputs>
+		<Outputs>
+			<Port name="packetOut" type="Packet_t" description="a packet that is not dropped and to be sent to the receiver"/>		
+		</Outputs>
+		<Files>
+			<File name="SwitchBuffer.hpp" type="hpp" location="/atomic"/>
+			<File name="main_switchBuffer_test.cpp" type="cpp" location="/test"/>			
+		</Files>
+	</Model>
+	<Model name="Receiver" type="atomic" description="a model to receive packets and send back acknowledgement">
+		<Inputs>
+			<Port name="packetIn" type="Packet_t" description="a packet that is received by the Receiver"/>		
+		</Inputs>
+		<Outputs>
+			<Port name="ackOut" type="Packet_t" description="a ack packet with a sequence number is sent to the Network"/>
+		</Outputs>
+		<Files>
+			<File name="Receiver.hpp" type="hpp" location="/atomic"/>
+			<File name="main_receiver_test.cpp" type="cpp" location="/test"/>
+		</Files>
+	</Model>
+</Models>

@@ -1,0 +1,210 @@
+00:00:00:000
+State for model input_reader_start_signal is next time: 00:00:00:000
+State for model input_reader_ack is next time: 00:00:00:000
+State for model PacketGenerator1 is current size is: 0|| seq # is: 0 || totalGeneratedSize is: 0
+State for model PacketForwarder1 is current size is: 0|| seq # is: 0
+State for model Retransmission1 is current index is: 0|| dataLoss is: 0
+00:00:00:000
+State for model input_reader_start_signal is next time: 00:00:00:000
+State for model input_reader_ack is next time: 00:00:00:605
+State for model PacketGenerator1 is current size is: 0|| seq # is: 0 || totalGeneratedSize is: 0
+State for model PacketForwarder1 is current size is: 0|| seq # is: 0
+State for model Retransmission1 is current index is: 0|| dataLoss is: 0
+00:00:00:000
+State for model input_reader_start_signal is next time: inf
+State for model input_reader_ack is next time: 00:00:00:605
+State for model PacketGenerator1 is current size is: 10|| seq # is: 1 || totalGeneratedSize is: 10
+State for model PacketForwarder1 is current size is: 0|| seq # is: 0
+State for model Retransmission1 is current index is: 0|| dataLoss is: 0
+00:00:00:000
+State for model input_reader_start_signal is next time: inf
+State for model input_reader_ack is next time: 00:00:00:605
+State for model PacketGenerator1 is current size is: 10|| seq # is: 2 || totalGeneratedSize is: 20
+State for model PacketForwarder1 is current size is: 10|| seq # is: 1
+State for model Retransmission1 is current index is: 0|| dataLoss is: 0
+00:00:00:005
+State for model input_reader_start_signal is next time: inf
+State for model input_reader_ack is next time: 00:00:00:605
+State for model PacketGenerator1 is current size is: 10|| seq # is: 2 || totalGeneratedSize is: 20
+State for model PacketForwarder1 is current size is: 10|| seq # is: 1
+State for model Retransmission1 is current index is: 1|| dataLoss is: 0
+00:00:00:005
+State for model input_reader_start_signal is next time: inf
+State for model input_reader_ack is next time: 00:00:00:605
+State for model PacketGenerator1 is current size is: 10|| seq # is: 3 || totalGeneratedSize is: 30
+State for model PacketForwarder1 is current size is: 10|| seq # is: 2
+State for model Retransmission1 is current index is: 1|| dataLoss is: 0
+00:00:00:010
+State for model input_reader_start_signal is next time: inf
+State for model input_reader_ack is next time: 00:00:00:605
+State for model PacketGenerator1 is current size is: 10|| seq # is: 3 || totalGeneratedSize is: 30
+State for model PacketForwarder1 is current size is: 10|| seq # is: 2
+State for model Retransmission1 is current index is: 2|| dataLoss is: 0
+00:00:00:010
+State for model input_reader_start_signal is next time: inf
+State for model input_reader_ack is next time: 00:00:00:605
+State for model PacketGenerator1 is current size is: 10|| seq # is: 4 || totalGeneratedSize is: 40
+State for model PacketForwarder1 is current size is: 10|| seq # is: 3
+State for model Retransmission1 is current index is: 2|| dataLoss is: 0
+00:00:00:015
+State for model input_reader_start_signal is next time: inf
+State for model input_reader_ack is next time: 00:00:00:605
+State for model PacketGenerator1 is current size is: 10|| seq # is: 4 || totalGeneratedSize is: 40
+State for model PacketForwarder1 is current size is: 10|| seq # is: 3
+State for model Retransmission1 is current index is: 3|| dataLoss is: 0
+00:00:00:015
+State for model input_reader_start_signal is next time: inf
+State for model input_reader_ack is next time: 00:00:00:605
+State for model PacketGenerator1 is current size is: 10|| seq # is: 5 || totalGeneratedSize is: 50
+State for model PacketForwarder1 is current size is: 10|| seq # is: 4
+State for model Retransmission1 is current index is: 3|| dataLoss is: 0
+00:00:00:020
+State for model input_reader_start_signal is next time: inf
+State for model input_reader_ack is next time: 00:00:00:605
+State for model PacketGenerator1 is current size is: 10|| seq # is: 5 || totalGeneratedSize is: 50
+State for model PacketForwarder1 is current size is: 10|| seq # is: 4
+State for model Retransmission1 is current index is: 4|| dataLoss is: 0
+00:00:00:020
+State for model input_reader_start_signal is next time: inf
+State for model input_reader_ack is next time: 00:00:00:605
+State for model PacketGenerator1 is current size is: 10|| seq # is: 6 || totalGeneratedSize is: 60
+State for model PacketForwarder1 is current size is: 10|| seq # is: 5
+State for model Retransmission1 is current index is: 4|| dataLoss is: 0
+00:00:00:025
+State for model input_reader_start_signal is next time: inf
+State for model input_reader_ack is next time: 00:00:00:605
+State for model PacketGenerator1 is current size is: 10|| seq # is: 6 || totalGeneratedSize is: 60
+State for model PacketForwarder1 is current size is: 10|| seq # is: 5
+State for model Retransmission1 is current index is: 5|| dataLoss is: 0
+00:00:00:025
+State for model input_reader_start_signal is next time: inf
+State for model input_reader_ack is next time: 00:00:00:605
+State for model PacketGenerator1 is current size is: 10|| seq # is: 7 || totalGeneratedSize is: 70
+State for model PacketForwarder1 is current size is: 10|| seq # is: 6
+State for model Retransmission1 is current index is: 5|| dataLoss is: 0
+00:00:00:030
+State for model input_reader_start_signal is next time: inf
+State for model input_reader_ack is next time: 00:00:00:605
+State for model PacketGenerator1 is current size is: 10|| seq # is: 7 || totalGeneratedSize is: 70
+State for model PacketForwarder1 is current size is: 10|| seq # is: 6
+State for model Retransmission1 is current index is: 6|| dataLoss is: 0
+00:00:00:030
+State for model input_reader_start_signal is next time: inf
+State for model input_reader_ack is next time: 00:00:00:605
+State for model PacketGenerator1 is current size is: 10|| seq # is: 8 || totalGeneratedSize is: 80
+State for model PacketForwarder1 is current size is: 10|| seq # is: 7
+State for model Retransmission1 is current index is: 6|| dataLoss is: 0
+00:00:00:035
+State for model input_reader_start_signal is next time: inf
+State for model input_reader_ack is next time: 00:00:00:605
+State for model PacketGenerator1 is current size is: 10|| seq # is: 8 || totalGeneratedSize is: 80
+State for model PacketForwarder1 is current size is: 10|| seq # is: 7
+State for model Retransmission1 is current index is: 7|| dataLoss is: 0
+00:00:00:035
+State for model input_reader_start_signal is next time: inf
+State for model input_reader_ack is next time: 00:00:00:605
+State for model PacketGenerator1 is current size is: 10|| seq # is: 9 || totalGeneratedSize is: 90
+State for model PacketForwarder1 is current size is: 10|| seq # is: 8
+State for model Retransmission1 is current index is: 7|| dataLoss is: 0
+00:00:00:040
+State for model input_reader_start_signal is next time: inf
+State for model input_reader_ack is next time: 00:00:00:605
+State for model PacketGenerator1 is current size is: 10|| seq # is: 9 || totalGeneratedSize is: 90
+State for model PacketForwarder1 is current size is: 10|| seq # is: 8
+State for model Retransmission1 is current index is: 8|| dataLoss is: 0
+00:00:00:040
+State for model input_reader_start_signal is next time: inf
+State for model input_reader_ack is next time: 00:00:00:605
+State for model PacketGenerator1 is current size is: 10|| seq # is: 10 || totalGeneratedSize is: 100
+State for model PacketForwarder1 is current size is: 10|| seq # is: 9
+State for model Retransmission1 is current index is: 8|| dataLoss is: 0
+00:00:00:045
+State for model input_reader_start_signal is next time: inf
+State for model input_reader_ack is next time: 00:00:00:605
+State for model PacketGenerator1 is current size is: 10|| seq # is: 10 || totalGeneratedSize is: 100
+State for model PacketForwarder1 is current size is: 10|| seq # is: 9
+State for model Retransmission1 is current index is: 9|| dataLoss is: 0
+00:00:00:045
+State for model input_reader_start_signal is next time: inf
+State for model input_reader_ack is next time: 00:00:00:605
+State for model PacketGenerator1 is current size is: 10|| seq # is: 10 || totalGeneratedSize is: 100
+State for model PacketForwarder1 is current size is: 10|| seq # is: 10
+State for model Retransmission1 is current index is: 9|| dataLoss is: 0
+00:00:00:050
+State for model input_reader_start_signal is next time: inf
+State for model input_reader_ack is next time: 00:00:00:605
+State for model PacketGenerator1 is current size is: 10|| seq # is: 10 || totalGeneratedSize is: 100
+State for model PacketForwarder1 is current size is: 10|| seq # is: 10
+State for model Retransmission1 is current index is: 10|| dataLoss is: 0
+00:00:00:605
+State for model input_reader_start_signal is next time: inf
+State for model input_reader_ack is next time: 00:00:00:005
+State for model PacketGenerator1 is current size is: 10|| seq # is: 10 || totalGeneratedSize is: 100
+State for model PacketForwarder1 is current size is: 10|| seq # is: 10
+State for model Retransmission1 is current index is: 10|| dataLoss is: 0
+00:00:00:610
+State for model input_reader_start_signal is next time: inf
+State for model input_reader_ack is next time: 00:00:00:005
+State for model PacketGenerator1 is current size is: 10|| seq # is: 10 || totalGeneratedSize is: 100
+State for model PacketForwarder1 is current size is: 10|| seq # is: 10
+State for model Retransmission1 is current index is: 10|| dataLoss is: 0
+00:00:00:615
+State for model input_reader_start_signal is next time: inf
+State for model input_reader_ack is next time: 00:00:00:005
+State for model PacketGenerator1 is current size is: 10|| seq # is: 10 || totalGeneratedSize is: 100
+State for model PacketForwarder1 is current size is: 10|| seq # is: 10
+State for model Retransmission1 is current index is: 10|| dataLoss is: 0
+00:00:00:620
+State for model input_reader_start_signal is next time: inf
+State for model input_reader_ack is next time: 00:00:00:005
+State for model PacketGenerator1 is current size is: 10|| seq # is: 10 || totalGeneratedSize is: 100
+State for model PacketForwarder1 is current size is: 10|| seq # is: 10
+State for model Retransmission1 is current index is: 10|| dataLoss is: 0
+00:00:00:625
+State for model input_reader_start_signal is next time: inf
+State for model input_reader_ack is next time: 00:00:00:005
+State for model PacketGenerator1 is current size is: 10|| seq # is: 10 || totalGeneratedSize is: 100
+State for model PacketForwarder1 is current size is: 10|| seq # is: 10
+State for model Retransmission1 is current index is: 10|| dataLoss is: 0
+00:00:00:630
+State for model input_reader_start_signal is next time: inf
+State for model input_reader_ack is next time: 00:00:00:005
+State for model PacketGenerator1 is current size is: 10|| seq # is: 10 || totalGeneratedSize is: 100
+State for model PacketForwarder1 is current size is: 10|| seq # is: 10
+State for model Retransmission1 is current index is: 10|| dataLoss is: 0
+00:00:00:635
+State for model input_reader_start_signal is next time: inf
+State for model input_reader_ack is next time: 00:00:00:005
+State for model PacketGenerator1 is current size is: 10|| seq # is: 10 || totalGeneratedSize is: 100
+State for model PacketForwarder1 is current size is: 10|| seq # is: 10
+State for model Retransmission1 is current index is: 10|| dataLoss is: 0
+00:00:00:640
+State for model input_reader_start_signal is next time: inf
+State for model input_reader_ack is next time: 00:00:00:005
+State for model PacketGenerator1 is current size is: 10|| seq # is: 10 || totalGeneratedSize is: 100
+State for model PacketForwarder1 is current size is: 10|| seq # is: 10
+State for model Retransmission1 is current index is: 10|| dataLoss is: 0
+00:00:00:645
+State for model input_reader_start_signal is next time: inf
+State for model input_reader_ack is next time: 00:00:00:005
+State for model PacketGenerator1 is current size is: 10|| seq # is: 10 || totalGeneratedSize is: 100
+State for model PacketForwarder1 is current size is: 10|| seq # is: 10
+State for model Retransmission1 is current index is: 10|| dataLoss is: 0
+00:00:00:650
+State for model input_reader_start_signal is next time: inf
+State for model input_reader_ack is next time: inf
+State for model PacketGenerator1 is current size is: 10|| seq # is: 10 || totalGeneratedSize is: 100
+State for model PacketForwarder1 is current size is: 10|| seq # is: 10
+State for model Retransmission1 is current index is: 0|| dataLoss is: 10
+00:00:00:655
+State for model input_reader_start_signal is next time: inf
+State for model input_reader_ack is next time: inf
+State for model PacketGenerator1 is current size is: 10|| seq # is: 10 || totalGeneratedSize is: 100
+State for model PacketForwarder1 is current size is: 0|| seq # is: 0
+State for model Retransmission1 is current index is: 0|| dataLoss is: 10
+00:00:00:655
+State for model input_reader_start_signal is next time: inf
+State for model input_reader_ack is next time: inf
+State for model PacketGenerator1 is current size is: 10|| seq # is: 10 || totalGeneratedSize is: 100
+State for model PacketForwarder1 is current size is: 0|| seq # is: 0
+State for model Retransmission1 is current index is: 0|| dataLoss is: 10

@@ -1,0 +1,2450 @@
+00:00:00:000
+State for model input_reader_start_signal is next time: 00:00:00:000
+State for model PacketGenerator1 is current size is: 0|| seq # is: 0 || totalGeneratedSize is: 0
+State for model PacketForwarder1 is current size is: 0|| seq # is: 0
+State for model Retransmission1 is current index is: 0|| dataLoss is: 0
+State for model Receiver1 is current ACK is: 0 & size is: 0
+State for model NetworkDelay1 is current PacketSequence is: 0 & size is: 0
+State for model SwitchBuffer1 is current PacketSequence is: 0 & size is: 0 & BufferSize is: 20
+State for model NetworkDelay2 is current PacketSequence is: 0 & size is: 0
+State for model SwitchBuffer2 is current PacketSequence is: 0 & size is: 0 & BufferSize is: 20
+00:00:00:000
+State for model input_reader_start_signal is next time: 00:00:00:000
+State for model PacketGenerator1 is current size is: 0|| seq # is: 0 || totalGeneratedSize is: 0
+State for model PacketForwarder1 is current size is: 0|| seq # is: 0
+State for model Retransmission1 is current index is: 0|| dataLoss is: 0
+State for model Receiver1 is current ACK is: 0 & size is: 0
+State for model NetworkDelay1 is current PacketSequence is: 0 & size is: 0
+State for model SwitchBuffer1 is current PacketSequence is: 0 & size is: 0 & BufferSize is: 20
+State for model NetworkDelay2 is current PacketSequence is: 0 & size is: 0
+State for model SwitchBuffer2 is current PacketSequence is: 0 & size is: 0 & BufferSize is: 20
+00:00:00:000
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 10|| seq # is: 1 || totalGeneratedSize is: 10
+State for model PacketForwarder1 is current size is: 0|| seq # is: 0
+State for model Retransmission1 is current index is: 0|| dataLoss is: 0
+State for model Receiver1 is current ACK is: 0 & size is: 0
+State for model NetworkDelay1 is current PacketSequence is: 0 & size is: 0
+State for model SwitchBuffer1 is current PacketSequence is: 0 & size is: 0 & BufferSize is: 20
+State for model NetworkDelay2 is current PacketSequence is: 0 & size is: 0
+State for model SwitchBuffer2 is current PacketSequence is: 0 & size is: 0 & BufferSize is: 20
+00:00:00:000
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 10|| seq # is: 2 || totalGeneratedSize is: 20
+State for model PacketForwarder1 is current size is: 10|| seq # is: 1
+State for model Retransmission1 is current index is: 0|| dataLoss is: 0
+State for model Receiver1 is current ACK is: 0 & size is: 0
+State for model NetworkDelay1 is current PacketSequence is: 0 & size is: 0
+State for model SwitchBuffer1 is current PacketSequence is: 0 & size is: 0 & BufferSize is: 20
+State for model NetworkDelay2 is current PacketSequence is: 0 & size is: 0
+State for model SwitchBuffer2 is current PacketSequence is: 0 & size is: 0 & BufferSize is: 20
+00:00:00:005
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 10|| seq # is: 2 || totalGeneratedSize is: 20
+State for model PacketForwarder1 is current size is: 10|| seq # is: 1
+State for model Retransmission1 is current index is: 1|| dataLoss is: 0
+State for model Receiver1 is current ACK is: 0 & size is: 0
+State for model NetworkDelay1 is current PacketSequence is: 1 & size is: 10
+State for model SwitchBuffer1 is current PacketSequence is: 0 & size is: 0 & BufferSize is: 20
+State for model NetworkDelay2 is current PacketSequence is: 0 & size is: 0
+State for model SwitchBuffer2 is current PacketSequence is: 0 & size is: 0 & BufferSize is: 20
+00:00:00:005
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 10|| seq # is: 3 || totalGeneratedSize is: 30
+State for model PacketForwarder1 is current size is: 10|| seq # is: 2
+State for model Retransmission1 is current index is: 1|| dataLoss is: 0
+State for model Receiver1 is current ACK is: 0 & size is: 0
+State for model NetworkDelay1 is current PacketSequence is: 1 & size is: 10
+State for model SwitchBuffer1 is current PacketSequence is: 0 & size is: 0 & BufferSize is: 20
+State for model NetworkDelay2 is current PacketSequence is: 0 & size is: 0
+State for model SwitchBuffer2 is current PacketSequence is: 0 & size is: 0 & BufferSize is: 20
+00:00:00:010
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 10|| seq # is: 3 || totalGeneratedSize is: 30
+State for model PacketForwarder1 is current size is: 10|| seq # is: 2
+State for model Retransmission1 is current index is: 2|| dataLoss is: 0
+State for model Receiver1 is current ACK is: 0 & size is: 0
+State for model NetworkDelay1 is current PacketSequence is: 1 & size is: 10
+State for model SwitchBuffer1 is current PacketSequence is: 0 & size is: 0 & BufferSize is: 20
+State for model NetworkDelay2 is current PacketSequence is: 0 & size is: 0
+State for model SwitchBuffer2 is current PacketSequence is: 0 & size is: 0 & BufferSize is: 20
+00:00:00:010
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 10|| seq # is: 4 || totalGeneratedSize is: 40
+State for model PacketForwarder1 is current size is: 10|| seq # is: 3
+State for model Retransmission1 is current index is: 2|| dataLoss is: 0
+State for model Receiver1 is current ACK is: 0 & size is: 0
+State for model NetworkDelay1 is current PacketSequence is: 1 & size is: 10
+State for model SwitchBuffer1 is current PacketSequence is: 0 & size is: 0 & BufferSize is: 20
+State for model NetworkDelay2 is current PacketSequence is: 0 & size is: 0
+State for model SwitchBuffer2 is current PacketSequence is: 0 & size is: 0 & BufferSize is: 20
+00:00:00:015
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 10|| seq # is: 4 || totalGeneratedSize is: 40
+State for model PacketForwarder1 is current size is: 10|| seq # is: 3
+State for model Retransmission1 is current index is: 3|| dataLoss is: 0
+State for model Receiver1 is current ACK is: 0 & size is: 0
+State for model NetworkDelay1 is current PacketSequence is: 1 & size is: 10
+State for model SwitchBuffer1 is current PacketSequence is: 0 & size is: 0 & BufferSize is: 20
+State for model NetworkDelay2 is current PacketSequence is: 0 & size is: 0
+State for model SwitchBuffer2 is current PacketSequence is: 0 & size is: 0 & BufferSize is: 20
+00:00:00:015
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 10|| seq # is: 5 || totalGeneratedSize is: 50
+State for model PacketForwarder1 is current size is: 10|| seq # is: 4
+State for model Retransmission1 is current index is: 3|| dataLoss is: 0
+State for model Receiver1 is current ACK is: 0 & size is: 0
+State for model NetworkDelay1 is current PacketSequence is: 1 & size is: 10
+State for model SwitchBuffer1 is current PacketSequence is: 0 & size is: 0 & BufferSize is: 20
+State for model NetworkDelay2 is current PacketSequence is: 0 & size is: 0
+State for model SwitchBuffer2 is current PacketSequence is: 0 & size is: 0 & BufferSize is: 20
+00:00:00:020
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 10|| seq # is: 5 || totalGeneratedSize is: 50
+State for model PacketForwarder1 is current size is: 10|| seq # is: 4
+State for model Retransmission1 is current index is: 4|| dataLoss is: 0
+State for model Receiver1 is current ACK is: 0 & size is: 0
+State for model NetworkDelay1 is current PacketSequence is: 1 & size is: 10
+State for model SwitchBuffer1 is current PacketSequence is: 0 & size is: 0 & BufferSize is: 20
+State for model NetworkDelay2 is current PacketSequence is: 0 & size is: 0
+State for model SwitchBuffer2 is current PacketSequence is: 0 & size is: 0 & BufferSize is: 20
+00:00:00:020
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 10|| seq # is: 6 || totalGeneratedSize is: 60
+State for model PacketForwarder1 is current size is: 10|| seq # is: 5
+State for model Retransmission1 is current index is: 4|| dataLoss is: 0
+State for model Receiver1 is current ACK is: 0 & size is: 0
+State for model NetworkDelay1 is current PacketSequence is: 1 & size is: 10
+State for model SwitchBuffer1 is current PacketSequence is: 0 & size is: 0 & BufferSize is: 20
+State for model NetworkDelay2 is current PacketSequence is: 0 & size is: 0
+State for model SwitchBuffer2 is current PacketSequence is: 0 & size is: 0 & BufferSize is: 20
+00:00:00:025
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 10|| seq # is: 6 || totalGeneratedSize is: 60
+State for model PacketForwarder1 is current size is: 10|| seq # is: 5
+State for model Retransmission1 is current index is: 5|| dataLoss is: 0
+State for model Receiver1 is current ACK is: 0 & size is: 0
+State for model NetworkDelay1 is current PacketSequence is: 1 & size is: 10
+State for model SwitchBuffer1 is current PacketSequence is: 0 & size is: 0 & BufferSize is: 20
+State for model NetworkDelay2 is current PacketSequence is: 0 & size is: 0
+State for model SwitchBuffer2 is current PacketSequence is: 0 & size is: 0 & BufferSize is: 20
+00:00:00:025
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 10|| seq # is: 7 || totalGeneratedSize is: 70
+State for model PacketForwarder1 is current size is: 10|| seq # is: 6
+State for model Retransmission1 is current index is: 5|| dataLoss is: 0
+State for model Receiver1 is current ACK is: 0 & size is: 0
+State for model NetworkDelay1 is current PacketSequence is: 1 & size is: 10
+State for model SwitchBuffer1 is current PacketSequence is: 0 & size is: 0 & BufferSize is: 20
+State for model NetworkDelay2 is current PacketSequence is: 0 & size is: 0
+State for model SwitchBuffer2 is current PacketSequence is: 0 & size is: 0 & BufferSize is: 20
+00:00:00:030
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 10|| seq # is: 7 || totalGeneratedSize is: 70
+State for model PacketForwarder1 is current size is: 10|| seq # is: 6
+State for model Retransmission1 is current index is: 6|| dataLoss is: 0
+State for model Receiver1 is current ACK is: 0 & size is: 0
+State for model NetworkDelay1 is current PacketSequence is: 1 & size is: 10
+State for model SwitchBuffer1 is current PacketSequence is: 0 & size is: 0 & BufferSize is: 20
+State for model NetworkDelay2 is current PacketSequence is: 0 & size is: 0
+State for model SwitchBuffer2 is current PacketSequence is: 0 & size is: 0 & BufferSize is: 20
+00:00:00:030
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 10|| seq # is: 8 || totalGeneratedSize is: 80
+State for model PacketForwarder1 is current size is: 10|| seq # is: 7
+State for model Retransmission1 is current index is: 6|| dataLoss is: 0
+State for model Receiver1 is current ACK is: 0 & size is: 0
+State for model NetworkDelay1 is current PacketSequence is: 1 & size is: 10
+State for model SwitchBuffer1 is current PacketSequence is: 0 & size is: 0 & BufferSize is: 20
+State for model NetworkDelay2 is current PacketSequence is: 0 & size is: 0
+State for model SwitchBuffer2 is current PacketSequence is: 0 & size is: 0 & BufferSize is: 20
+00:00:00:035
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 10|| seq # is: 8 || totalGeneratedSize is: 80
+State for model PacketForwarder1 is current size is: 10|| seq # is: 7
+State for model Retransmission1 is current index is: 7|| dataLoss is: 0
+State for model Receiver1 is current ACK is: 0 & size is: 0
+State for model NetworkDelay1 is current PacketSequence is: 1 & size is: 10
+State for model SwitchBuffer1 is current PacketSequence is: 0 & size is: 0 & BufferSize is: 20
+State for model NetworkDelay2 is current PacketSequence is: 0 & size is: 0
+State for model SwitchBuffer2 is current PacketSequence is: 0 & size is: 0 & BufferSize is: 20
+00:00:00:035
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 10|| seq # is: 9 || totalGeneratedSize is: 90
+State for model PacketForwarder1 is current size is: 10|| seq # is: 8
+State for model Retransmission1 is current index is: 7|| dataLoss is: 0
+State for model Receiver1 is current ACK is: 0 & size is: 0
+State for model NetworkDelay1 is current PacketSequence is: 1 & size is: 10
+State for model SwitchBuffer1 is current PacketSequence is: 0 & size is: 0 & BufferSize is: 20
+State for model NetworkDelay2 is current PacketSequence is: 0 & size is: 0
+State for model SwitchBuffer2 is current PacketSequence is: 0 & size is: 0 & BufferSize is: 20
+00:00:00:040
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 10|| seq # is: 9 || totalGeneratedSize is: 90
+State for model PacketForwarder1 is current size is: 10|| seq # is: 8
+State for model Retransmission1 is current index is: 8|| dataLoss is: 0
+State for model Receiver1 is current ACK is: 0 & size is: 0
+State for model NetworkDelay1 is current PacketSequence is: 1 & size is: 10
+State for model SwitchBuffer1 is current PacketSequence is: 0 & size is: 0 & BufferSize is: 20
+State for model NetworkDelay2 is current PacketSequence is: 0 & size is: 0
+State for model SwitchBuffer2 is current PacketSequence is: 0 & size is: 0 & BufferSize is: 20
+00:00:00:040
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 10|| seq # is: 10 || totalGeneratedSize is: 100
+State for model PacketForwarder1 is current size is: 10|| seq # is: 9
+State for model Retransmission1 is current index is: 8|| dataLoss is: 0
+State for model Receiver1 is current ACK is: 0 & size is: 0
+State for model NetworkDelay1 is current PacketSequence is: 1 & size is: 10
+State for model SwitchBuffer1 is current PacketSequence is: 0 & size is: 0 & BufferSize is: 20
+State for model NetworkDelay2 is current PacketSequence is: 0 & size is: 0
+State for model SwitchBuffer2 is current PacketSequence is: 0 & size is: 0 & BufferSize is: 20
+00:00:00:045
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 10|| seq # is: 10 || totalGeneratedSize is: 100
+State for model PacketForwarder1 is current size is: 10|| seq # is: 9
+State for model Retransmission1 is current index is: 9|| dataLoss is: 0
+State for model Receiver1 is current ACK is: 0 & size is: 0
+State for model NetworkDelay1 is current PacketSequence is: 1 & size is: 10
+State for model SwitchBuffer1 is current PacketSequence is: 0 & size is: 0 & BufferSize is: 20
+State for model NetworkDelay2 is current PacketSequence is: 0 & size is: 0
+State for model SwitchBuffer2 is current PacketSequence is: 0 & size is: 0 & BufferSize is: 20
+00:00:00:045
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 10|| seq # is: 1 || totalGeneratedSize is: 110
+State for model PacketForwarder1 is current size is: 10|| seq # is: 10
+State for model Retransmission1 is current index is: 9|| dataLoss is: 0
+State for model Receiver1 is current ACK is: 0 & size is: 0
+State for model NetworkDelay1 is current PacketSequence is: 1 & size is: 10
+State for model SwitchBuffer1 is current PacketSequence is: 0 & size is: 0 & BufferSize is: 20
+State for model NetworkDelay2 is current PacketSequence is: 0 & size is: 0
+State for model SwitchBuffer2 is current PacketSequence is: 0 & size is: 0 & BufferSize is: 20
+00:00:00:050
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 10|| seq # is: 1 || totalGeneratedSize is: 110
+State for model PacketForwarder1 is current size is: 10|| seq # is: 10
+State for model Retransmission1 is current index is: 10|| dataLoss is: 0
+State for model Receiver1 is current ACK is: 0 & size is: 0
+State for model NetworkDelay1 is current PacketSequence is: 1 & size is: 10
+State for model SwitchBuffer1 is current PacketSequence is: 0 & size is: 0 & BufferSize is: 20
+State for model NetworkDelay2 is current PacketSequence is: 0 & size is: 0
+State for model SwitchBuffer2 is current PacketSequence is: 0 & size is: 0 & BufferSize is: 20
+00:00:00:055
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 10|| seq # is: 1 || totalGeneratedSize is: 110
+State for model PacketForwarder1 is current size is: 10|| seq # is: 10
+State for model Retransmission1 is current index is: 10|| dataLoss is: 0
+State for model Receiver1 is current ACK is: 0 & size is: 0
+State for model NetworkDelay1 is current PacketSequence is: 2 & size is: 10
+State for model SwitchBuffer1 is current PacketSequence is: 1 & size is: 10 & BufferSize is: 32
+State for model NetworkDelay2 is current PacketSequence is: 0 & size is: 0
+State for model SwitchBuffer2 is current PacketSequence is: 0 & size is: 0 & BufferSize is: 20
+00:00:00:055
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 10|| seq # is: 1 || totalGeneratedSize is: 110
+State for model PacketForwarder1 is current size is: 10|| seq # is: 10
+State for model Retransmission1 is current index is: 10|| dataLoss is: 0
+State for model Receiver1 is current ACK is: 1 & size is: 10
+State for model NetworkDelay1 is current PacketSequence is: 2 & size is: 10
+State for model SwitchBuffer1 is current PacketSequence is: 1 & size is: 10 & BufferSize is: 32
+State for model NetworkDelay2 is current PacketSequence is: 0 & size is: 0
+State for model SwitchBuffer2 is current PacketSequence is: 0 & size is: 0 & BufferSize is: 20
+00:00:00:055
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 10|| seq # is: 1 || totalGeneratedSize is: 110
+State for model PacketForwarder1 is current size is: 10|| seq # is: 10
+State for model Retransmission1 is current index is: 10|| dataLoss is: 0
+State for model Receiver1 is current ACK is: 1 & size is: 10
+State for model NetworkDelay1 is current PacketSequence is: 2 & size is: 10
+State for model SwitchBuffer1 is current PacketSequence is: 1 & size is: 10 & BufferSize is: 32
+State for model NetworkDelay2 is current PacketSequence is: 1 & size is: 10
+State for model SwitchBuffer2 is current PacketSequence is: 0 & size is: 0 & BufferSize is: 20
+00:00:00:060
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 10|| seq # is: 1 || totalGeneratedSize is: 110
+State for model PacketForwarder1 is current size is: 10|| seq # is: 10
+State for model Retransmission1 is current index is: 10|| dataLoss is: 0
+State for model Receiver1 is current ACK is: 1 & size is: 10
+State for model NetworkDelay1 is current PacketSequence is: 3 & size is: 10
+State for model SwitchBuffer1 is current PacketSequence is: 2 & size is: 10 & BufferSize is: 0
+State for model NetworkDelay2 is current PacketSequence is: 1 & size is: 10
+State for model SwitchBuffer2 is current PacketSequence is: 0 & size is: 0 & BufferSize is: 20
+00:00:00:065
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 10|| seq # is: 1 || totalGeneratedSize is: 110
+State for model PacketForwarder1 is current size is: 10|| seq # is: 10
+State for model Retransmission1 is current index is: 10|| dataLoss is: 0
+State for model Receiver1 is current ACK is: 1 & size is: 10
+State for model NetworkDelay1 is current PacketSequence is: 4 & size is: 10
+State for model SwitchBuffer1 is current PacketSequence is: 3 & size is: 10 & BufferSize is: 16
+State for model NetworkDelay2 is current PacketSequence is: 1 & size is: 10
+State for model SwitchBuffer2 is current PacketSequence is: 0 & size is: 0 & BufferSize is: 20
+00:00:00:065
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 10|| seq # is: 1 || totalGeneratedSize is: 110
+State for model PacketForwarder1 is current size is: 10|| seq # is: 10
+State for model Retransmission1 is current index is: 10|| dataLoss is: 0
+State for model Receiver1 is current ACK is: 3 & size is: 10
+State for model NetworkDelay1 is current PacketSequence is: 4 & size is: 10
+State for model SwitchBuffer1 is current PacketSequence is: 3 & size is: 10 & BufferSize is: 16
+State for model NetworkDelay2 is current PacketSequence is: 1 & size is: 10
+State for model SwitchBuffer2 is current PacketSequence is: 0 & size is: 0 & BufferSize is: 20
+00:00:00:065
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 10|| seq # is: 1 || totalGeneratedSize is: 110
+State for model PacketForwarder1 is current size is: 10|| seq # is: 10
+State for model Retransmission1 is current index is: 10|| dataLoss is: 0
+State for model Receiver1 is current ACK is: 3 & size is: 10
+State for model NetworkDelay1 is current PacketSequence is: 4 & size is: 10
+State for model SwitchBuffer1 is current PacketSequence is: 3 & size is: 10 & BufferSize is: 16
+State for model NetworkDelay2 is current PacketSequence is: 1 & size is: 10
+State for model SwitchBuffer2 is current PacketSequence is: 0 & size is: 0 & BufferSize is: 20
+00:00:00:070
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 10|| seq # is: 1 || totalGeneratedSize is: 110
+State for model PacketForwarder1 is current size is: 10|| seq # is: 10
+State for model Retransmission1 is current index is: 10|| dataLoss is: 0
+State for model Receiver1 is current ACK is: 3 & size is: 10
+State for model NetworkDelay1 is current PacketSequence is: 5 & size is: 10
+State for model SwitchBuffer1 is current PacketSequence is: 4 & size is: 10 & BufferSize is: 18
+State for model NetworkDelay2 is current PacketSequence is: 1 & size is: 10
+State for model SwitchBuffer2 is current PacketSequence is: 0 & size is: 0 & BufferSize is: 20
+00:00:00:070
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 10|| seq # is: 1 || totalGeneratedSize is: 110
+State for model PacketForwarder1 is current size is: 10|| seq # is: 10
+State for model Retransmission1 is current index is: 10|| dataLoss is: 0
+State for model Receiver1 is current ACK is: 4 & size is: 10
+State for model NetworkDelay1 is current PacketSequence is: 5 & size is: 10
+State for model SwitchBuffer1 is current PacketSequence is: 4 & size is: 10 & BufferSize is: 18
+State for model NetworkDelay2 is current PacketSequence is: 1 & size is: 10
+State for model SwitchBuffer2 is current PacketSequence is: 0 & size is: 0 & BufferSize is: 20
+00:00:00:070
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 10|| seq # is: 1 || totalGeneratedSize is: 110
+State for model PacketForwarder1 is current size is: 10|| seq # is: 10
+State for model Retransmission1 is current index is: 10|| dataLoss is: 0
+State for model Receiver1 is current ACK is: 4 & size is: 10
+State for model NetworkDelay1 is current PacketSequence is: 5 & size is: 10
+State for model SwitchBuffer1 is current PacketSequence is: 4 & size is: 10 & BufferSize is: 18
+State for model NetworkDelay2 is current PacketSequence is: 1 & size is: 10
+State for model SwitchBuffer2 is current PacketSequence is: 0 & size is: 0 & BufferSize is: 20
+00:00:00:075
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 10|| seq # is: 1 || totalGeneratedSize is: 110
+State for model PacketForwarder1 is current size is: 10|| seq # is: 10
+State for model Retransmission1 is current index is: 10|| dataLoss is: 0
+State for model Receiver1 is current ACK is: 4 & size is: 10
+State for model NetworkDelay1 is current PacketSequence is: 6 & size is: 10
+State for model SwitchBuffer1 is current PacketSequence is: 5 & size is: 10 & BufferSize is: 0
+State for model NetworkDelay2 is current PacketSequence is: 1 & size is: 10
+State for model SwitchBuffer2 is current PacketSequence is: 0 & size is: 0 & BufferSize is: 20
+00:00:00:080
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 10|| seq # is: 1 || totalGeneratedSize is: 110
+State for model PacketForwarder1 is current size is: 10|| seq # is: 10
+State for model Retransmission1 is current index is: 10|| dataLoss is: 0
+State for model Receiver1 is current ACK is: 4 & size is: 10
+State for model NetworkDelay1 is current PacketSequence is: 7 & size is: 10
+State for model SwitchBuffer1 is current PacketSequence is: 6 & size is: 10 & BufferSize is: 39
+State for model NetworkDelay2 is current PacketSequence is: 1 & size is: 10
+State for model SwitchBuffer2 is current PacketSequence is: 0 & size is: 0 & BufferSize is: 20
+00:00:00:080
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 10|| seq # is: 1 || totalGeneratedSize is: 110
+State for model PacketForwarder1 is current size is: 10|| seq # is: 10
+State for model Retransmission1 is current index is: 10|| dataLoss is: 0
+State for model Receiver1 is current ACK is: 6 & size is: 10
+State for model NetworkDelay1 is current PacketSequence is: 7 & size is: 10
+State for model SwitchBuffer1 is current PacketSequence is: 6 & size is: 10 & BufferSize is: 39
+State for model NetworkDelay2 is current PacketSequence is: 1 & size is: 10
+State for model SwitchBuffer2 is current PacketSequence is: 0 & size is: 0 & BufferSize is: 20
+00:00:00:080
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 10|| seq # is: 1 || totalGeneratedSize is: 110
+State for model PacketForwarder1 is current size is: 10|| seq # is: 10
+State for model Retransmission1 is current index is: 10|| dataLoss is: 0
+State for model Receiver1 is current ACK is: 6 & size is: 10
+State for model NetworkDelay1 is current PacketSequence is: 7 & size is: 10
+State for model SwitchBuffer1 is current PacketSequence is: 6 & size is: 10 & BufferSize is: 39
+State for model NetworkDelay2 is current PacketSequence is: 1 & size is: 10
+State for model SwitchBuffer2 is current PacketSequence is: 0 & size is: 0 & BufferSize is: 20
+00:00:00:085
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 10|| seq # is: 1 || totalGeneratedSize is: 110
+State for model PacketForwarder1 is current size is: 10|| seq # is: 10
+State for model Retransmission1 is current index is: 10|| dataLoss is: 0
+State for model Receiver1 is current ACK is: 6 & size is: 10
+State for model NetworkDelay1 is current PacketSequence is: 8 & size is: 10
+State for model SwitchBuffer1 is current PacketSequence is: 7 & size is: 10 & BufferSize is: 16
+State for model NetworkDelay2 is current PacketSequence is: 1 & size is: 10
+State for model SwitchBuffer2 is current PacketSequence is: 0 & size is: 0 & BufferSize is: 20
+00:00:00:085
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 10|| seq # is: 1 || totalGeneratedSize is: 110
+State for model PacketForwarder1 is current size is: 10|| seq # is: 10
+State for model Retransmission1 is current index is: 10|| dataLoss is: 0
+State for model Receiver1 is current ACK is: 7 & size is: 10
+State for model NetworkDelay1 is current PacketSequence is: 8 & size is: 10
+State for model SwitchBuffer1 is current PacketSequence is: 7 & size is: 10 & BufferSize is: 16
+State for model NetworkDelay2 is current PacketSequence is: 1 & size is: 10
+State for model SwitchBuffer2 is current PacketSequence is: 0 & size is: 0 & BufferSize is: 20
+00:00:00:085
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 10|| seq # is: 1 || totalGeneratedSize is: 110
+State for model PacketForwarder1 is current size is: 10|| seq # is: 10
+State for model Retransmission1 is current index is: 10|| dataLoss is: 0
+State for model Receiver1 is current ACK is: 7 & size is: 10
+State for model NetworkDelay1 is current PacketSequence is: 8 & size is: 10
+State for model SwitchBuffer1 is current PacketSequence is: 7 & size is: 10 & BufferSize is: 16
+State for model NetworkDelay2 is current PacketSequence is: 1 & size is: 10
+State for model SwitchBuffer2 is current PacketSequence is: 0 & size is: 0 & BufferSize is: 20
+00:00:00:090
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 10|| seq # is: 1 || totalGeneratedSize is: 110
+State for model PacketForwarder1 is current size is: 10|| seq # is: 10
+State for model Retransmission1 is current index is: 10|| dataLoss is: 0
+State for model Receiver1 is current ACK is: 7 & size is: 10
+State for model NetworkDelay1 is current PacketSequence is: 9 & size is: 10
+State for model SwitchBuffer1 is current PacketSequence is: 8 & size is: 10 & BufferSize is: 33
+State for model NetworkDelay2 is current PacketSequence is: 1 & size is: 10
+State for model SwitchBuffer2 is current PacketSequence is: 0 & size is: 0 & BufferSize is: 20
+00:00:00:090
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 10|| seq # is: 1 || totalGeneratedSize is: 110
+State for model PacketForwarder1 is current size is: 10|| seq # is: 10
+State for model Retransmission1 is current index is: 10|| dataLoss is: 0
+State for model Receiver1 is current ACK is: 8 & size is: 10
+State for model NetworkDelay1 is current PacketSequence is: 9 & size is: 10
+State for model SwitchBuffer1 is current PacketSequence is: 8 & size is: 10 & BufferSize is: 33
+State for model NetworkDelay2 is current PacketSequence is: 1 & size is: 10
+State for model SwitchBuffer2 is current PacketSequence is: 0 & size is: 0 & BufferSize is: 20
+00:00:00:090
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 10|| seq # is: 1 || totalGeneratedSize is: 110
+State for model PacketForwarder1 is current size is: 10|| seq # is: 10
+State for model Retransmission1 is current index is: 10|| dataLoss is: 0
+State for model Receiver1 is current ACK is: 8 & size is: 10
+State for model NetworkDelay1 is current PacketSequence is: 9 & size is: 10
+State for model SwitchBuffer1 is current PacketSequence is: 8 & size is: 10 & BufferSize is: 33
+State for model NetworkDelay2 is current PacketSequence is: 1 & size is: 10
+State for model SwitchBuffer2 is current PacketSequence is: 0 & size is: 0 & BufferSize is: 20
+00:00:00:095
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 10|| seq # is: 1 || totalGeneratedSize is: 110
+State for model PacketForwarder1 is current size is: 10|| seq # is: 10
+State for model Retransmission1 is current index is: 10|| dataLoss is: 0
+State for model Receiver1 is current ACK is: 8 & size is: 10
+State for model NetworkDelay1 is current PacketSequence is: 10 & size is: 10
+State for model SwitchBuffer1 is current PacketSequence is: 9 & size is: 10 & BufferSize is: 19
+State for model NetworkDelay2 is current PacketSequence is: 1 & size is: 10
+State for model SwitchBuffer2 is current PacketSequence is: 0 & size is: 0 & BufferSize is: 20
+00:00:00:095
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 10|| seq # is: 1 || totalGeneratedSize is: 110
+State for model PacketForwarder1 is current size is: 10|| seq # is: 10
+State for model Retransmission1 is current index is: 10|| dataLoss is: 0
+State for model Receiver1 is current ACK is: 9 & size is: 10
+State for model NetworkDelay1 is current PacketSequence is: 10 & size is: 10
+State for model SwitchBuffer1 is current PacketSequence is: 9 & size is: 10 & BufferSize is: 19
+State for model NetworkDelay2 is current PacketSequence is: 1 & size is: 10
+State for model SwitchBuffer2 is current PacketSequence is: 0 & size is: 0 & BufferSize is: 20
+00:00:00:095
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 10|| seq # is: 1 || totalGeneratedSize is: 110
+State for model PacketForwarder1 is current size is: 10|| seq # is: 10
+State for model Retransmission1 is current index is: 10|| dataLoss is: 0
+State for model Receiver1 is current ACK is: 9 & size is: 10
+State for model NetworkDelay1 is current PacketSequence is: 10 & size is: 10
+State for model SwitchBuffer1 is current PacketSequence is: 9 & size is: 10 & BufferSize is: 19
+State for model NetworkDelay2 is current PacketSequence is: 1 & size is: 10
+State for model SwitchBuffer2 is current PacketSequence is: 0 & size is: 0 & BufferSize is: 20
+00:00:00:100
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 10|| seq # is: 1 || totalGeneratedSize is: 110
+State for model PacketForwarder1 is current size is: 10|| seq # is: 10
+State for model Retransmission1 is current index is: 10|| dataLoss is: 0
+State for model Receiver1 is current ACK is: 9 & size is: 10
+State for model NetworkDelay1 is current PacketSequence is: 10 & size is: 10
+State for model SwitchBuffer1 is current PacketSequence is: 10 & size is: 10 & BufferSize is: 1
+State for model NetworkDelay2 is current PacketSequence is: 1 & size is: 10
+State for model SwitchBuffer2 is current PacketSequence is: 0 & size is: 0 & BufferSize is: 20
+00:00:00:105
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 10|| seq # is: 1 || totalGeneratedSize is: 110
+State for model PacketForwarder1 is current size is: 10|| seq # is: 10
+State for model Retransmission1 is current index is: 10|| dataLoss is: 0
+State for model Receiver1 is current ACK is: 9 & size is: 10
+State for model NetworkDelay1 is current PacketSequence is: 10 & size is: 10
+State for model SwitchBuffer1 is current PacketSequence is: 10 & size is: 10 & BufferSize is: 1
+State for model NetworkDelay2 is current PacketSequence is: 3 & size is: 10
+State for model SwitchBuffer2 is current PacketSequence is: 1 & size is: 10 & BufferSize is: 35
+00:00:00:105
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 10|| seq # is: 1 || totalGeneratedSize is: 110
+State for model PacketForwarder1 is current size is: 10|| seq # is: 10
+State for model Retransmission1 is current index is: 10|| dataLoss is: 0
+State for model Receiver1 is current ACK is: 9 & size is: 10
+State for model NetworkDelay1 is current PacketSequence is: 10 & size is: 10
+State for model SwitchBuffer1 is current PacketSequence is: 10 & size is: 10 & BufferSize is: 1
+State for model NetworkDelay2 is current PacketSequence is: 3 & size is: 10
+State for model SwitchBuffer2 is current PacketSequence is: 1 & size is: 10 & BufferSize is: 35
+00:00:00:115
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 10|| seq # is: 1 || totalGeneratedSize is: 110
+State for model PacketForwarder1 is current size is: 10|| seq # is: 10
+State for model Retransmission1 is current index is: 10|| dataLoss is: 0
+State for model Receiver1 is current ACK is: 9 & size is: 10
+State for model NetworkDelay1 is current PacketSequence is: 10 & size is: 10
+State for model SwitchBuffer1 is current PacketSequence is: 10 & size is: 10 & BufferSize is: 1
+State for model NetworkDelay2 is current PacketSequence is: 4 & size is: 10
+State for model SwitchBuffer2 is current PacketSequence is: 3 & size is: 10 & BufferSize is: 25
+00:00:00:115
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 10|| seq # is: 1 || totalGeneratedSize is: 110
+State for model PacketForwarder1 is current size is: 10|| seq # is: 10
+State for model Retransmission1 is current index is: 10|| dataLoss is: 0
+State for model Receiver1 is current ACK is: 9 & size is: 10
+State for model NetworkDelay1 is current PacketSequence is: 10 & size is: 10
+State for model SwitchBuffer1 is current PacketSequence is: 10 & size is: 10 & BufferSize is: 1
+State for model NetworkDelay2 is current PacketSequence is: 4 & size is: 10
+State for model SwitchBuffer2 is current PacketSequence is: 3 & size is: 10 & BufferSize is: 25
+00:00:00:120
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 10|| seq # is: 1 || totalGeneratedSize is: 110
+State for model PacketForwarder1 is current size is: 10|| seq # is: 10
+State for model Retransmission1 is current index is: 10|| dataLoss is: 0
+State for model Receiver1 is current ACK is: 9 & size is: 10
+State for model NetworkDelay1 is current PacketSequence is: 10 & size is: 10
+State for model SwitchBuffer1 is current PacketSequence is: 10 & size is: 10 & BufferSize is: 1
+State for model NetworkDelay2 is current PacketSequence is: 6 & size is: 10
+State for model SwitchBuffer2 is current PacketSequence is: 4 & size is: 10 & BufferSize is: 3
+00:00:00:130
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 10|| seq # is: 1 || totalGeneratedSize is: 110
+State for model PacketForwarder1 is current size is: 10|| seq # is: 10
+State for model Retransmission1 is current index is: 10|| dataLoss is: 0
+State for model Receiver1 is current ACK is: 9 & size is: 10
+State for model NetworkDelay1 is current PacketSequence is: 10 & size is: 10
+State for model SwitchBuffer1 is current PacketSequence is: 10 & size is: 10 & BufferSize is: 1
+State for model NetworkDelay2 is current PacketSequence is: 7 & size is: 10
+State for model SwitchBuffer2 is current PacketSequence is: 6 & size is: 10 & BufferSize is: 31
+00:00:00:130
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 10|| seq # is: 1 || totalGeneratedSize is: 110
+State for model PacketForwarder1 is current size is: 10|| seq # is: 10
+State for model Retransmission1 is current index is: 10|| dataLoss is: 0
+State for model Receiver1 is current ACK is: 9 & size is: 10
+State for model NetworkDelay1 is current PacketSequence is: 10 & size is: 10
+State for model SwitchBuffer1 is current PacketSequence is: 10 & size is: 10 & BufferSize is: 1
+State for model NetworkDelay2 is current PacketSequence is: 7 & size is: 10
+State for model SwitchBuffer2 is current PacketSequence is: 6 & size is: 10 & BufferSize is: 31
+00:00:00:135
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 10|| seq # is: 1 || totalGeneratedSize is: 110
+State for model PacketForwarder1 is current size is: 10|| seq # is: 10
+State for model Retransmission1 is current index is: 10|| dataLoss is: 0
+State for model Receiver1 is current ACK is: 9 & size is: 10
+State for model NetworkDelay1 is current PacketSequence is: 10 & size is: 10
+State for model SwitchBuffer1 is current PacketSequence is: 10 & size is: 10 & BufferSize is: 1
+State for model NetworkDelay2 is current PacketSequence is: 8 & size is: 10
+State for model SwitchBuffer2 is current PacketSequence is: 7 & size is: 10 & BufferSize is: 1
+00:00:00:140
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 10|| seq # is: 1 || totalGeneratedSize is: 110
+State for model PacketForwarder1 is current size is: 10|| seq # is: 10
+State for model Retransmission1 is current index is: 10|| dataLoss is: 0
+State for model Receiver1 is current ACK is: 9 & size is: 10
+State for model NetworkDelay1 is current PacketSequence is: 10 & size is: 10
+State for model SwitchBuffer1 is current PacketSequence is: 10 & size is: 10 & BufferSize is: 1
+State for model NetworkDelay2 is current PacketSequence is: 9 & size is: 10
+State for model SwitchBuffer2 is current PacketSequence is: 8 & size is: 10 & BufferSize is: 3
+00:00:00:145
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 10|| seq # is: 1 || totalGeneratedSize is: 110
+State for model PacketForwarder1 is current size is: 10|| seq # is: 10
+State for model Retransmission1 is current index is: 10|| dataLoss is: 0
+State for model Receiver1 is current ACK is: 9 & size is: 10
+State for model NetworkDelay1 is current PacketSequence is: 10 & size is: 10
+State for model SwitchBuffer1 is current PacketSequence is: 10 & size is: 10 & BufferSize is: 1
+State for model NetworkDelay2 is current PacketSequence is: 9 & size is: 10
+State for model SwitchBuffer2 is current PacketSequence is: 9 & size is: 10 & BufferSize is: 10
+00:00:00:650
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 10|| seq # is: 1 || totalGeneratedSize is: 110
+State for model PacketForwarder1 is current size is: 10|| seq # is: 10
+State for model Retransmission1 is current index is: 0|| dataLoss is: 70
+State for model Receiver1 is current ACK is: 9 & size is: 10
+State for model NetworkDelay1 is current PacketSequence is: 10 & size is: 10
+State for model SwitchBuffer1 is current PacketSequence is: 10 & size is: 10 & BufferSize is: 1
+State for model NetworkDelay2 is current PacketSequence is: 9 & size is: 10
+State for model SwitchBuffer2 is current PacketSequence is: 9 & size is: 10 & BufferSize is: 10
+00:00:00:655
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 10|| seq # is: 1 || totalGeneratedSize is: 110
+State for model PacketForwarder1 is current size is: 10|| seq # is: 10
+State for model Retransmission1 is current index is: 0|| dataLoss is: 70
+State for model Receiver1 is current ACK is: 9 & size is: 10
+State for model NetworkDelay1 is current PacketSequence is: 10 & size is: 10
+State for model SwitchBuffer1 is current PacketSequence is: 10 & size is: 10 & BufferSize is: 1
+State for model NetworkDelay2 is current PacketSequence is: 9 & size is: 10
+State for model SwitchBuffer2 is current PacketSequence is: 9 & size is: 10 & BufferSize is: 10
+00:00:00:655
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 10|| seq # is: 1 || totalGeneratedSize is: 110
+State for model PacketForwarder1 is current size is: 10|| seq # is: 10
+State for model Retransmission1 is current index is: 0|| dataLoss is: 70
+State for model Receiver1 is current ACK is: 9 & size is: 10
+State for model NetworkDelay1 is current PacketSequence is: 10 & size is: 10
+State for model SwitchBuffer1 is current PacketSequence is: 10 & size is: 10 & BufferSize is: 1
+State for model NetworkDelay2 is current PacketSequence is: 9 & size is: 10
+State for model SwitchBuffer2 is current PacketSequence is: 9 & size is: 10 & BufferSize is: 10
+00:00:00:660
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 10|| seq # is: 1 || totalGeneratedSize is: 110
+State for model PacketForwarder1 is current size is: 10|| seq # is: 9
+State for model Retransmission1 is current index is: 0|| dataLoss is: 70
+State for model Receiver1 is current ACK is: 9 & size is: 10
+State for model NetworkDelay1 is current PacketSequence is: 10 & size is: 10
+State for model SwitchBuffer1 is current PacketSequence is: 10 & size is: 10 & BufferSize is: 1
+State for model NetworkDelay2 is current PacketSequence is: 9 & size is: 10
+State for model SwitchBuffer2 is current PacketSequence is: 9 & size is: 10 & BufferSize is: 10
+00:00:00:660
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 10|| seq # is: 1 || totalGeneratedSize is: 110
+State for model PacketForwarder1 is current size is: 10|| seq # is: 9
+State for model Retransmission1 is current index is: 0|| dataLoss is: 70
+State for model Receiver1 is current ACK is: 9 & size is: 10
+State for model NetworkDelay1 is current PacketSequence is: 10 & size is: 10
+State for model SwitchBuffer1 is current PacketSequence is: 10 & size is: 10 & BufferSize is: 1
+State for model NetworkDelay2 is current PacketSequence is: 9 & size is: 10
+State for model SwitchBuffer2 is current PacketSequence is: 9 & size is: 10 & BufferSize is: 10
+00:00:00:665
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 10|| seq # is: 1 || totalGeneratedSize is: 110
+State for model PacketForwarder1 is current size is: 10|| seq # is: 8
+State for model Retransmission1 is current index is: 0|| dataLoss is: 70
+State for model Receiver1 is current ACK is: 9 & size is: 10
+State for model NetworkDelay1 is current PacketSequence is: 10 & size is: 10
+State for model SwitchBuffer1 is current PacketSequence is: 10 & size is: 10 & BufferSize is: 1
+State for model NetworkDelay2 is current PacketSequence is: 9 & size is: 10
+State for model SwitchBuffer2 is current PacketSequence is: 9 & size is: 10 & BufferSize is: 10
+00:00:00:665
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 10|| seq # is: 1 || totalGeneratedSize is: 110
+State for model PacketForwarder1 is current size is: 10|| seq # is: 8
+State for model Retransmission1 is current index is: 0|| dataLoss is: 70
+State for model Receiver1 is current ACK is: 9 & size is: 10
+State for model NetworkDelay1 is current PacketSequence is: 10 & size is: 10
+State for model SwitchBuffer1 is current PacketSequence is: 10 & size is: 10 & BufferSize is: 1
+State for model NetworkDelay2 is current PacketSequence is: 9 & size is: 10
+State for model SwitchBuffer2 is current PacketSequence is: 9 & size is: 10 & BufferSize is: 10
+00:00:00:670
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 10|| seq # is: 1 || totalGeneratedSize is: 110
+State for model PacketForwarder1 is current size is: 10|| seq # is: 7
+State for model Retransmission1 is current index is: 0|| dataLoss is: 70
+State for model Receiver1 is current ACK is: 9 & size is: 10
+State for model NetworkDelay1 is current PacketSequence is: 10 & size is: 10
+State for model SwitchBuffer1 is current PacketSequence is: 10 & size is: 10 & BufferSize is: 1
+State for model NetworkDelay2 is current PacketSequence is: 9 & size is: 10
+State for model SwitchBuffer2 is current PacketSequence is: 9 & size is: 10 & BufferSize is: 10
+00:00:00:670
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 10|| seq # is: 1 || totalGeneratedSize is: 110
+State for model PacketForwarder1 is current size is: 10|| seq # is: 7
+State for model Retransmission1 is current index is: 0|| dataLoss is: 70
+State for model Receiver1 is current ACK is: 9 & size is: 10
+State for model NetworkDelay1 is current PacketSequence is: 10 & size is: 10
+State for model SwitchBuffer1 is current PacketSequence is: 10 & size is: 10 & BufferSize is: 1
+State for model NetworkDelay2 is current PacketSequence is: 9 & size is: 10
+State for model SwitchBuffer2 is current PacketSequence is: 9 & size is: 10 & BufferSize is: 10
+00:00:00:675
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 10|| seq # is: 1 || totalGeneratedSize is: 110
+State for model PacketForwarder1 is current size is: 10|| seq # is: 5
+State for model Retransmission1 is current index is: 0|| dataLoss is: 70
+State for model Receiver1 is current ACK is: 9 & size is: 10
+State for model NetworkDelay1 is current PacketSequence is: 10 & size is: 10
+State for model SwitchBuffer1 is current PacketSequence is: 10 & size is: 10 & BufferSize is: 1
+State for model NetworkDelay2 is current PacketSequence is: 9 & size is: 10
+State for model SwitchBuffer2 is current PacketSequence is: 9 & size is: 10 & BufferSize is: 10
+00:00:00:675
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 10|| seq # is: 1 || totalGeneratedSize is: 110
+State for model PacketForwarder1 is current size is: 10|| seq # is: 5
+State for model Retransmission1 is current index is: 0|| dataLoss is: 70
+State for model Receiver1 is current ACK is: 9 & size is: 10
+State for model NetworkDelay1 is current PacketSequence is: 10 & size is: 10
+State for model SwitchBuffer1 is current PacketSequence is: 10 & size is: 10 & BufferSize is: 1
+State for model NetworkDelay2 is current PacketSequence is: 9 & size is: 10
+State for model SwitchBuffer2 is current PacketSequence is: 9 & size is: 10 & BufferSize is: 10
+00:00:00:680
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 10|| seq # is: 1 || totalGeneratedSize is: 110
+State for model PacketForwarder1 is current size is: 10|| seq # is: 4
+State for model Retransmission1 is current index is: 0|| dataLoss is: 70
+State for model Receiver1 is current ACK is: 9 & size is: 10
+State for model NetworkDelay1 is current PacketSequence is: 10 & size is: 10
+State for model SwitchBuffer1 is current PacketSequence is: 10 & size is: 10 & BufferSize is: 1
+State for model NetworkDelay2 is current PacketSequence is: 9 & size is: 10
+State for model SwitchBuffer2 is current PacketSequence is: 9 & size is: 10 & BufferSize is: 10
+00:00:00:680
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 10|| seq # is: 1 || totalGeneratedSize is: 110
+State for model PacketForwarder1 is current size is: 10|| seq # is: 4
+State for model Retransmission1 is current index is: 0|| dataLoss is: 70
+State for model Receiver1 is current ACK is: 9 & size is: 10
+State for model NetworkDelay1 is current PacketSequence is: 10 & size is: 10
+State for model SwitchBuffer1 is current PacketSequence is: 10 & size is: 10 & BufferSize is: 1
+State for model NetworkDelay2 is current PacketSequence is: 9 & size is: 10
+State for model SwitchBuffer2 is current PacketSequence is: 9 & size is: 10 & BufferSize is: 10
+00:00:00:685
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 10|| seq # is: 1 || totalGeneratedSize is: 110
+State for model PacketForwarder1 is current size is: 10|| seq # is: 2
+State for model Retransmission1 is current index is: 0|| dataLoss is: 70
+State for model Receiver1 is current ACK is: 9 & size is: 10
+State for model NetworkDelay1 is current PacketSequence is: 10 & size is: 10
+State for model SwitchBuffer1 is current PacketSequence is: 10 & size is: 10 & BufferSize is: 1
+State for model NetworkDelay2 is current PacketSequence is: 9 & size is: 10
+State for model SwitchBuffer2 is current PacketSequence is: 9 & size is: 10 & BufferSize is: 10
+00:00:00:685
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 10|| seq # is: 1 || totalGeneratedSize is: 110
+State for model PacketForwarder1 is current size is: 10|| seq # is: 2
+State for model Retransmission1 is current index is: 0|| dataLoss is: 70
+State for model Receiver1 is current ACK is: 9 & size is: 10
+State for model NetworkDelay1 is current PacketSequence is: 10 & size is: 10
+State for model SwitchBuffer1 is current PacketSequence is: 10 & size is: 10 & BufferSize is: 1
+State for model NetworkDelay2 is current PacketSequence is: 9 & size is: 10
+State for model SwitchBuffer2 is current PacketSequence is: 9 & size is: 10 & BufferSize is: 10
+00:00:00:690
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 10|| seq # is: 1 || totalGeneratedSize is: 110
+State for model PacketForwarder1 is current size is: 0|| seq # is: 0
+State for model Retransmission1 is current index is: 0|| dataLoss is: 70
+State for model Receiver1 is current ACK is: 9 & size is: 10
+State for model NetworkDelay1 is current PacketSequence is: 10 & size is: 10
+State for model SwitchBuffer1 is current PacketSequence is: 10 & size is: 10 & BufferSize is: 1
+State for model NetworkDelay2 is current PacketSequence is: 9 & size is: 10
+State for model SwitchBuffer2 is current PacketSequence is: 9 & size is: 10 & BufferSize is: 10
+00:00:00:690
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 10|| seq # is: 1 || totalGeneratedSize is: 110
+State for model PacketForwarder1 is current size is: 10|| seq # is: 2
+State for model Retransmission1 is current index is: 0|| dataLoss is: 70
+State for model Receiver1 is current ACK is: 9 & size is: 10
+State for model NetworkDelay1 is current PacketSequence is: 10 & size is: 10
+State for model SwitchBuffer1 is current PacketSequence is: 10 & size is: 10 & BufferSize is: 1
+State for model NetworkDelay2 is current PacketSequence is: 9 & size is: 10
+State for model SwitchBuffer2 is current PacketSequence is: 9 & size is: 10 & BufferSize is: 10
+00:00:00:695
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 10|| seq # is: 1 || totalGeneratedSize is: 110
+State for model PacketForwarder1 is current size is: 10|| seq # is: 4
+State for model Retransmission1 is current index is: 1|| dataLoss is: 70
+State for model Receiver1 is current ACK is: 9 & size is: 10
+State for model NetworkDelay1 is current PacketSequence is: 2 & size is: 10
+State for model SwitchBuffer1 is current PacketSequence is: 10 & size is: 10 & BufferSize is: 1
+State for model NetworkDelay2 is current PacketSequence is: 9 & size is: 10
+State for model SwitchBuffer2 is current PacketSequence is: 9 & size is: 10 & BufferSize is: 10
+00:00:00:700
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 10|| seq # is: 1 || totalGeneratedSize is: 110
+State for model PacketForwarder1 is current size is: 10|| seq # is: 5
+State for model Retransmission1 is current index is: 2|| dataLoss is: 70
+State for model Receiver1 is current ACK is: 9 & size is: 10
+State for model NetworkDelay1 is current PacketSequence is: 2 & size is: 10
+State for model SwitchBuffer1 is current PacketSequence is: 10 & size is: 10 & BufferSize is: 1
+State for model NetworkDelay2 is current PacketSequence is: 9 & size is: 10
+State for model SwitchBuffer2 is current PacketSequence is: 9 & size is: 10 & BufferSize is: 10
+00:00:00:705
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 10|| seq # is: 1 || totalGeneratedSize is: 110
+State for model PacketForwarder1 is current size is: 10|| seq # is: 7
+State for model Retransmission1 is current index is: 3|| dataLoss is: 70
+State for model Receiver1 is current ACK is: 9 & size is: 10
+State for model NetworkDelay1 is current PacketSequence is: 2 & size is: 10
+State for model SwitchBuffer1 is current PacketSequence is: 10 & size is: 10 & BufferSize is: 1
+State for model NetworkDelay2 is current PacketSequence is: 9 & size is: 10
+State for model SwitchBuffer2 is current PacketSequence is: 9 & size is: 10 & BufferSize is: 10
+00:00:00:710
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 10|| seq # is: 1 || totalGeneratedSize is: 110
+State for model PacketForwarder1 is current size is: 10|| seq # is: 8
+State for model Retransmission1 is current index is: 4|| dataLoss is: 70
+State for model Receiver1 is current ACK is: 9 & size is: 10
+State for model NetworkDelay1 is current PacketSequence is: 2 & size is: 10
+State for model SwitchBuffer1 is current PacketSequence is: 10 & size is: 10 & BufferSize is: 1
+State for model NetworkDelay2 is current PacketSequence is: 9 & size is: 10
+State for model SwitchBuffer2 is current PacketSequence is: 9 & size is: 10 & BufferSize is: 10
+00:00:00:715
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 10|| seq # is: 1 || totalGeneratedSize is: 110
+State for model PacketForwarder1 is current size is: 10|| seq # is: 9
+State for model Retransmission1 is current index is: 5|| dataLoss is: 70
+State for model Receiver1 is current ACK is: 9 & size is: 10
+State for model NetworkDelay1 is current PacketSequence is: 2 & size is: 10
+State for model SwitchBuffer1 is current PacketSequence is: 10 & size is: 10 & BufferSize is: 1
+State for model NetworkDelay2 is current PacketSequence is: 9 & size is: 10
+State for model SwitchBuffer2 is current PacketSequence is: 9 & size is: 10 & BufferSize is: 10
+00:00:00:720
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 10|| seq # is: 1 || totalGeneratedSize is: 110
+State for model PacketForwarder1 is current size is: 10|| seq # is: 10
+State for model Retransmission1 is current index is: 6|| dataLoss is: 70
+State for model Receiver1 is current ACK is: 9 & size is: 10
+State for model NetworkDelay1 is current PacketSequence is: 2 & size is: 10
+State for model SwitchBuffer1 is current PacketSequence is: 10 & size is: 10 & BufferSize is: 1
+State for model NetworkDelay2 is current PacketSequence is: 9 & size is: 10
+State for model SwitchBuffer2 is current PacketSequence is: 9 & size is: 10 & BufferSize is: 10
+00:00:00:725
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 10|| seq # is: 1 || totalGeneratedSize is: 110
+State for model PacketForwarder1 is current size is: 0|| seq # is: 0
+State for model Retransmission1 is current index is: 7|| dataLoss is: 70
+State for model Receiver1 is current ACK is: 9 & size is: 10
+State for model NetworkDelay1 is current PacketSequence is: 2 & size is: 10
+State for model SwitchBuffer1 is current PacketSequence is: 10 & size is: 10 & BufferSize is: 1
+State for model NetworkDelay2 is current PacketSequence is: 9 & size is: 10
+State for model SwitchBuffer2 is current PacketSequence is: 9 & size is: 10 & BufferSize is: 10
+00:00:00:745
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 10|| seq # is: 1 || totalGeneratedSize is: 110
+State for model PacketForwarder1 is current size is: 0|| seq # is: 0
+State for model Retransmission1 is current index is: 7|| dataLoss is: 70
+State for model Receiver1 is current ACK is: 9 & size is: 10
+State for model NetworkDelay1 is current PacketSequence is: 4 & size is: 10
+State for model SwitchBuffer1 is current PacketSequence is: 2 & size is: 10 & BufferSize is: 8
+State for model NetworkDelay2 is current PacketSequence is: 9 & size is: 10
+State for model SwitchBuffer2 is current PacketSequence is: 9 & size is: 10 & BufferSize is: 10
+00:00:00:750
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 10|| seq # is: 1 || totalGeneratedSize is: 110
+State for model PacketForwarder1 is current size is: 0|| seq # is: 0
+State for model Retransmission1 is current index is: 7|| dataLoss is: 70
+State for model Receiver1 is current ACK is: 9 & size is: 10
+State for model NetworkDelay1 is current PacketSequence is: 5 & size is: 10
+State for model SwitchBuffer1 is current PacketSequence is: 4 & size is: 10 & BufferSize is: 36
+State for model NetworkDelay2 is current PacketSequence is: 9 & size is: 10
+State for model SwitchBuffer2 is current PacketSequence is: 9 & size is: 10 & BufferSize is: 10
+00:00:00:750
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 10|| seq # is: 1 || totalGeneratedSize is: 110
+State for model PacketForwarder1 is current size is: 0|| seq # is: 0
+State for model Retransmission1 is current index is: 7|| dataLoss is: 70
+State for model Receiver1 is current ACK is: 4 & size is: 10
+State for model NetworkDelay1 is current PacketSequence is: 5 & size is: 10
+State for model SwitchBuffer1 is current PacketSequence is: 4 & size is: 10 & BufferSize is: 36
+State for model NetworkDelay2 is current PacketSequence is: 9 & size is: 10
+State for model SwitchBuffer2 is current PacketSequence is: 9 & size is: 10 & BufferSize is: 10
+00:00:00:750
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 10|| seq # is: 1 || totalGeneratedSize is: 110
+State for model PacketForwarder1 is current size is: 0|| seq # is: 0
+State for model Retransmission1 is current index is: 7|| dataLoss is: 70
+State for model Receiver1 is current ACK is: 4 & size is: 10
+State for model NetworkDelay1 is current PacketSequence is: 5 & size is: 10
+State for model SwitchBuffer1 is current PacketSequence is: 4 & size is: 10 & BufferSize is: 36
+State for model NetworkDelay2 is current PacketSequence is: 4 & size is: 10
+State for model SwitchBuffer2 is current PacketSequence is: 9 & size is: 10 & BufferSize is: 10
+00:00:00:755
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 10|| seq # is: 1 || totalGeneratedSize is: 110
+State for model PacketForwarder1 is current size is: 0|| seq # is: 0
+State for model Retransmission1 is current index is: 7|| dataLoss is: 70
+State for model Receiver1 is current ACK is: 4 & size is: 10
+State for model NetworkDelay1 is current PacketSequence is: 7 & size is: 10
+State for model SwitchBuffer1 is current PacketSequence is: 5 & size is: 10 & BufferSize is: 39
+State for model NetworkDelay2 is current PacketSequence is: 4 & size is: 10
+State for model SwitchBuffer2 is current PacketSequence is: 9 & size is: 10 & BufferSize is: 10
+00:00:00:755
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 10|| seq # is: 1 || totalGeneratedSize is: 110
+State for model PacketForwarder1 is current size is: 0|| seq # is: 0
+State for model Retransmission1 is current index is: 7|| dataLoss is: 70
+State for model Receiver1 is current ACK is: 5 & size is: 10
+State for model NetworkDelay1 is current PacketSequence is: 7 & size is: 10
+State for model SwitchBuffer1 is current PacketSequence is: 5 & size is: 10 & BufferSize is: 39
+State for model NetworkDelay2 is current PacketSequence is: 4 & size is: 10
+State for model SwitchBuffer2 is current PacketSequence is: 9 & size is: 10 & BufferSize is: 10
+00:00:00:755
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 10|| seq # is: 1 || totalGeneratedSize is: 110
+State for model PacketForwarder1 is current size is: 0|| seq # is: 0
+State for model Retransmission1 is current index is: 7|| dataLoss is: 70
+State for model Receiver1 is current ACK is: 5 & size is: 10
+State for model NetworkDelay1 is current PacketSequence is: 7 & size is: 10
+State for model SwitchBuffer1 is current PacketSequence is: 5 & size is: 10 & BufferSize is: 39
+State for model NetworkDelay2 is current PacketSequence is: 4 & size is: 10
+State for model SwitchBuffer2 is current PacketSequence is: 9 & size is: 10 & BufferSize is: 10
+00:00:00:760
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 10|| seq # is: 1 || totalGeneratedSize is: 110
+State for model PacketForwarder1 is current size is: 0|| seq # is: 0
+State for model Retransmission1 is current index is: 7|| dataLoss is: 70
+State for model Receiver1 is current ACK is: 5 & size is: 10
+State for model NetworkDelay1 is current PacketSequence is: 8 & size is: 10
+State for model SwitchBuffer1 is current PacketSequence is: 7 & size is: 10 & BufferSize is: 36
+State for model NetworkDelay2 is current PacketSequence is: 4 & size is: 10
+State for model SwitchBuffer2 is current PacketSequence is: 9 & size is: 10 & BufferSize is: 10
+00:00:00:760
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 10|| seq # is: 1 || totalGeneratedSize is: 110
+State for model PacketForwarder1 is current size is: 0|| seq # is: 0
+State for model Retransmission1 is current index is: 7|| dataLoss is: 70
+State for model Receiver1 is current ACK is: 7 & size is: 10
+State for model NetworkDelay1 is current PacketSequence is: 8 & size is: 10
+State for model SwitchBuffer1 is current PacketSequence is: 7 & size is: 10 & BufferSize is: 36
+State for model NetworkDelay2 is current PacketSequence is: 4 & size is: 10
+State for model SwitchBuffer2 is current PacketSequence is: 9 & size is: 10 & BufferSize is: 10
+00:00:00:760
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 10|| seq # is: 1 || totalGeneratedSize is: 110
+State for model PacketForwarder1 is current size is: 0|| seq # is: 0
+State for model Retransmission1 is current index is: 7|| dataLoss is: 70
+State for model Receiver1 is current ACK is: 7 & size is: 10
+State for model NetworkDelay1 is current PacketSequence is: 8 & size is: 10
+State for model SwitchBuffer1 is current PacketSequence is: 7 & size is: 10 & BufferSize is: 36
+State for model NetworkDelay2 is current PacketSequence is: 4 & size is: 10
+State for model SwitchBuffer2 is current PacketSequence is: 9 & size is: 10 & BufferSize is: 10
+00:00:00:765
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 10|| seq # is: 1 || totalGeneratedSize is: 110
+State for model PacketForwarder1 is current size is: 0|| seq # is: 0
+State for model Retransmission1 is current index is: 7|| dataLoss is: 70
+State for model Receiver1 is current ACK is: 7 & size is: 10
+State for model NetworkDelay1 is current PacketSequence is: 9 & size is: 10
+State for model SwitchBuffer1 is current PacketSequence is: 8 & size is: 10 & BufferSize is: 18
+State for model NetworkDelay2 is current PacketSequence is: 4 & size is: 10
+State for model SwitchBuffer2 is current PacketSequence is: 9 & size is: 10 & BufferSize is: 10
+00:00:00:765
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 10|| seq # is: 1 || totalGeneratedSize is: 110
+State for model PacketForwarder1 is current size is: 0|| seq # is: 0
+State for model Retransmission1 is current index is: 7|| dataLoss is: 70
+State for model Receiver1 is current ACK is: 8 & size is: 10
+State for model NetworkDelay1 is current PacketSequence is: 9 & size is: 10
+State for model SwitchBuffer1 is current PacketSequence is: 8 & size is: 10 & BufferSize is: 18
+State for model NetworkDelay2 is current PacketSequence is: 4 & size is: 10
+State for model SwitchBuffer2 is current PacketSequence is: 9 & size is: 10 & BufferSize is: 10
+00:00:00:765
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 10|| seq # is: 1 || totalGeneratedSize is: 110
+State for model PacketForwarder1 is current size is: 0|| seq # is: 0
+State for model Retransmission1 is current index is: 7|| dataLoss is: 70
+State for model Receiver1 is current ACK is: 8 & size is: 10
+State for model NetworkDelay1 is current PacketSequence is: 9 & size is: 10
+State for model SwitchBuffer1 is current PacketSequence is: 8 & size is: 10 & BufferSize is: 18
+State for model NetworkDelay2 is current PacketSequence is: 4 & size is: 10
+State for model SwitchBuffer2 is current PacketSequence is: 9 & size is: 10 & BufferSize is: 10
+00:00:00:770
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 10|| seq # is: 1 || totalGeneratedSize is: 110
+State for model PacketForwarder1 is current size is: 0|| seq # is: 0
+State for model Retransmission1 is current index is: 7|| dataLoss is: 70
+State for model Receiver1 is current ACK is: 8 & size is: 10
+State for model NetworkDelay1 is current PacketSequence is: 10 & size is: 10
+State for model SwitchBuffer1 is current PacketSequence is: 9 & size is: 10 & BufferSize is: 15
+State for model NetworkDelay2 is current PacketSequence is: 4 & size is: 10
+State for model SwitchBuffer2 is current PacketSequence is: 9 & size is: 10 & BufferSize is: 10
+00:00:00:770
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 10|| seq # is: 1 || totalGeneratedSize is: 110
+State for model PacketForwarder1 is current size is: 0|| seq # is: 0
+State for model Retransmission1 is current index is: 7|| dataLoss is: 70
+State for model Receiver1 is current ACK is: 9 & size is: 10
+State for model NetworkDelay1 is current PacketSequence is: 10 & size is: 10
+State for model SwitchBuffer1 is current PacketSequence is: 9 & size is: 10 & BufferSize is: 15
+State for model NetworkDelay2 is current PacketSequence is: 4 & size is: 10
+State for model SwitchBuffer2 is current PacketSequence is: 9 & size is: 10 & BufferSize is: 10
+00:00:00:770
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 10|| seq # is: 1 || totalGeneratedSize is: 110
+State for model PacketForwarder1 is current size is: 0|| seq # is: 0
+State for model Retransmission1 is current index is: 7|| dataLoss is: 70
+State for model Receiver1 is current ACK is: 9 & size is: 10
+State for model NetworkDelay1 is current PacketSequence is: 10 & size is: 10
+State for model SwitchBuffer1 is current PacketSequence is: 9 & size is: 10 & BufferSize is: 15
+State for model NetworkDelay2 is current PacketSequence is: 4 & size is: 10
+State for model SwitchBuffer2 is current PacketSequence is: 9 & size is: 10 & BufferSize is: 10
+00:00:00:775
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 10|| seq # is: 1 || totalGeneratedSize is: 110
+State for model PacketForwarder1 is current size is: 0|| seq # is: 0
+State for model Retransmission1 is current index is: 7|| dataLoss is: 70
+State for model Receiver1 is current ACK is: 9 & size is: 10
+State for model NetworkDelay1 is current PacketSequence is: 10 & size is: 10
+State for model SwitchBuffer1 is current PacketSequence is: 10 & size is: 10 & BufferSize is: 30
+State for model NetworkDelay2 is current PacketSequence is: 4 & size is: 10
+State for model SwitchBuffer2 is current PacketSequence is: 9 & size is: 10 & BufferSize is: 10
+00:00:00:775
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 10|| seq # is: 1 || totalGeneratedSize is: 110
+State for model PacketForwarder1 is current size is: 0|| seq # is: 0
+State for model Retransmission1 is current index is: 7|| dataLoss is: 70
+State for model Receiver1 is current ACK is: 10 & size is: 10
+State for model NetworkDelay1 is current PacketSequence is: 10 & size is: 10
+State for model SwitchBuffer1 is current PacketSequence is: 10 & size is: 10 & BufferSize is: 30
+State for model NetworkDelay2 is current PacketSequence is: 4 & size is: 10
+State for model SwitchBuffer2 is current PacketSequence is: 9 & size is: 10 & BufferSize is: 10
+00:00:00:775
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 10|| seq # is: 1 || totalGeneratedSize is: 110
+State for model PacketForwarder1 is current size is: 0|| seq # is: 0
+State for model Retransmission1 is current index is: 7|| dataLoss is: 70
+State for model Receiver1 is current ACK is: 10 & size is: 10
+State for model NetworkDelay1 is current PacketSequence is: 10 & size is: 10
+State for model SwitchBuffer1 is current PacketSequence is: 10 & size is: 10 & BufferSize is: 30
+State for model NetworkDelay2 is current PacketSequence is: 4 & size is: 10
+State for model SwitchBuffer2 is current PacketSequence is: 9 & size is: 10 & BufferSize is: 10
+00:00:00:800
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 10|| seq # is: 1 || totalGeneratedSize is: 110
+State for model PacketForwarder1 is current size is: 0|| seq # is: 0
+State for model Retransmission1 is current index is: 7|| dataLoss is: 70
+State for model Receiver1 is current ACK is: 10 & size is: 10
+State for model NetworkDelay1 is current PacketSequence is: 10 & size is: 10
+State for model SwitchBuffer1 is current PacketSequence is: 10 & size is: 10 & BufferSize is: 30
+State for model NetworkDelay2 is current PacketSequence is: 5 & size is: 10
+State for model SwitchBuffer2 is current PacketSequence is: 4 & size is: 10 & BufferSize is: 8
+00:00:00:805
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 10|| seq # is: 1 || totalGeneratedSize is: 110
+State for model PacketForwarder1 is current size is: 0|| seq # is: 0
+State for model Retransmission1 is current index is: 7|| dataLoss is: 70
+State for model Receiver1 is current ACK is: 10 & size is: 10
+State for model NetworkDelay1 is current PacketSequence is: 10 & size is: 10
+State for model SwitchBuffer1 is current PacketSequence is: 10 & size is: 10 & BufferSize is: 30
+State for model NetworkDelay2 is current PacketSequence is: 7 & size is: 10
+State for model SwitchBuffer2 is current PacketSequence is: 5 & size is: 10 & BufferSize is: 0
+00:00:00:810
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 10|| seq # is: 1 || totalGeneratedSize is: 110
+State for model PacketForwarder1 is current size is: 0|| seq # is: 0
+State for model Retransmission1 is current index is: 7|| dataLoss is: 70
+State for model Receiver1 is current ACK is: 10 & size is: 10
+State for model NetworkDelay1 is current PacketSequence is: 10 & size is: 10
+State for model SwitchBuffer1 is current PacketSequence is: 10 & size is: 10 & BufferSize is: 30
+State for model NetworkDelay2 is current PacketSequence is: 8 & size is: 10
+State for model SwitchBuffer2 is current PacketSequence is: 7 & size is: 10 & BufferSize is: 17
+00:00:00:810
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 10|| seq # is: 1 || totalGeneratedSize is: 110
+State for model PacketForwarder1 is current size is: 0|| seq # is: 0
+State for model Retransmission1 is current index is: 7|| dataLoss is: 70
+State for model Receiver1 is current ACK is: 10 & size is: 10
+State for model NetworkDelay1 is current PacketSequence is: 10 & size is: 10
+State for model SwitchBuffer1 is current PacketSequence is: 10 & size is: 10 & BufferSize is: 30
+State for model NetworkDelay2 is current PacketSequence is: 8 & size is: 10
+State for model SwitchBuffer2 is current PacketSequence is: 7 & size is: 10 & BufferSize is: 17
+00:00:00:815
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 10|| seq # is: 1 || totalGeneratedSize is: 110
+State for model PacketForwarder1 is current size is: 0|| seq # is: 0
+State for model Retransmission1 is current index is: 7|| dataLoss is: 70
+State for model Receiver1 is current ACK is: 10 & size is: 10
+State for model NetworkDelay1 is current PacketSequence is: 10 & size is: 10
+State for model SwitchBuffer1 is current PacketSequence is: 10 & size is: 10 & BufferSize is: 30
+State for model NetworkDelay2 is current PacketSequence is: 9 & size is: 10
+State for model SwitchBuffer2 is current PacketSequence is: 8 & size is: 10 & BufferSize is: 18
+00:00:00:815
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 10|| seq # is: 1 || totalGeneratedSize is: 110
+State for model PacketForwarder1 is current size is: 0|| seq # is: 0
+State for model Retransmission1 is current index is: 7|| dataLoss is: 70
+State for model Receiver1 is current ACK is: 10 & size is: 10
+State for model NetworkDelay1 is current PacketSequence is: 10 & size is: 10
+State for model SwitchBuffer1 is current PacketSequence is: 10 & size is: 10 & BufferSize is: 30
+State for model NetworkDelay2 is current PacketSequence is: 9 & size is: 10
+State for model SwitchBuffer2 is current PacketSequence is: 8 & size is: 10 & BufferSize is: 18
+00:00:00:820
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 10|| seq # is: 1 || totalGeneratedSize is: 110
+State for model PacketForwarder1 is current size is: 0|| seq # is: 0
+State for model Retransmission1 is current index is: 7|| dataLoss is: 70
+State for model Receiver1 is current ACK is: 10 & size is: 10
+State for model NetworkDelay1 is current PacketSequence is: 10 & size is: 10
+State for model SwitchBuffer1 is current PacketSequence is: 10 & size is: 10 & BufferSize is: 30
+State for model NetworkDelay2 is current PacketSequence is: 10 & size is: 10
+State for model SwitchBuffer2 is current PacketSequence is: 9 & size is: 10 & BufferSize is: 6
+00:00:00:825
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 10|| seq # is: 1 || totalGeneratedSize is: 110
+State for model PacketForwarder1 is current size is: 0|| seq # is: 0
+State for model Retransmission1 is current index is: 7|| dataLoss is: 70
+State for model Receiver1 is current ACK is: 10 & size is: 10
+State for model NetworkDelay1 is current PacketSequence is: 10 & size is: 10
+State for model SwitchBuffer1 is current PacketSequence is: 10 & size is: 10 & BufferSize is: 30
+State for model NetworkDelay2 is current PacketSequence is: 10 & size is: 10
+State for model SwitchBuffer2 is current PacketSequence is: 10 & size is: 10 & BufferSize is: 26
+00:00:00:825
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 10|| seq # is: 1 || totalGeneratedSize is: 110
+State for model PacketForwarder1 is current size is: 0|| seq # is: 0
+State for model Retransmission1 is current index is: 7|| dataLoss is: 70
+State for model Receiver1 is current ACK is: 10 & size is: 10
+State for model NetworkDelay1 is current PacketSequence is: 10 & size is: 10
+State for model SwitchBuffer1 is current PacketSequence is: 10 & size is: 10 & BufferSize is: 30
+State for model NetworkDelay2 is current PacketSequence is: 10 & size is: 10
+State for model SwitchBuffer2 is current PacketSequence is: 10 & size is: 10 & BufferSize is: 26
+00:00:01:325
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 10|| seq # is: 1 || totalGeneratedSize is: 110
+State for model PacketForwarder1 is current size is: 0|| seq # is: 0
+State for model Retransmission1 is current index is: 7|| dataLoss is: 70
+State for model Receiver1 is current ACK is: 10 & size is: 10
+State for model NetworkDelay1 is current PacketSequence is: 10 & size is: 10
+State for model SwitchBuffer1 is current PacketSequence is: 10 & size is: 10 & BufferSize is: 30
+State for model NetworkDelay2 is current PacketSequence is: 10 & size is: 10
+State for model SwitchBuffer2 is current PacketSequence is: 10 & size is: 10 & BufferSize is: 26
+00:00:01:325
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 5|| seq # is: 2 || totalGeneratedSize is: 115
+State for model PacketForwarder1 is current size is: 10|| seq # is: 1
+State for model Retransmission1 is current index is: 7|| dataLoss is: 70
+State for model Receiver1 is current ACK is: 10 & size is: 10
+State for model NetworkDelay1 is current PacketSequence is: 10 & size is: 10
+State for model SwitchBuffer1 is current PacketSequence is: 10 & size is: 10 & BufferSize is: 30
+State for model NetworkDelay2 is current PacketSequence is: 10 & size is: 10
+State for model SwitchBuffer2 is current PacketSequence is: 10 & size is: 10 & BufferSize is: 26
+00:00:01:330
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 5|| seq # is: 2 || totalGeneratedSize is: 115
+State for model PacketForwarder1 is current size is: 10|| seq # is: 1
+State for model Retransmission1 is current index is: 1|| dataLoss is: 70
+State for model Receiver1 is current ACK is: 10 & size is: 10
+State for model NetworkDelay1 is current PacketSequence is: 1 & size is: 10
+State for model SwitchBuffer1 is current PacketSequence is: 10 & size is: 10 & BufferSize is: 30
+State for model NetworkDelay2 is current PacketSequence is: 10 & size is: 10
+State for model SwitchBuffer2 is current PacketSequence is: 10 & size is: 10 & BufferSize is: 26
+00:00:01:330
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 5|| seq # is: 3 || totalGeneratedSize is: 120
+State for model PacketForwarder1 is current size is: 5|| seq # is: 2
+State for model Retransmission1 is current index is: 1|| dataLoss is: 70
+State for model Receiver1 is current ACK is: 10 & size is: 10
+State for model NetworkDelay1 is current PacketSequence is: 1 & size is: 10
+State for model SwitchBuffer1 is current PacketSequence is: 10 & size is: 10 & BufferSize is: 30
+State for model NetworkDelay2 is current PacketSequence is: 10 & size is: 10
+State for model SwitchBuffer2 is current PacketSequence is: 10 & size is: 10 & BufferSize is: 26
+00:00:01:335
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 5|| seq # is: 3 || totalGeneratedSize is: 120
+State for model PacketForwarder1 is current size is: 5|| seq # is: 2
+State for model Retransmission1 is current index is: 2|| dataLoss is: 70
+State for model Receiver1 is current ACK is: 10 & size is: 10
+State for model NetworkDelay1 is current PacketSequence is: 1 & size is: 10
+State for model SwitchBuffer1 is current PacketSequence is: 10 & size is: 10 & BufferSize is: 30
+State for model NetworkDelay2 is current PacketSequence is: 10 & size is: 10
+State for model SwitchBuffer2 is current PacketSequence is: 10 & size is: 10 & BufferSize is: 26
+00:00:01:335
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 5|| seq # is: 4 || totalGeneratedSize is: 125
+State for model PacketForwarder1 is current size is: 5|| seq # is: 3
+State for model Retransmission1 is current index is: 2|| dataLoss is: 70
+State for model Receiver1 is current ACK is: 10 & size is: 10
+State for model NetworkDelay1 is current PacketSequence is: 1 & size is: 10
+State for model SwitchBuffer1 is current PacketSequence is: 10 & size is: 10 & BufferSize is: 30
+State for model NetworkDelay2 is current PacketSequence is: 10 & size is: 10
+State for model SwitchBuffer2 is current PacketSequence is: 10 & size is: 10 & BufferSize is: 26
+00:00:01:340
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 5|| seq # is: 4 || totalGeneratedSize is: 125
+State for model PacketForwarder1 is current size is: 5|| seq # is: 3
+State for model Retransmission1 is current index is: 3|| dataLoss is: 70
+State for model Receiver1 is current ACK is: 10 & size is: 10
+State for model NetworkDelay1 is current PacketSequence is: 1 & size is: 10
+State for model SwitchBuffer1 is current PacketSequence is: 10 & size is: 10 & BufferSize is: 30
+State for model NetworkDelay2 is current PacketSequence is: 10 & size is: 10
+State for model SwitchBuffer2 is current PacketSequence is: 10 & size is: 10 & BufferSize is: 26
+00:00:01:340
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 5|| seq # is: 5 || totalGeneratedSize is: 130
+State for model PacketForwarder1 is current size is: 5|| seq # is: 4
+State for model Retransmission1 is current index is: 3|| dataLoss is: 70
+State for model Receiver1 is current ACK is: 10 & size is: 10
+State for model NetworkDelay1 is current PacketSequence is: 1 & size is: 10
+State for model SwitchBuffer1 is current PacketSequence is: 10 & size is: 10 & BufferSize is: 30
+State for model NetworkDelay2 is current PacketSequence is: 10 & size is: 10
+State for model SwitchBuffer2 is current PacketSequence is: 10 & size is: 10 & BufferSize is: 26
+00:00:01:345
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 5|| seq # is: 5 || totalGeneratedSize is: 130
+State for model PacketForwarder1 is current size is: 5|| seq # is: 4
+State for model Retransmission1 is current index is: 4|| dataLoss is: 70
+State for model Receiver1 is current ACK is: 10 & size is: 10
+State for model NetworkDelay1 is current PacketSequence is: 1 & size is: 10
+State for model SwitchBuffer1 is current PacketSequence is: 10 & size is: 10 & BufferSize is: 30
+State for model NetworkDelay2 is current PacketSequence is: 10 & size is: 10
+State for model SwitchBuffer2 is current PacketSequence is: 10 & size is: 10 & BufferSize is: 26
+00:00:01:345
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 5|| seq # is: 6 || totalGeneratedSize is: 135
+State for model PacketForwarder1 is current size is: 5|| seq # is: 5
+State for model Retransmission1 is current index is: 4|| dataLoss is: 70
+State for model Receiver1 is current ACK is: 10 & size is: 10
+State for model NetworkDelay1 is current PacketSequence is: 1 & size is: 10
+State for model SwitchBuffer1 is current PacketSequence is: 10 & size is: 10 & BufferSize is: 30
+State for model NetworkDelay2 is current PacketSequence is: 10 & size is: 10
+State for model SwitchBuffer2 is current PacketSequence is: 10 & size is: 10 & BufferSize is: 26
+00:00:01:350
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 5|| seq # is: 6 || totalGeneratedSize is: 135
+State for model PacketForwarder1 is current size is: 5|| seq # is: 5
+State for model Retransmission1 is current index is: 5|| dataLoss is: 70
+State for model Receiver1 is current ACK is: 10 & size is: 10
+State for model NetworkDelay1 is current PacketSequence is: 1 & size is: 10
+State for model SwitchBuffer1 is current PacketSequence is: 10 & size is: 10 & BufferSize is: 30
+State for model NetworkDelay2 is current PacketSequence is: 10 & size is: 10
+State for model SwitchBuffer2 is current PacketSequence is: 10 & size is: 10 & BufferSize is: 26
+00:00:01:350
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 5|| seq # is: 7 || totalGeneratedSize is: 140
+State for model PacketForwarder1 is current size is: 5|| seq # is: 6
+State for model Retransmission1 is current index is: 5|| dataLoss is: 70
+State for model Receiver1 is current ACK is: 10 & size is: 10
+State for model NetworkDelay1 is current PacketSequence is: 1 & size is: 10
+State for model SwitchBuffer1 is current PacketSequence is: 10 & size is: 10 & BufferSize is: 30
+State for model NetworkDelay2 is current PacketSequence is: 10 & size is: 10
+State for model SwitchBuffer2 is current PacketSequence is: 10 & size is: 10 & BufferSize is: 26
+00:00:01:355
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 5|| seq # is: 7 || totalGeneratedSize is: 140
+State for model PacketForwarder1 is current size is: 5|| seq # is: 6
+State for model Retransmission1 is current index is: 6|| dataLoss is: 70
+State for model Receiver1 is current ACK is: 10 & size is: 10
+State for model NetworkDelay1 is current PacketSequence is: 1 & size is: 10
+State for model SwitchBuffer1 is current PacketSequence is: 10 & size is: 10 & BufferSize is: 30
+State for model NetworkDelay2 is current PacketSequence is: 10 & size is: 10
+State for model SwitchBuffer2 is current PacketSequence is: 10 & size is: 10 & BufferSize is: 26
+00:00:01:355
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 5|| seq # is: 8 || totalGeneratedSize is: 145
+State for model PacketForwarder1 is current size is: 5|| seq # is: 7
+State for model Retransmission1 is current index is: 6|| dataLoss is: 70
+State for model Receiver1 is current ACK is: 10 & size is: 10
+State for model NetworkDelay1 is current PacketSequence is: 1 & size is: 10
+State for model SwitchBuffer1 is current PacketSequence is: 10 & size is: 10 & BufferSize is: 30
+State for model NetworkDelay2 is current PacketSequence is: 10 & size is: 10
+State for model SwitchBuffer2 is current PacketSequence is: 10 & size is: 10 & BufferSize is: 26
+00:00:01:360
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 5|| seq # is: 8 || totalGeneratedSize is: 145
+State for model PacketForwarder1 is current size is: 5|| seq # is: 7
+State for model Retransmission1 is current index is: 7|| dataLoss is: 70
+State for model Receiver1 is current ACK is: 10 & size is: 10
+State for model NetworkDelay1 is current PacketSequence is: 1 & size is: 10
+State for model SwitchBuffer1 is current PacketSequence is: 10 & size is: 10 & BufferSize is: 30
+State for model NetworkDelay2 is current PacketSequence is: 10 & size is: 10
+State for model SwitchBuffer2 is current PacketSequence is: 10 & size is: 10 & BufferSize is: 26
+00:00:01:360
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 5|| seq # is: 9 || totalGeneratedSize is: 150
+State for model PacketForwarder1 is current size is: 5|| seq # is: 8
+State for model Retransmission1 is current index is: 7|| dataLoss is: 70
+State for model Receiver1 is current ACK is: 10 & size is: 10
+State for model NetworkDelay1 is current PacketSequence is: 1 & size is: 10
+State for model SwitchBuffer1 is current PacketSequence is: 10 & size is: 10 & BufferSize is: 30
+State for model NetworkDelay2 is current PacketSequence is: 10 & size is: 10
+State for model SwitchBuffer2 is current PacketSequence is: 10 & size is: 10 & BufferSize is: 26
+00:00:01:365
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 5|| seq # is: 9 || totalGeneratedSize is: 150
+State for model PacketForwarder1 is current size is: 5|| seq # is: 8
+State for model Retransmission1 is current index is: 8|| dataLoss is: 70
+State for model Receiver1 is current ACK is: 10 & size is: 10
+State for model NetworkDelay1 is current PacketSequence is: 1 & size is: 10
+State for model SwitchBuffer1 is current PacketSequence is: 10 & size is: 10 & BufferSize is: 30
+State for model NetworkDelay2 is current PacketSequence is: 10 & size is: 10
+State for model SwitchBuffer2 is current PacketSequence is: 10 & size is: 10 & BufferSize is: 26
+00:00:01:365
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 5|| seq # is: 10 || totalGeneratedSize is: 155
+State for model PacketForwarder1 is current size is: 5|| seq # is: 9
+State for model Retransmission1 is current index is: 8|| dataLoss is: 70
+State for model Receiver1 is current ACK is: 10 & size is: 10
+State for model NetworkDelay1 is current PacketSequence is: 1 & size is: 10
+State for model SwitchBuffer1 is current PacketSequence is: 10 & size is: 10 & BufferSize is: 30
+State for model NetworkDelay2 is current PacketSequence is: 10 & size is: 10
+State for model SwitchBuffer2 is current PacketSequence is: 10 & size is: 10 & BufferSize is: 26
+00:00:01:370
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 5|| seq # is: 10 || totalGeneratedSize is: 155
+State for model PacketForwarder1 is current size is: 5|| seq # is: 9
+State for model Retransmission1 is current index is: 9|| dataLoss is: 70
+State for model Receiver1 is current ACK is: 10 & size is: 10
+State for model NetworkDelay1 is current PacketSequence is: 1 & size is: 10
+State for model SwitchBuffer1 is current PacketSequence is: 10 & size is: 10 & BufferSize is: 30
+State for model NetworkDelay2 is current PacketSequence is: 10 & size is: 10
+State for model SwitchBuffer2 is current PacketSequence is: 10 & size is: 10 & BufferSize is: 26
+00:00:01:370
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 5|| seq # is: 1 || totalGeneratedSize is: 160
+State for model PacketForwarder1 is current size is: 5|| seq # is: 10
+State for model Retransmission1 is current index is: 9|| dataLoss is: 70
+State for model Receiver1 is current ACK is: 10 & size is: 10
+State for model NetworkDelay1 is current PacketSequence is: 1 & size is: 10
+State for model SwitchBuffer1 is current PacketSequence is: 10 & size is: 10 & BufferSize is: 30
+State for model NetworkDelay2 is current PacketSequence is: 10 & size is: 10
+State for model SwitchBuffer2 is current PacketSequence is: 10 & size is: 10 & BufferSize is: 26
+00:00:01:375
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 5|| seq # is: 1 || totalGeneratedSize is: 160
+State for model PacketForwarder1 is current size is: 5|| seq # is: 10
+State for model Retransmission1 is current index is: 10|| dataLoss is: 70
+State for model Receiver1 is current ACK is: 10 & size is: 10
+State for model NetworkDelay1 is current PacketSequence is: 1 & size is: 10
+State for model SwitchBuffer1 is current PacketSequence is: 10 & size is: 10 & BufferSize is: 30
+State for model NetworkDelay2 is current PacketSequence is: 10 & size is: 10
+State for model SwitchBuffer2 is current PacketSequence is: 10 & size is: 10 & BufferSize is: 26
+00:00:01:380
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 5|| seq # is: 1 || totalGeneratedSize is: 160
+State for model PacketForwarder1 is current size is: 5|| seq # is: 10
+State for model Retransmission1 is current index is: 10|| dataLoss is: 70
+State for model Receiver1 is current ACK is: 10 & size is: 10
+State for model NetworkDelay1 is current PacketSequence is: 2 & size is: 5
+State for model SwitchBuffer1 is current PacketSequence is: 1 & size is: 10 & BufferSize is: 1
+State for model NetworkDelay2 is current PacketSequence is: 10 & size is: 10
+State for model SwitchBuffer2 is current PacketSequence is: 10 & size is: 10 & BufferSize is: 26
+00:00:01:385
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 5|| seq # is: 1 || totalGeneratedSize is: 160
+State for model PacketForwarder1 is current size is: 5|| seq # is: 10
+State for model Retransmission1 is current index is: 10|| dataLoss is: 70
+State for model Receiver1 is current ACK is: 10 & size is: 10
+State for model NetworkDelay1 is current PacketSequence is: 3 & size is: 5
+State for model SwitchBuffer1 is current PacketSequence is: 2 & size is: 5 & BufferSize is: 39
+State for model NetworkDelay2 is current PacketSequence is: 10 & size is: 10
+State for model SwitchBuffer2 is current PacketSequence is: 10 & size is: 10 & BufferSize is: 26
+00:00:01:385
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 5|| seq # is: 1 || totalGeneratedSize is: 160
+State for model PacketForwarder1 is current size is: 5|| seq # is: 10
+State for model Retransmission1 is current index is: 10|| dataLoss is: 70
+State for model Receiver1 is current ACK is: 2 & size is: 5
+State for model NetworkDelay1 is current PacketSequence is: 3 & size is: 5
+State for model SwitchBuffer1 is current PacketSequence is: 2 & size is: 5 & BufferSize is: 39
+State for model NetworkDelay2 is current PacketSequence is: 10 & size is: 10
+State for model SwitchBuffer2 is current PacketSequence is: 10 & size is: 10 & BufferSize is: 26
+00:00:01:385
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 5|| seq # is: 1 || totalGeneratedSize is: 160
+State for model PacketForwarder1 is current size is: 5|| seq # is: 10
+State for model Retransmission1 is current index is: 10|| dataLoss is: 70
+State for model Receiver1 is current ACK is: 2 & size is: 5
+State for model NetworkDelay1 is current PacketSequence is: 3 & size is: 5
+State for model SwitchBuffer1 is current PacketSequence is: 2 & size is: 5 & BufferSize is: 39
+State for model NetworkDelay2 is current PacketSequence is: 2 & size is: 5
+State for model SwitchBuffer2 is current PacketSequence is: 10 & size is: 10 & BufferSize is: 26
+00:00:01:390
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 5|| seq # is: 1 || totalGeneratedSize is: 160
+State for model PacketForwarder1 is current size is: 5|| seq # is: 10
+State for model Retransmission1 is current index is: 10|| dataLoss is: 70
+State for model Receiver1 is current ACK is: 2 & size is: 5
+State for model NetworkDelay1 is current PacketSequence is: 4 & size is: 5
+State for model SwitchBuffer1 is current PacketSequence is: 3 & size is: 5 & BufferSize is: 27
+State for model NetworkDelay2 is current PacketSequence is: 2 & size is: 5
+State for model SwitchBuffer2 is current PacketSequence is: 10 & size is: 10 & BufferSize is: 26
+00:00:01:390
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 5|| seq # is: 1 || totalGeneratedSize is: 160
+State for model PacketForwarder1 is current size is: 5|| seq # is: 10
+State for model Retransmission1 is current index is: 10|| dataLoss is: 70
+State for model Receiver1 is current ACK is: 3 & size is: 5
+State for model NetworkDelay1 is current PacketSequence is: 4 & size is: 5
+State for model SwitchBuffer1 is current PacketSequence is: 3 & size is: 5 & BufferSize is: 27
+State for model NetworkDelay2 is current PacketSequence is: 2 & size is: 5
+State for model SwitchBuffer2 is current PacketSequence is: 10 & size is: 10 & BufferSize is: 26
+00:00:01:390
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 5|| seq # is: 1 || totalGeneratedSize is: 160
+State for model PacketForwarder1 is current size is: 5|| seq # is: 10
+State for model Retransmission1 is current index is: 10|| dataLoss is: 70
+State for model Receiver1 is current ACK is: 3 & size is: 5
+State for model NetworkDelay1 is current PacketSequence is: 4 & size is: 5
+State for model SwitchBuffer1 is current PacketSequence is: 3 & size is: 5 & BufferSize is: 27
+State for model NetworkDelay2 is current PacketSequence is: 2 & size is: 5
+State for model SwitchBuffer2 is current PacketSequence is: 10 & size is: 10 & BufferSize is: 26
+00:00:01:395
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 5|| seq # is: 1 || totalGeneratedSize is: 160
+State for model PacketForwarder1 is current size is: 5|| seq # is: 10
+State for model Retransmission1 is current index is: 10|| dataLoss is: 70
+State for model Receiver1 is current ACK is: 3 & size is: 5
+State for model NetworkDelay1 is current PacketSequence is: 5 & size is: 5
+State for model SwitchBuffer1 is current PacketSequence is: 4 & size is: 5 & BufferSize is: 18
+State for model NetworkDelay2 is current PacketSequence is: 2 & size is: 5
+State for model SwitchBuffer2 is current PacketSequence is: 10 & size is: 10 & BufferSize is: 26
+00:00:01:395
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 5|| seq # is: 1 || totalGeneratedSize is: 160
+State for model PacketForwarder1 is current size is: 5|| seq # is: 10
+State for model Retransmission1 is current index is: 10|| dataLoss is: 70
+State for model Receiver1 is current ACK is: 4 & size is: 5
+State for model NetworkDelay1 is current PacketSequence is: 5 & size is: 5
+State for model SwitchBuffer1 is current PacketSequence is: 4 & size is: 5 & BufferSize is: 18
+State for model NetworkDelay2 is current PacketSequence is: 2 & size is: 5
+State for model SwitchBuffer2 is current PacketSequence is: 10 & size is: 10 & BufferSize is: 26
+00:00:01:395
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 5|| seq # is: 1 || totalGeneratedSize is: 160
+State for model PacketForwarder1 is current size is: 5|| seq # is: 10
+State for model Retransmission1 is current index is: 10|| dataLoss is: 70
+State for model Receiver1 is current ACK is: 4 & size is: 5
+State for model NetworkDelay1 is current PacketSequence is: 5 & size is: 5
+State for model SwitchBuffer1 is current PacketSequence is: 4 & size is: 5 & BufferSize is: 18
+State for model NetworkDelay2 is current PacketSequence is: 2 & size is: 5
+State for model SwitchBuffer2 is current PacketSequence is: 10 & size is: 10 & BufferSize is: 26
+00:00:01:400
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 5|| seq # is: 1 || totalGeneratedSize is: 160
+State for model PacketForwarder1 is current size is: 5|| seq # is: 10
+State for model Retransmission1 is current index is: 10|| dataLoss is: 70
+State for model Receiver1 is current ACK is: 4 & size is: 5
+State for model NetworkDelay1 is current PacketSequence is: 6 & size is: 5
+State for model SwitchBuffer1 is current PacketSequence is: 5 & size is: 5 & BufferSize is: 18
+State for model NetworkDelay2 is current PacketSequence is: 2 & size is: 5
+State for model SwitchBuffer2 is current PacketSequence is: 10 & size is: 10 & BufferSize is: 26
+00:00:01:400
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 5|| seq # is: 1 || totalGeneratedSize is: 160
+State for model PacketForwarder1 is current size is: 5|| seq # is: 10
+State for model Retransmission1 is current index is: 10|| dataLoss is: 70
+State for model Receiver1 is current ACK is: 5 & size is: 5
+State for model NetworkDelay1 is current PacketSequence is: 6 & size is: 5
+State for model SwitchBuffer1 is current PacketSequence is: 5 & size is: 5 & BufferSize is: 18
+State for model NetworkDelay2 is current PacketSequence is: 2 & size is: 5
+State for model SwitchBuffer2 is current PacketSequence is: 10 & size is: 10 & BufferSize is: 26
+00:00:01:400
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 5|| seq # is: 1 || totalGeneratedSize is: 160
+State for model PacketForwarder1 is current size is: 5|| seq # is: 10
+State for model Retransmission1 is current index is: 10|| dataLoss is: 70
+State for model Receiver1 is current ACK is: 5 & size is: 5
+State for model NetworkDelay1 is current PacketSequence is: 6 & size is: 5
+State for model SwitchBuffer1 is current PacketSequence is: 5 & size is: 5 & BufferSize is: 18
+State for model NetworkDelay2 is current PacketSequence is: 2 & size is: 5
+State for model SwitchBuffer2 is current PacketSequence is: 10 & size is: 10 & BufferSize is: 26
+00:00:01:405
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 5|| seq # is: 1 || totalGeneratedSize is: 160
+State for model PacketForwarder1 is current size is: 5|| seq # is: 10
+State for model Retransmission1 is current index is: 10|| dataLoss is: 70
+State for model Receiver1 is current ACK is: 5 & size is: 5
+State for model NetworkDelay1 is current PacketSequence is: 7 & size is: 5
+State for model SwitchBuffer1 is current PacketSequence is: 6 & size is: 5 & BufferSize is: 27
+State for model NetworkDelay2 is current PacketSequence is: 2 & size is: 5
+State for model SwitchBuffer2 is current PacketSequence is: 10 & size is: 10 & BufferSize is: 26
+00:00:01:405
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 5|| seq # is: 1 || totalGeneratedSize is: 160
+State for model PacketForwarder1 is current size is: 5|| seq # is: 10
+State for model Retransmission1 is current index is: 10|| dataLoss is: 70
+State for model Receiver1 is current ACK is: 6 & size is: 5
+State for model NetworkDelay1 is current PacketSequence is: 7 & size is: 5
+State for model SwitchBuffer1 is current PacketSequence is: 6 & size is: 5 & BufferSize is: 27
+State for model NetworkDelay2 is current PacketSequence is: 2 & size is: 5
+State for model SwitchBuffer2 is current PacketSequence is: 10 & size is: 10 & BufferSize is: 26
+00:00:01:405
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 5|| seq # is: 1 || totalGeneratedSize is: 160
+State for model PacketForwarder1 is current size is: 5|| seq # is: 10
+State for model Retransmission1 is current index is: 10|| dataLoss is: 70
+State for model Receiver1 is current ACK is: 6 & size is: 5
+State for model NetworkDelay1 is current PacketSequence is: 7 & size is: 5
+State for model SwitchBuffer1 is current PacketSequence is: 6 & size is: 5 & BufferSize is: 27
+State for model NetworkDelay2 is current PacketSequence is: 2 & size is: 5
+State for model SwitchBuffer2 is current PacketSequence is: 10 & size is: 10 & BufferSize is: 26
+00:00:01:410
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 5|| seq # is: 1 || totalGeneratedSize is: 160
+State for model PacketForwarder1 is current size is: 5|| seq # is: 10
+State for model Retransmission1 is current index is: 10|| dataLoss is: 70
+State for model Receiver1 is current ACK is: 6 & size is: 5
+State for model NetworkDelay1 is current PacketSequence is: 8 & size is: 5
+State for model SwitchBuffer1 is current PacketSequence is: 7 & size is: 5 & BufferSize is: 18
+State for model NetworkDelay2 is current PacketSequence is: 2 & size is: 5
+State for model SwitchBuffer2 is current PacketSequence is: 10 & size is: 10 & BufferSize is: 26
+00:00:01:410
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 5|| seq # is: 1 || totalGeneratedSize is: 160
+State for model PacketForwarder1 is current size is: 5|| seq # is: 10
+State for model Retransmission1 is current index is: 10|| dataLoss is: 70
+State for model Receiver1 is current ACK is: 7 & size is: 5
+State for model NetworkDelay1 is current PacketSequence is: 8 & size is: 5
+State for model SwitchBuffer1 is current PacketSequence is: 7 & size is: 5 & BufferSize is: 18
+State for model NetworkDelay2 is current PacketSequence is: 2 & size is: 5
+State for model SwitchBuffer2 is current PacketSequence is: 10 & size is: 10 & BufferSize is: 26
+00:00:01:410
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 5|| seq # is: 1 || totalGeneratedSize is: 160
+State for model PacketForwarder1 is current size is: 5|| seq # is: 10
+State for model Retransmission1 is current index is: 10|| dataLoss is: 70
+State for model Receiver1 is current ACK is: 7 & size is: 5
+State for model NetworkDelay1 is current PacketSequence is: 8 & size is: 5
+State for model SwitchBuffer1 is current PacketSequence is: 7 & size is: 5 & BufferSize is: 18
+State for model NetworkDelay2 is current PacketSequence is: 2 & size is: 5
+State for model SwitchBuffer2 is current PacketSequence is: 10 & size is: 10 & BufferSize is: 26
+00:00:01:415
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 5|| seq # is: 1 || totalGeneratedSize is: 160
+State for model PacketForwarder1 is current size is: 5|| seq # is: 10
+State for model Retransmission1 is current index is: 10|| dataLoss is: 70
+State for model Receiver1 is current ACK is: 7 & size is: 5
+State for model NetworkDelay1 is current PacketSequence is: 9 & size is: 5
+State for model SwitchBuffer1 is current PacketSequence is: 8 & size is: 5 & BufferSize is: 35
+State for model NetworkDelay2 is current PacketSequence is: 2 & size is: 5
+State for model SwitchBuffer2 is current PacketSequence is: 10 & size is: 10 & BufferSize is: 26
+00:00:01:415
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 5|| seq # is: 1 || totalGeneratedSize is: 160
+State for model PacketForwarder1 is current size is: 5|| seq # is: 10
+State for model Retransmission1 is current index is: 10|| dataLoss is: 70
+State for model Receiver1 is current ACK is: 8 & size is: 5
+State for model NetworkDelay1 is current PacketSequence is: 9 & size is: 5
+State for model SwitchBuffer1 is current PacketSequence is: 8 & size is: 5 & BufferSize is: 35
+State for model NetworkDelay2 is current PacketSequence is: 2 & size is: 5
+State for model SwitchBuffer2 is current PacketSequence is: 10 & size is: 10 & BufferSize is: 26
+00:00:01:415
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 5|| seq # is: 1 || totalGeneratedSize is: 160
+State for model PacketForwarder1 is current size is: 5|| seq # is: 10
+State for model Retransmission1 is current index is: 10|| dataLoss is: 70
+State for model Receiver1 is current ACK is: 8 & size is: 5
+State for model NetworkDelay1 is current PacketSequence is: 9 & size is: 5
+State for model SwitchBuffer1 is current PacketSequence is: 8 & size is: 5 & BufferSize is: 35
+State for model NetworkDelay2 is current PacketSequence is: 2 & size is: 5
+State for model SwitchBuffer2 is current PacketSequence is: 10 & size is: 10 & BufferSize is: 26
+00:00:01:420
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 5|| seq # is: 1 || totalGeneratedSize is: 160
+State for model PacketForwarder1 is current size is: 5|| seq # is: 10
+State for model Retransmission1 is current index is: 10|| dataLoss is: 70
+State for model Receiver1 is current ACK is: 8 & size is: 5
+State for model NetworkDelay1 is current PacketSequence is: 10 & size is: 5
+State for model SwitchBuffer1 is current PacketSequence is: 9 & size is: 5 & BufferSize is: 20
+State for model NetworkDelay2 is current PacketSequence is: 2 & size is: 5
+State for model SwitchBuffer2 is current PacketSequence is: 10 & size is: 10 & BufferSize is: 26
+00:00:01:420
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 5|| seq # is: 1 || totalGeneratedSize is: 160
+State for model PacketForwarder1 is current size is: 5|| seq # is: 10
+State for model Retransmission1 is current index is: 10|| dataLoss is: 70
+State for model Receiver1 is current ACK is: 9 & size is: 5
+State for model NetworkDelay1 is current PacketSequence is: 10 & size is: 5
+State for model SwitchBuffer1 is current PacketSequence is: 9 & size is: 5 & BufferSize is: 20
+State for model NetworkDelay2 is current PacketSequence is: 2 & size is: 5
+State for model SwitchBuffer2 is current PacketSequence is: 10 & size is: 10 & BufferSize is: 26
+00:00:01:420
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 5|| seq # is: 1 || totalGeneratedSize is: 160
+State for model PacketForwarder1 is current size is: 5|| seq # is: 10
+State for model Retransmission1 is current index is: 10|| dataLoss is: 70
+State for model Receiver1 is current ACK is: 9 & size is: 5
+State for model NetworkDelay1 is current PacketSequence is: 10 & size is: 5
+State for model SwitchBuffer1 is current PacketSequence is: 9 & size is: 5 & BufferSize is: 20
+State for model NetworkDelay2 is current PacketSequence is: 2 & size is: 5
+State for model SwitchBuffer2 is current PacketSequence is: 10 & size is: 10 & BufferSize is: 26
+00:00:01:425
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 5|| seq # is: 1 || totalGeneratedSize is: 160
+State for model PacketForwarder1 is current size is: 5|| seq # is: 10
+State for model Retransmission1 is current index is: 10|| dataLoss is: 70
+State for model Receiver1 is current ACK is: 9 & size is: 5
+State for model NetworkDelay1 is current PacketSequence is: 10 & size is: 5
+State for model SwitchBuffer1 is current PacketSequence is: 10 & size is: 5 & BufferSize is: 37
+State for model NetworkDelay2 is current PacketSequence is: 2 & size is: 5
+State for model SwitchBuffer2 is current PacketSequence is: 10 & size is: 10 & BufferSize is: 26
+00:00:01:425
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 5|| seq # is: 1 || totalGeneratedSize is: 160
+State for model PacketForwarder1 is current size is: 5|| seq # is: 10
+State for model Retransmission1 is current index is: 10|| dataLoss is: 70
+State for model Receiver1 is current ACK is: 10 & size is: 5
+State for model NetworkDelay1 is current PacketSequence is: 10 & size is: 5
+State for model SwitchBuffer1 is current PacketSequence is: 10 & size is: 5 & BufferSize is: 37
+State for model NetworkDelay2 is current PacketSequence is: 2 & size is: 5
+State for model SwitchBuffer2 is current PacketSequence is: 10 & size is: 10 & BufferSize is: 26
+00:00:01:425
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 5|| seq # is: 1 || totalGeneratedSize is: 160
+State for model PacketForwarder1 is current size is: 5|| seq # is: 10
+State for model Retransmission1 is current index is: 10|| dataLoss is: 70
+State for model Receiver1 is current ACK is: 10 & size is: 5
+State for model NetworkDelay1 is current PacketSequence is: 10 & size is: 5
+State for model SwitchBuffer1 is current PacketSequence is: 10 & size is: 5 & BufferSize is: 37
+State for model NetworkDelay2 is current PacketSequence is: 2 & size is: 5
+State for model SwitchBuffer2 is current PacketSequence is: 10 & size is: 10 & BufferSize is: 26
+00:00:01:435
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 5|| seq # is: 1 || totalGeneratedSize is: 160
+State for model PacketForwarder1 is current size is: 5|| seq # is: 10
+State for model Retransmission1 is current index is: 10|| dataLoss is: 70
+State for model Receiver1 is current ACK is: 10 & size is: 5
+State for model NetworkDelay1 is current PacketSequence is: 10 & size is: 5
+State for model SwitchBuffer1 is current PacketSequence is: 10 & size is: 5 & BufferSize is: 37
+State for model NetworkDelay2 is current PacketSequence is: 3 & size is: 5
+State for model SwitchBuffer2 is current PacketSequence is: 2 & size is: 5 & BufferSize is: 36
+00:00:01:435
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 5|| seq # is: 1 || totalGeneratedSize is: 160
+State for model PacketForwarder1 is current size is: 5|| seq # is: 10
+State for model Retransmission1 is current index is: 10|| dataLoss is: 70
+State for model Receiver1 is current ACK is: 10 & size is: 5
+State for model NetworkDelay1 is current PacketSequence is: 10 & size is: 5
+State for model SwitchBuffer1 is current PacketSequence is: 10 & size is: 5 & BufferSize is: 37
+State for model NetworkDelay2 is current PacketSequence is: 3 & size is: 5
+State for model SwitchBuffer2 is current PacketSequence is: 2 & size is: 5 & BufferSize is: 36
+00:00:01:440
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 5|| seq # is: 1 || totalGeneratedSize is: 160
+State for model PacketForwarder1 is current size is: 5|| seq # is: 10
+State for model Retransmission1 is current index is: 10|| dataLoss is: 70
+State for model Receiver1 is current ACK is: 10 & size is: 5
+State for model NetworkDelay1 is current PacketSequence is: 10 & size is: 5
+State for model SwitchBuffer1 is current PacketSequence is: 10 & size is: 5 & BufferSize is: 37
+State for model NetworkDelay2 is current PacketSequence is: 4 & size is: 5
+State for model SwitchBuffer2 is current PacketSequence is: 3 & size is: 5 & BufferSize is: 15
+00:00:01:440
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 5|| seq # is: 1 || totalGeneratedSize is: 160
+State for model PacketForwarder1 is current size is: 5|| seq # is: 10
+State for model Retransmission1 is current index is: 10|| dataLoss is: 70
+State for model Receiver1 is current ACK is: 10 & size is: 5
+State for model NetworkDelay1 is current PacketSequence is: 10 & size is: 5
+State for model SwitchBuffer1 is current PacketSequence is: 10 & size is: 5 & BufferSize is: 37
+State for model NetworkDelay2 is current PacketSequence is: 4 & size is: 5
+State for model SwitchBuffer2 is current PacketSequence is: 3 & size is: 5 & BufferSize is: 15
+00:00:01:445
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 5|| seq # is: 1 || totalGeneratedSize is: 160
+State for model PacketForwarder1 is current size is: 5|| seq # is: 10
+State for model Retransmission1 is current index is: 10|| dataLoss is: 70
+State for model Receiver1 is current ACK is: 10 & size is: 5
+State for model NetworkDelay1 is current PacketSequence is: 10 & size is: 5
+State for model SwitchBuffer1 is current PacketSequence is: 10 & size is: 5 & BufferSize is: 37
+State for model NetworkDelay2 is current PacketSequence is: 5 & size is: 5
+State for model SwitchBuffer2 is current PacketSequence is: 4 & size is: 5 & BufferSize is: 22
+00:00:01:445
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 5|| seq # is: 1 || totalGeneratedSize is: 160
+State for model PacketForwarder1 is current size is: 5|| seq # is: 10
+State for model Retransmission1 is current index is: 10|| dataLoss is: 70
+State for model Receiver1 is current ACK is: 10 & size is: 5
+State for model NetworkDelay1 is current PacketSequence is: 10 & size is: 5
+State for model SwitchBuffer1 is current PacketSequence is: 10 & size is: 5 & BufferSize is: 37
+State for model NetworkDelay2 is current PacketSequence is: 5 & size is: 5
+State for model SwitchBuffer2 is current PacketSequence is: 4 & size is: 5 & BufferSize is: 22
+00:00:01:450
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 5|| seq # is: 1 || totalGeneratedSize is: 160
+State for model PacketForwarder1 is current size is: 5|| seq # is: 10
+State for model Retransmission1 is current index is: 10|| dataLoss is: 70
+State for model Receiver1 is current ACK is: 10 & size is: 5
+State for model NetworkDelay1 is current PacketSequence is: 10 & size is: 5
+State for model SwitchBuffer1 is current PacketSequence is: 10 & size is: 5 & BufferSize is: 37
+State for model NetworkDelay2 is current PacketSequence is: 6 & size is: 5
+State for model SwitchBuffer2 is current PacketSequence is: 5 & size is: 5 & BufferSize is: 39
+00:00:01:450
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 5|| seq # is: 1 || totalGeneratedSize is: 160
+State for model PacketForwarder1 is current size is: 5|| seq # is: 10
+State for model Retransmission1 is current index is: 10|| dataLoss is: 70
+State for model Receiver1 is current ACK is: 10 & size is: 5
+State for model NetworkDelay1 is current PacketSequence is: 10 & size is: 5
+State for model SwitchBuffer1 is current PacketSequence is: 10 & size is: 5 & BufferSize is: 37
+State for model NetworkDelay2 is current PacketSequence is: 6 & size is: 5
+State for model SwitchBuffer2 is current PacketSequence is: 5 & size is: 5 & BufferSize is: 39
+00:00:01:455
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 5|| seq # is: 1 || totalGeneratedSize is: 160
+State for model PacketForwarder1 is current size is: 5|| seq # is: 10
+State for model Retransmission1 is current index is: 10|| dataLoss is: 70
+State for model Receiver1 is current ACK is: 10 & size is: 5
+State for model NetworkDelay1 is current PacketSequence is: 10 & size is: 5
+State for model SwitchBuffer1 is current PacketSequence is: 10 & size is: 5 & BufferSize is: 37
+State for model NetworkDelay2 is current PacketSequence is: 7 & size is: 5
+State for model SwitchBuffer2 is current PacketSequence is: 6 & size is: 5 & BufferSize is: 6
+00:00:01:455
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 5|| seq # is: 1 || totalGeneratedSize is: 160
+State for model PacketForwarder1 is current size is: 5|| seq # is: 10
+State for model Retransmission1 is current index is: 10|| dataLoss is: 70
+State for model Receiver1 is current ACK is: 10 & size is: 5
+State for model NetworkDelay1 is current PacketSequence is: 10 & size is: 5
+State for model SwitchBuffer1 is current PacketSequence is: 10 & size is: 5 & BufferSize is: 37
+State for model NetworkDelay2 is current PacketSequence is: 7 & size is: 5
+State for model SwitchBuffer2 is current PacketSequence is: 6 & size is: 5 & BufferSize is: 6
+00:00:01:460
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 5|| seq # is: 1 || totalGeneratedSize is: 160
+State for model PacketForwarder1 is current size is: 5|| seq # is: 10
+State for model Retransmission1 is current index is: 10|| dataLoss is: 70
+State for model Receiver1 is current ACK is: 10 & size is: 5
+State for model NetworkDelay1 is current PacketSequence is: 10 & size is: 5
+State for model SwitchBuffer1 is current PacketSequence is: 10 & size is: 5 & BufferSize is: 37
+State for model NetworkDelay2 is current PacketSequence is: 8 & size is: 5
+State for model SwitchBuffer2 is current PacketSequence is: 7 & size is: 5 & BufferSize is: 24
+00:00:01:460
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 5|| seq # is: 1 || totalGeneratedSize is: 160
+State for model PacketForwarder1 is current size is: 5|| seq # is: 10
+State for model Retransmission1 is current index is: 10|| dataLoss is: 70
+State for model Receiver1 is current ACK is: 10 & size is: 5
+State for model NetworkDelay1 is current PacketSequence is: 10 & size is: 5
+State for model SwitchBuffer1 is current PacketSequence is: 10 & size is: 5 & BufferSize is: 37
+State for model NetworkDelay2 is current PacketSequence is: 8 & size is: 5
+State for model SwitchBuffer2 is current PacketSequence is: 7 & size is: 5 & BufferSize is: 24
+00:00:01:465
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 5|| seq # is: 1 || totalGeneratedSize is: 160
+State for model PacketForwarder1 is current size is: 5|| seq # is: 10
+State for model Retransmission1 is current index is: 10|| dataLoss is: 70
+State for model Receiver1 is current ACK is: 10 & size is: 5
+State for model NetworkDelay1 is current PacketSequence is: 10 & size is: 5
+State for model SwitchBuffer1 is current PacketSequence is: 10 & size is: 5 & BufferSize is: 37
+State for model NetworkDelay2 is current PacketSequence is: 9 & size is: 5
+State for model SwitchBuffer2 is current PacketSequence is: 8 & size is: 5 & BufferSize is: 3
+00:00:01:470
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 5|| seq # is: 1 || totalGeneratedSize is: 160
+State for model PacketForwarder1 is current size is: 5|| seq # is: 10
+State for model Retransmission1 is current index is: 10|| dataLoss is: 70
+State for model Receiver1 is current ACK is: 10 & size is: 5
+State for model NetworkDelay1 is current PacketSequence is: 10 & size is: 5
+State for model SwitchBuffer1 is current PacketSequence is: 10 & size is: 5 & BufferSize is: 37
+State for model NetworkDelay2 is current PacketSequence is: 10 & size is: 5
+State for model SwitchBuffer2 is current PacketSequence is: 9 & size is: 5 & BufferSize is: 17
+00:00:01:470
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 5|| seq # is: 1 || totalGeneratedSize is: 160
+State for model PacketForwarder1 is current size is: 5|| seq # is: 10
+State for model Retransmission1 is current index is: 10|| dataLoss is: 70
+State for model Receiver1 is current ACK is: 10 & size is: 5
+State for model NetworkDelay1 is current PacketSequence is: 10 & size is: 5
+State for model SwitchBuffer1 is current PacketSequence is: 10 & size is: 5 & BufferSize is: 37
+State for model NetworkDelay2 is current PacketSequence is: 10 & size is: 5
+State for model SwitchBuffer2 is current PacketSequence is: 9 & size is: 5 & BufferSize is: 17
+00:00:01:475
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 5|| seq # is: 1 || totalGeneratedSize is: 160
+State for model PacketForwarder1 is current size is: 5|| seq # is: 10
+State for model Retransmission1 is current index is: 10|| dataLoss is: 70
+State for model Receiver1 is current ACK is: 10 & size is: 5
+State for model NetworkDelay1 is current PacketSequence is: 10 & size is: 5
+State for model SwitchBuffer1 is current PacketSequence is: 10 & size is: 5 & BufferSize is: 37
+State for model NetworkDelay2 is current PacketSequence is: 10 & size is: 5
+State for model SwitchBuffer2 is current PacketSequence is: 10 & size is: 5 & BufferSize is: 32
+00:00:01:475
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 5|| seq # is: 1 || totalGeneratedSize is: 160
+State for model PacketForwarder1 is current size is: 5|| seq # is: 10
+State for model Retransmission1 is current index is: 10|| dataLoss is: 70
+State for model Receiver1 is current ACK is: 10 & size is: 5
+State for model NetworkDelay1 is current PacketSequence is: 10 & size is: 5
+State for model SwitchBuffer1 is current PacketSequence is: 10 & size is: 5 & BufferSize is: 37
+State for model NetworkDelay2 is current PacketSequence is: 10 & size is: 5
+State for model SwitchBuffer2 is current PacketSequence is: 10 & size is: 5 & BufferSize is: 32
+00:00:01:975
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 5|| seq # is: 1 || totalGeneratedSize is: 160
+State for model PacketForwarder1 is current size is: 5|| seq # is: 10
+State for model Retransmission1 is current index is: 0|| dataLoss is: 15
+State for model Receiver1 is current ACK is: 10 & size is: 5
+State for model NetworkDelay1 is current PacketSequence is: 10 & size is: 5
+State for model SwitchBuffer1 is current PacketSequence is: 10 & size is: 5 & BufferSize is: 37
+State for model NetworkDelay2 is current PacketSequence is: 10 & size is: 5
+State for model SwitchBuffer2 is current PacketSequence is: 10 & size is: 5 & BufferSize is: 32
+00:00:01:980
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 5|| seq # is: 1 || totalGeneratedSize is: 160
+State for model PacketForwarder1 is current size is: 5|| seq # is: 8
+State for model Retransmission1 is current index is: 0|| dataLoss is: 15
+State for model Receiver1 is current ACK is: 10 & size is: 5
+State for model NetworkDelay1 is current PacketSequence is: 10 & size is: 5
+State for model SwitchBuffer1 is current PacketSequence is: 10 & size is: 5 & BufferSize is: 37
+State for model NetworkDelay2 is current PacketSequence is: 10 & size is: 5
+State for model SwitchBuffer2 is current PacketSequence is: 10 & size is: 5 & BufferSize is: 32
+00:00:01:980
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 5|| seq # is: 1 || totalGeneratedSize is: 160
+State for model PacketForwarder1 is current size is: 5|| seq # is: 8
+State for model Retransmission1 is current index is: 0|| dataLoss is: 15
+State for model Receiver1 is current ACK is: 10 & size is: 5
+State for model NetworkDelay1 is current PacketSequence is: 10 & size is: 5
+State for model SwitchBuffer1 is current PacketSequence is: 10 & size is: 5 & BufferSize is: 37
+State for model NetworkDelay2 is current PacketSequence is: 10 & size is: 5
+State for model SwitchBuffer2 is current PacketSequence is: 10 & size is: 5 & BufferSize is: 32
+00:00:01:985
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 5|| seq # is: 1 || totalGeneratedSize is: 160
+State for model PacketForwarder1 is current size is: 10|| seq # is: 1
+State for model Retransmission1 is current index is: 0|| dataLoss is: 15
+State for model Receiver1 is current ACK is: 10 & size is: 5
+State for model NetworkDelay1 is current PacketSequence is: 10 & size is: 5
+State for model SwitchBuffer1 is current PacketSequence is: 10 & size is: 5 & BufferSize is: 37
+State for model NetworkDelay2 is current PacketSequence is: 10 & size is: 5
+State for model SwitchBuffer2 is current PacketSequence is: 10 & size is: 5 & BufferSize is: 32
+00:00:01:985
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 5|| seq # is: 1 || totalGeneratedSize is: 160
+State for model PacketForwarder1 is current size is: 10|| seq # is: 1
+State for model Retransmission1 is current index is: 0|| dataLoss is: 15
+State for model Receiver1 is current ACK is: 10 & size is: 5
+State for model NetworkDelay1 is current PacketSequence is: 10 & size is: 5
+State for model SwitchBuffer1 is current PacketSequence is: 10 & size is: 5 & BufferSize is: 37
+State for model NetworkDelay2 is current PacketSequence is: 10 & size is: 5
+State for model SwitchBuffer2 is current PacketSequence is: 10 & size is: 5 & BufferSize is: 32
+00:00:01:990
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 5|| seq # is: 1 || totalGeneratedSize is: 160
+State for model PacketForwarder1 is current size is: 0|| seq # is: 0
+State for model Retransmission1 is current index is: 0|| dataLoss is: 15
+State for model Receiver1 is current ACK is: 10 & size is: 5
+State for model NetworkDelay1 is current PacketSequence is: 10 & size is: 5
+State for model SwitchBuffer1 is current PacketSequence is: 10 & size is: 5 & BufferSize is: 37
+State for model NetworkDelay2 is current PacketSequence is: 10 & size is: 5
+State for model SwitchBuffer2 is current PacketSequence is: 10 & size is: 5 & BufferSize is: 32
+00:00:01:990
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 5|| seq # is: 1 || totalGeneratedSize is: 160
+State for model PacketForwarder1 is current size is: 10|| seq # is: 1
+State for model Retransmission1 is current index is: 0|| dataLoss is: 15
+State for model Receiver1 is current ACK is: 10 & size is: 5
+State for model NetworkDelay1 is current PacketSequence is: 10 & size is: 5
+State for model SwitchBuffer1 is current PacketSequence is: 10 & size is: 5 & BufferSize is: 37
+State for model NetworkDelay2 is current PacketSequence is: 10 & size is: 5
+State for model SwitchBuffer2 is current PacketSequence is: 10 & size is: 5 & BufferSize is: 32
+00:00:01:995
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 5|| seq # is: 1 || totalGeneratedSize is: 160
+State for model PacketForwarder1 is current size is: 5|| seq # is: 8
+State for model Retransmission1 is current index is: 1|| dataLoss is: 15
+State for model Receiver1 is current ACK is: 10 & size is: 5
+State for model NetworkDelay1 is current PacketSequence is: 1 & size is: 10
+State for model SwitchBuffer1 is current PacketSequence is: 10 & size is: 5 & BufferSize is: 37
+State for model NetworkDelay2 is current PacketSequence is: 10 & size is: 5
+State for model SwitchBuffer2 is current PacketSequence is: 10 & size is: 5 & BufferSize is: 32
+00:00:02:000
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 5|| seq # is: 1 || totalGeneratedSize is: 160
+State for model PacketForwarder1 is current size is: 0|| seq # is: 0
+State for model Retransmission1 is current index is: 2|| dataLoss is: 15
+State for model Receiver1 is current ACK is: 10 & size is: 5
+State for model NetworkDelay1 is current PacketSequence is: 1 & size is: 10
+State for model SwitchBuffer1 is current PacketSequence is: 10 & size is: 5 & BufferSize is: 37
+State for model NetworkDelay2 is current PacketSequence is: 10 & size is: 5
+State for model SwitchBuffer2 is current PacketSequence is: 10 & size is: 5 & BufferSize is: 32
+00:00:02:045
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 5|| seq # is: 1 || totalGeneratedSize is: 160
+State for model PacketForwarder1 is current size is: 0|| seq # is: 0
+State for model Retransmission1 is current index is: 2|| dataLoss is: 15
+State for model Receiver1 is current ACK is: 10 & size is: 5
+State for model NetworkDelay1 is current PacketSequence is: 8 & size is: 5
+State for model SwitchBuffer1 is current PacketSequence is: 1 & size is: 10 & BufferSize is: 0
+State for model NetworkDelay2 is current PacketSequence is: 10 & size is: 5
+State for model SwitchBuffer2 is current PacketSequence is: 10 & size is: 5 & BufferSize is: 32
+00:00:02:050
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 5|| seq # is: 1 || totalGeneratedSize is: 160
+State for model PacketForwarder1 is current size is: 0|| seq # is: 0
+State for model Retransmission1 is current index is: 2|| dataLoss is: 15
+State for model Receiver1 is current ACK is: 10 & size is: 5
+State for model NetworkDelay1 is current PacketSequence is: 8 & size is: 5
+State for model SwitchBuffer1 is current PacketSequence is: 8 & size is: 5 & BufferSize is: 16
+State for model NetworkDelay2 is current PacketSequence is: 10 & size is: 5
+State for model SwitchBuffer2 is current PacketSequence is: 10 & size is: 5 & BufferSize is: 32
+00:00:02:050
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 5|| seq # is: 1 || totalGeneratedSize is: 160
+State for model PacketForwarder1 is current size is: 0|| seq # is: 0
+State for model Retransmission1 is current index is: 2|| dataLoss is: 15
+State for model Receiver1 is current ACK is: 8 & size is: 5
+State for model NetworkDelay1 is current PacketSequence is: 8 & size is: 5
+State for model SwitchBuffer1 is current PacketSequence is: 8 & size is: 5 & BufferSize is: 16
+State for model NetworkDelay2 is current PacketSequence is: 10 & size is: 5
+State for model SwitchBuffer2 is current PacketSequence is: 10 & size is: 5 & BufferSize is: 32
+00:00:02:050
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 5|| seq # is: 1 || totalGeneratedSize is: 160
+State for model PacketForwarder1 is current size is: 0|| seq # is: 0
+State for model Retransmission1 is current index is: 2|| dataLoss is: 15
+State for model Receiver1 is current ACK is: 8 & size is: 5
+State for model NetworkDelay1 is current PacketSequence is: 8 & size is: 5
+State for model SwitchBuffer1 is current PacketSequence is: 8 & size is: 5 & BufferSize is: 16
+State for model NetworkDelay2 is current PacketSequence is: 8 & size is: 5
+State for model SwitchBuffer2 is current PacketSequence is: 10 & size is: 5 & BufferSize is: 32
+00:00:02:100
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 5|| seq # is: 1 || totalGeneratedSize is: 160
+State for model PacketForwarder1 is current size is: 0|| seq # is: 0
+State for model Retransmission1 is current index is: 2|| dataLoss is: 15
+State for model Receiver1 is current ACK is: 8 & size is: 5
+State for model NetworkDelay1 is current PacketSequence is: 8 & size is: 5
+State for model SwitchBuffer1 is current PacketSequence is: 8 & size is: 5 & BufferSize is: 16
+State for model NetworkDelay2 is current PacketSequence is: 8 & size is: 5
+State for model SwitchBuffer2 is current PacketSequence is: 8 & size is: 5 & BufferSize is: 29
+00:00:02:100
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 5|| seq # is: 1 || totalGeneratedSize is: 160
+State for model PacketForwarder1 is current size is: 0|| seq # is: 0
+State for model Retransmission1 is current index is: 2|| dataLoss is: 15
+State for model Receiver1 is current ACK is: 8 & size is: 5
+State for model NetworkDelay1 is current PacketSequence is: 8 & size is: 5
+State for model SwitchBuffer1 is current PacketSequence is: 8 & size is: 5 & BufferSize is: 16
+State for model NetworkDelay2 is current PacketSequence is: 8 & size is: 5
+State for model SwitchBuffer2 is current PacketSequence is: 8 & size is: 5 & BufferSize is: 29
+00:00:02:600
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 5|| seq # is: 1 || totalGeneratedSize is: 160
+State for model PacketForwarder1 is current size is: 0|| seq # is: 0
+State for model Retransmission1 is current index is: 2|| dataLoss is: 15
+State for model Receiver1 is current ACK is: 8 & size is: 5
+State for model NetworkDelay1 is current PacketSequence is: 8 & size is: 5
+State for model SwitchBuffer1 is current PacketSequence is: 8 & size is: 5 & BufferSize is: 16
+State for model NetworkDelay2 is current PacketSequence is: 8 & size is: 5
+State for model SwitchBuffer2 is current PacketSequence is: 8 & size is: 5 & BufferSize is: 29
+00:00:02:600
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 5|| seq # is: 2 || totalGeneratedSize is: 165
+State for model PacketForwarder1 is current size is: 5|| seq # is: 1
+State for model Retransmission1 is current index is: 2|| dataLoss is: 15
+State for model Receiver1 is current ACK is: 8 & size is: 5
+State for model NetworkDelay1 is current PacketSequence is: 8 & size is: 5
+State for model SwitchBuffer1 is current PacketSequence is: 8 & size is: 5 & BufferSize is: 16
+State for model NetworkDelay2 is current PacketSequence is: 8 & size is: 5
+State for model SwitchBuffer2 is current PacketSequence is: 8 & size is: 5 & BufferSize is: 29
+00:00:02:605
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 5|| seq # is: 2 || totalGeneratedSize is: 165
+State for model PacketForwarder1 is current size is: 5|| seq # is: 1
+State for model Retransmission1 is current index is: 1|| dataLoss is: 15
+State for model Receiver1 is current ACK is: 8 & size is: 5
+State for model NetworkDelay1 is current PacketSequence is: 1 & size is: 5
+State for model SwitchBuffer1 is current PacketSequence is: 8 & size is: 5 & BufferSize is: 16
+State for model NetworkDelay2 is current PacketSequence is: 8 & size is: 5
+State for model SwitchBuffer2 is current PacketSequence is: 8 & size is: 5 & BufferSize is: 29
+00:00:02:605
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 5|| seq # is: 3 || totalGeneratedSize is: 170
+State for model PacketForwarder1 is current size is: 5|| seq # is: 2
+State for model Retransmission1 is current index is: 1|| dataLoss is: 15
+State for model Receiver1 is current ACK is: 8 & size is: 5
+State for model NetworkDelay1 is current PacketSequence is: 1 & size is: 5
+State for model SwitchBuffer1 is current PacketSequence is: 8 & size is: 5 & BufferSize is: 16
+State for model NetworkDelay2 is current PacketSequence is: 8 & size is: 5
+State for model SwitchBuffer2 is current PacketSequence is: 8 & size is: 5 & BufferSize is: 29
+00:00:02:610
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 5|| seq # is: 3 || totalGeneratedSize is: 170
+State for model PacketForwarder1 is current size is: 5|| seq # is: 2
+State for model Retransmission1 is current index is: 2|| dataLoss is: 15
+State for model Receiver1 is current ACK is: 8 & size is: 5
+State for model NetworkDelay1 is current PacketSequence is: 1 & size is: 5
+State for model SwitchBuffer1 is current PacketSequence is: 8 & size is: 5 & BufferSize is: 16
+State for model NetworkDelay2 is current PacketSequence is: 8 & size is: 5
+State for model SwitchBuffer2 is current PacketSequence is: 8 & size is: 5 & BufferSize is: 29
+00:00:02:610
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 5|| seq # is: 4 || totalGeneratedSize is: 175
+State for model PacketForwarder1 is current size is: 5|| seq # is: 3
+State for model Retransmission1 is current index is: 2|| dataLoss is: 15
+State for model Receiver1 is current ACK is: 8 & size is: 5
+State for model NetworkDelay1 is current PacketSequence is: 1 & size is: 5
+State for model SwitchBuffer1 is current PacketSequence is: 8 & size is: 5 & BufferSize is: 16
+State for model NetworkDelay2 is current PacketSequence is: 8 & size is: 5
+State for model SwitchBuffer2 is current PacketSequence is: 8 & size is: 5 & BufferSize is: 29
+00:00:02:615
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 5|| seq # is: 4 || totalGeneratedSize is: 175
+State for model PacketForwarder1 is current size is: 5|| seq # is: 3
+State for model Retransmission1 is current index is: 3|| dataLoss is: 15
+State for model Receiver1 is current ACK is: 8 & size is: 5
+State for model NetworkDelay1 is current PacketSequence is: 1 & size is: 5
+State for model SwitchBuffer1 is current PacketSequence is: 8 & size is: 5 & BufferSize is: 16
+State for model NetworkDelay2 is current PacketSequence is: 8 & size is: 5
+State for model SwitchBuffer2 is current PacketSequence is: 8 & size is: 5 & BufferSize is: 29
+00:00:02:615
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 5|| seq # is: 5 || totalGeneratedSize is: 180
+State for model PacketForwarder1 is current size is: 5|| seq # is: 4
+State for model Retransmission1 is current index is: 3|| dataLoss is: 15
+State for model Receiver1 is current ACK is: 8 & size is: 5
+State for model NetworkDelay1 is current PacketSequence is: 1 & size is: 5
+State for model SwitchBuffer1 is current PacketSequence is: 8 & size is: 5 & BufferSize is: 16
+State for model NetworkDelay2 is current PacketSequence is: 8 & size is: 5
+State for model SwitchBuffer2 is current PacketSequence is: 8 & size is: 5 & BufferSize is: 29
+00:00:02:620
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 5|| seq # is: 5 || totalGeneratedSize is: 180
+State for model PacketForwarder1 is current size is: 5|| seq # is: 4
+State for model Retransmission1 is current index is: 4|| dataLoss is: 15
+State for model Receiver1 is current ACK is: 8 & size is: 5
+State for model NetworkDelay1 is current PacketSequence is: 1 & size is: 5
+State for model SwitchBuffer1 is current PacketSequence is: 8 & size is: 5 & BufferSize is: 16
+State for model NetworkDelay2 is current PacketSequence is: 8 & size is: 5
+State for model SwitchBuffer2 is current PacketSequence is: 8 & size is: 5 & BufferSize is: 29
+00:00:02:620
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 5|| seq # is: 6 || totalGeneratedSize is: 185
+State for model PacketForwarder1 is current size is: 5|| seq # is: 5
+State for model Retransmission1 is current index is: 4|| dataLoss is: 15
+State for model Receiver1 is current ACK is: 8 & size is: 5
+State for model NetworkDelay1 is current PacketSequence is: 1 & size is: 5
+State for model SwitchBuffer1 is current PacketSequence is: 8 & size is: 5 & BufferSize is: 16
+State for model NetworkDelay2 is current PacketSequence is: 8 & size is: 5
+State for model SwitchBuffer2 is current PacketSequence is: 8 & size is: 5 & BufferSize is: 29
+00:00:02:625
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 5|| seq # is: 6 || totalGeneratedSize is: 185
+State for model PacketForwarder1 is current size is: 5|| seq # is: 5
+State for model Retransmission1 is current index is: 5|| dataLoss is: 15
+State for model Receiver1 is current ACK is: 8 & size is: 5
+State for model NetworkDelay1 is current PacketSequence is: 1 & size is: 5
+State for model SwitchBuffer1 is current PacketSequence is: 8 & size is: 5 & BufferSize is: 16
+State for model NetworkDelay2 is current PacketSequence is: 8 & size is: 5
+State for model SwitchBuffer2 is current PacketSequence is: 8 & size is: 5 & BufferSize is: 29
+00:00:02:625
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 5|| seq # is: 7 || totalGeneratedSize is: 190
+State for model PacketForwarder1 is current size is: 5|| seq # is: 6
+State for model Retransmission1 is current index is: 5|| dataLoss is: 15
+State for model Receiver1 is current ACK is: 8 & size is: 5
+State for model NetworkDelay1 is current PacketSequence is: 1 & size is: 5
+State for model SwitchBuffer1 is current PacketSequence is: 8 & size is: 5 & BufferSize is: 16
+State for model NetworkDelay2 is current PacketSequence is: 8 & size is: 5
+State for model SwitchBuffer2 is current PacketSequence is: 8 & size is: 5 & BufferSize is: 29
+00:00:02:630
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 5|| seq # is: 7 || totalGeneratedSize is: 190
+State for model PacketForwarder1 is current size is: 5|| seq # is: 6
+State for model Retransmission1 is current index is: 6|| dataLoss is: 15
+State for model Receiver1 is current ACK is: 8 & size is: 5
+State for model NetworkDelay1 is current PacketSequence is: 1 & size is: 5
+State for model SwitchBuffer1 is current PacketSequence is: 8 & size is: 5 & BufferSize is: 16
+State for model NetworkDelay2 is current PacketSequence is: 8 & size is: 5
+State for model SwitchBuffer2 is current PacketSequence is: 8 & size is: 5 & BufferSize is: 29
+00:00:02:630
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 5|| seq # is: 8 || totalGeneratedSize is: 195
+State for model PacketForwarder1 is current size is: 5|| seq # is: 7
+State for model Retransmission1 is current index is: 6|| dataLoss is: 15
+State for model Receiver1 is current ACK is: 8 & size is: 5
+State for model NetworkDelay1 is current PacketSequence is: 1 & size is: 5
+State for model SwitchBuffer1 is current PacketSequence is: 8 & size is: 5 & BufferSize is: 16
+State for model NetworkDelay2 is current PacketSequence is: 8 & size is: 5
+State for model SwitchBuffer2 is current PacketSequence is: 8 & size is: 5 & BufferSize is: 29
+00:00:02:635
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 5|| seq # is: 8 || totalGeneratedSize is: 195
+State for model PacketForwarder1 is current size is: 5|| seq # is: 7
+State for model Retransmission1 is current index is: 7|| dataLoss is: 15
+State for model Receiver1 is current ACK is: 8 & size is: 5
+State for model NetworkDelay1 is current PacketSequence is: 1 & size is: 5
+State for model SwitchBuffer1 is current PacketSequence is: 8 & size is: 5 & BufferSize is: 16
+State for model NetworkDelay2 is current PacketSequence is: 8 & size is: 5
+State for model SwitchBuffer2 is current PacketSequence is: 8 & size is: 5 & BufferSize is: 29
+00:00:02:635
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 5|| seq # is: 9 || totalGeneratedSize is: 200
+State for model PacketForwarder1 is current size is: 5|| seq # is: 8
+State for model Retransmission1 is current index is: 7|| dataLoss is: 15
+State for model Receiver1 is current ACK is: 8 & size is: 5
+State for model NetworkDelay1 is current PacketSequence is: 1 & size is: 5
+State for model SwitchBuffer1 is current PacketSequence is: 8 & size is: 5 & BufferSize is: 16
+State for model NetworkDelay2 is current PacketSequence is: 8 & size is: 5
+State for model SwitchBuffer2 is current PacketSequence is: 8 & size is: 5 & BufferSize is: 29
+00:00:02:640
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 5|| seq # is: 9 || totalGeneratedSize is: 200
+State for model PacketForwarder1 is current size is: 5|| seq # is: 8
+State for model Retransmission1 is current index is: 8|| dataLoss is: 15
+State for model Receiver1 is current ACK is: 8 & size is: 5
+State for model NetworkDelay1 is current PacketSequence is: 1 & size is: 5
+State for model SwitchBuffer1 is current PacketSequence is: 8 & size is: 5 & BufferSize is: 16
+State for model NetworkDelay2 is current PacketSequence is: 8 & size is: 5
+State for model SwitchBuffer2 is current PacketSequence is: 8 & size is: 5 & BufferSize is: 29
+00:00:02:640
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 5|| seq # is: 9 || totalGeneratedSize is: 200
+State for model PacketForwarder1 is current size is: 5|| seq # is: 9
+State for model Retransmission1 is current index is: 8|| dataLoss is: 15
+State for model Receiver1 is current ACK is: 8 & size is: 5
+State for model NetworkDelay1 is current PacketSequence is: 1 & size is: 5
+State for model SwitchBuffer1 is current PacketSequence is: 8 & size is: 5 & BufferSize is: 16
+State for model NetworkDelay2 is current PacketSequence is: 8 & size is: 5
+State for model SwitchBuffer2 is current PacketSequence is: 8 & size is: 5 & BufferSize is: 29
+00:00:02:645
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 5|| seq # is: 9 || totalGeneratedSize is: 200
+State for model PacketForwarder1 is current size is: 5|| seq # is: 9
+State for model Retransmission1 is current index is: 9|| dataLoss is: 15
+State for model Receiver1 is current ACK is: 8 & size is: 5
+State for model NetworkDelay1 is current PacketSequence is: 1 & size is: 5
+State for model SwitchBuffer1 is current PacketSequence is: 8 & size is: 5 & BufferSize is: 16
+State for model NetworkDelay2 is current PacketSequence is: 8 & size is: 5
+State for model SwitchBuffer2 is current PacketSequence is: 8 & size is: 5 & BufferSize is: 29
+00:00:02:655
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 5|| seq # is: 9 || totalGeneratedSize is: 200
+State for model PacketForwarder1 is current size is: 5|| seq # is: 9
+State for model Retransmission1 is current index is: 9|| dataLoss is: 15
+State for model Receiver1 is current ACK is: 8 & size is: 5
+State for model NetworkDelay1 is current PacketSequence is: 2 & size is: 5
+State for model SwitchBuffer1 is current PacketSequence is: 1 & size is: 5 & BufferSize is: 18
+State for model NetworkDelay2 is current PacketSequence is: 8 & size is: 5
+State for model SwitchBuffer2 is current PacketSequence is: 8 & size is: 5 & BufferSize is: 29
+00:00:02:655
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 5|| seq # is: 9 || totalGeneratedSize is: 200
+State for model PacketForwarder1 is current size is: 5|| seq # is: 9
+State for model Retransmission1 is current index is: 9|| dataLoss is: 15
+State for model Receiver1 is current ACK is: 1 & size is: 5
+State for model NetworkDelay1 is current PacketSequence is: 2 & size is: 5
+State for model SwitchBuffer1 is current PacketSequence is: 1 & size is: 5 & BufferSize is: 18
+State for model NetworkDelay2 is current PacketSequence is: 8 & size is: 5
+State for model SwitchBuffer2 is current PacketSequence is: 8 & size is: 5 & BufferSize is: 29
+00:00:02:655
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 5|| seq # is: 9 || totalGeneratedSize is: 200
+State for model PacketForwarder1 is current size is: 5|| seq # is: 9
+State for model Retransmission1 is current index is: 9|| dataLoss is: 15
+State for model Receiver1 is current ACK is: 1 & size is: 5
+State for model NetworkDelay1 is current PacketSequence is: 2 & size is: 5
+State for model SwitchBuffer1 is current PacketSequence is: 1 & size is: 5 & BufferSize is: 18
+State for model NetworkDelay2 is current PacketSequence is: 1 & size is: 5
+State for model SwitchBuffer2 is current PacketSequence is: 8 & size is: 5 & BufferSize is: 29
+00:00:02:660
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 5|| seq # is: 9 || totalGeneratedSize is: 200
+State for model PacketForwarder1 is current size is: 5|| seq # is: 9
+State for model Retransmission1 is current index is: 9|| dataLoss is: 15
+State for model Receiver1 is current ACK is: 1 & size is: 5
+State for model NetworkDelay1 is current PacketSequence is: 3 & size is: 5
+State for model SwitchBuffer1 is current PacketSequence is: 2 & size is: 5 & BufferSize is: 32
+State for model NetworkDelay2 is current PacketSequence is: 1 & size is: 5
+State for model SwitchBuffer2 is current PacketSequence is: 8 & size is: 5 & BufferSize is: 29
+00:00:02:660
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 5|| seq # is: 9 || totalGeneratedSize is: 200
+State for model PacketForwarder1 is current size is: 5|| seq # is: 9
+State for model Retransmission1 is current index is: 9|| dataLoss is: 15
+State for model Receiver1 is current ACK is: 2 & size is: 5
+State for model NetworkDelay1 is current PacketSequence is: 3 & size is: 5
+State for model SwitchBuffer1 is current PacketSequence is: 2 & size is: 5 & BufferSize is: 32
+State for model NetworkDelay2 is current PacketSequence is: 1 & size is: 5
+State for model SwitchBuffer2 is current PacketSequence is: 8 & size is: 5 & BufferSize is: 29
+00:00:02:660
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 5|| seq # is: 9 || totalGeneratedSize is: 200
+State for model PacketForwarder1 is current size is: 5|| seq # is: 9
+State for model Retransmission1 is current index is: 9|| dataLoss is: 15
+State for model Receiver1 is current ACK is: 2 & size is: 5
+State for model NetworkDelay1 is current PacketSequence is: 3 & size is: 5
+State for model SwitchBuffer1 is current PacketSequence is: 2 & size is: 5 & BufferSize is: 32
+State for model NetworkDelay2 is current PacketSequence is: 1 & size is: 5
+State for model SwitchBuffer2 is current PacketSequence is: 8 & size is: 5 & BufferSize is: 29
+00:00:02:665
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 5|| seq # is: 9 || totalGeneratedSize is: 200
+State for model PacketForwarder1 is current size is: 5|| seq # is: 9
+State for model Retransmission1 is current index is: 9|| dataLoss is: 15
+State for model Receiver1 is current ACK is: 2 & size is: 5
+State for model NetworkDelay1 is current PacketSequence is: 4 & size is: 5
+State for model SwitchBuffer1 is current PacketSequence is: 3 & size is: 5 & BufferSize is: 19
+State for model NetworkDelay2 is current PacketSequence is: 1 & size is: 5
+State for model SwitchBuffer2 is current PacketSequence is: 8 & size is: 5 & BufferSize is: 29
+00:00:02:665
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 5|| seq # is: 9 || totalGeneratedSize is: 200
+State for model PacketForwarder1 is current size is: 5|| seq # is: 9
+State for model Retransmission1 is current index is: 9|| dataLoss is: 15
+State for model Receiver1 is current ACK is: 3 & size is: 5
+State for model NetworkDelay1 is current PacketSequence is: 4 & size is: 5
+State for model SwitchBuffer1 is current PacketSequence is: 3 & size is: 5 & BufferSize is: 19
+State for model NetworkDelay2 is current PacketSequence is: 1 & size is: 5
+State for model SwitchBuffer2 is current PacketSequence is: 8 & size is: 5 & BufferSize is: 29
+00:00:02:665
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 5|| seq # is: 9 || totalGeneratedSize is: 200
+State for model PacketForwarder1 is current size is: 5|| seq # is: 9
+State for model Retransmission1 is current index is: 9|| dataLoss is: 15
+State for model Receiver1 is current ACK is: 3 & size is: 5
+State for model NetworkDelay1 is current PacketSequence is: 4 & size is: 5
+State for model SwitchBuffer1 is current PacketSequence is: 3 & size is: 5 & BufferSize is: 19
+State for model NetworkDelay2 is current PacketSequence is: 1 & size is: 5
+State for model SwitchBuffer2 is current PacketSequence is: 8 & size is: 5 & BufferSize is: 29
+00:00:02:670
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 5|| seq # is: 9 || totalGeneratedSize is: 200
+State for model PacketForwarder1 is current size is: 5|| seq # is: 9
+State for model Retransmission1 is current index is: 9|| dataLoss is: 15
+State for model Receiver1 is current ACK is: 3 & size is: 5
+State for model NetworkDelay1 is current PacketSequence is: 5 & size is: 5
+State for model SwitchBuffer1 is current PacketSequence is: 4 & size is: 5 & BufferSize is: 26
+State for model NetworkDelay2 is current PacketSequence is: 1 & size is: 5
+State for model SwitchBuffer2 is current PacketSequence is: 8 & size is: 5 & BufferSize is: 29
+00:00:02:670
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 5|| seq # is: 9 || totalGeneratedSize is: 200
+State for model PacketForwarder1 is current size is: 5|| seq # is: 9
+State for model Retransmission1 is current index is: 9|| dataLoss is: 15
+State for model Receiver1 is current ACK is: 4 & size is: 5
+State for model NetworkDelay1 is current PacketSequence is: 5 & size is: 5
+State for model SwitchBuffer1 is current PacketSequence is: 4 & size is: 5 & BufferSize is: 26
+State for model NetworkDelay2 is current PacketSequence is: 1 & size is: 5
+State for model SwitchBuffer2 is current PacketSequence is: 8 & size is: 5 & BufferSize is: 29
+00:00:02:670
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 5|| seq # is: 9 || totalGeneratedSize is: 200
+State for model PacketForwarder1 is current size is: 5|| seq # is: 9
+State for model Retransmission1 is current index is: 9|| dataLoss is: 15
+State for model Receiver1 is current ACK is: 4 & size is: 5
+State for model NetworkDelay1 is current PacketSequence is: 5 & size is: 5
+State for model SwitchBuffer1 is current PacketSequence is: 4 & size is: 5 & BufferSize is: 26
+State for model NetworkDelay2 is current PacketSequence is: 1 & size is: 5
+State for model SwitchBuffer2 is current PacketSequence is: 8 & size is: 5 & BufferSize is: 29
+00:00:02:675
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 5|| seq # is: 9 || totalGeneratedSize is: 200
+State for model PacketForwarder1 is current size is: 5|| seq # is: 9
+State for model Retransmission1 is current index is: 9|| dataLoss is: 15
+State for model Receiver1 is current ACK is: 4 & size is: 5
+State for model NetworkDelay1 is current PacketSequence is: 6 & size is: 5
+State for model SwitchBuffer1 is current PacketSequence is: 5 & size is: 5 & BufferSize is: 33
+State for model NetworkDelay2 is current PacketSequence is: 1 & size is: 5
+State for model SwitchBuffer2 is current PacketSequence is: 8 & size is: 5 & BufferSize is: 29
+00:00:02:675
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 5|| seq # is: 9 || totalGeneratedSize is: 200
+State for model PacketForwarder1 is current size is: 5|| seq # is: 9
+State for model Retransmission1 is current index is: 9|| dataLoss is: 15
+State for model Receiver1 is current ACK is: 5 & size is: 5
+State for model NetworkDelay1 is current PacketSequence is: 6 & size is: 5
+State for model SwitchBuffer1 is current PacketSequence is: 5 & size is: 5 & BufferSize is: 33
+State for model NetworkDelay2 is current PacketSequence is: 1 & size is: 5
+State for model SwitchBuffer2 is current PacketSequence is: 8 & size is: 5 & BufferSize is: 29
+00:00:02:675
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 5|| seq # is: 9 || totalGeneratedSize is: 200
+State for model PacketForwarder1 is current size is: 5|| seq # is: 9
+State for model Retransmission1 is current index is: 9|| dataLoss is: 15
+State for model Receiver1 is current ACK is: 5 & size is: 5
+State for model NetworkDelay1 is current PacketSequence is: 6 & size is: 5
+State for model SwitchBuffer1 is current PacketSequence is: 5 & size is: 5 & BufferSize is: 33
+State for model NetworkDelay2 is current PacketSequence is: 1 & size is: 5
+State for model SwitchBuffer2 is current PacketSequence is: 8 & size is: 5 & BufferSize is: 29
+00:00:02:680
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 5|| seq # is: 9 || totalGeneratedSize is: 200
+State for model PacketForwarder1 is current size is: 5|| seq # is: 9
+State for model Retransmission1 is current index is: 9|| dataLoss is: 15
+State for model Receiver1 is current ACK is: 5 & size is: 5
+State for model NetworkDelay1 is current PacketSequence is: 7 & size is: 5
+State for model SwitchBuffer1 is current PacketSequence is: 6 & size is: 5 & BufferSize is: 36
+State for model NetworkDelay2 is current PacketSequence is: 1 & size is: 5
+State for model SwitchBuffer2 is current PacketSequence is: 8 & size is: 5 & BufferSize is: 29
+00:00:02:680
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 5|| seq # is: 9 || totalGeneratedSize is: 200
+State for model PacketForwarder1 is current size is: 5|| seq # is: 9
+State for model Retransmission1 is current index is: 9|| dataLoss is: 15
+State for model Receiver1 is current ACK is: 6 & size is: 5
+State for model NetworkDelay1 is current PacketSequence is: 7 & size is: 5
+State for model SwitchBuffer1 is current PacketSequence is: 6 & size is: 5 & BufferSize is: 36
+State for model NetworkDelay2 is current PacketSequence is: 1 & size is: 5
+State for model SwitchBuffer2 is current PacketSequence is: 8 & size is: 5 & BufferSize is: 29
+00:00:02:680
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 5|| seq # is: 9 || totalGeneratedSize is: 200
+State for model PacketForwarder1 is current size is: 5|| seq # is: 9
+State for model Retransmission1 is current index is: 9|| dataLoss is: 15
+State for model Receiver1 is current ACK is: 6 & size is: 5
+State for model NetworkDelay1 is current PacketSequence is: 7 & size is: 5
+State for model SwitchBuffer1 is current PacketSequence is: 6 & size is: 5 & BufferSize is: 36
+State for model NetworkDelay2 is current PacketSequence is: 1 & size is: 5
+State for model SwitchBuffer2 is current PacketSequence is: 8 & size is: 5 & BufferSize is: 29
+00:00:02:685
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 5|| seq # is: 9 || totalGeneratedSize is: 200
+State for model PacketForwarder1 is current size is: 5|| seq # is: 9
+State for model Retransmission1 is current index is: 9|| dataLoss is: 15
+State for model Receiver1 is current ACK is: 6 & size is: 5
+State for model NetworkDelay1 is current PacketSequence is: 8 & size is: 5
+State for model SwitchBuffer1 is current PacketSequence is: 7 & size is: 5 & BufferSize is: 5
+State for model NetworkDelay2 is current PacketSequence is: 1 & size is: 5
+State for model SwitchBuffer2 is current PacketSequence is: 8 & size is: 5 & BufferSize is: 29
+00:00:02:690
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 5|| seq # is: 9 || totalGeneratedSize is: 200
+State for model PacketForwarder1 is current size is: 5|| seq # is: 9
+State for model Retransmission1 is current index is: 9|| dataLoss is: 15
+State for model Receiver1 is current ACK is: 6 & size is: 5
+State for model NetworkDelay1 is current PacketSequence is: 9 & size is: 5
+State for model SwitchBuffer1 is current PacketSequence is: 8 & size is: 5 & BufferSize is: 0
+State for model NetworkDelay2 is current PacketSequence is: 1 & size is: 5
+State for model SwitchBuffer2 is current PacketSequence is: 8 & size is: 5 & BufferSize is: 29
+00:00:02:695
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 5|| seq # is: 9 || totalGeneratedSize is: 200
+State for model PacketForwarder1 is current size is: 5|| seq # is: 9
+State for model Retransmission1 is current index is: 9|| dataLoss is: 15
+State for model Receiver1 is current ACK is: 6 & size is: 5
+State for model NetworkDelay1 is current PacketSequence is: 9 & size is: 5
+State for model SwitchBuffer1 is current PacketSequence is: 9 & size is: 5 & BufferSize is: 23
+State for model NetworkDelay2 is current PacketSequence is: 1 & size is: 5
+State for model SwitchBuffer2 is current PacketSequence is: 8 & size is: 5 & BufferSize is: 29
+00:00:02:695
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 5|| seq # is: 9 || totalGeneratedSize is: 200
+State for model PacketForwarder1 is current size is: 5|| seq # is: 9
+State for model Retransmission1 is current index is: 9|| dataLoss is: 15
+State for model Receiver1 is current ACK is: 9 & size is: 5
+State for model NetworkDelay1 is current PacketSequence is: 9 & size is: 5
+State for model SwitchBuffer1 is current PacketSequence is: 9 & size is: 5 & BufferSize is: 23
+State for model NetworkDelay2 is current PacketSequence is: 1 & size is: 5
+State for model SwitchBuffer2 is current PacketSequence is: 8 & size is: 5 & BufferSize is: 29
+00:00:02:695
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 5|| seq # is: 9 || totalGeneratedSize is: 200
+State for model PacketForwarder1 is current size is: 5|| seq # is: 9
+State for model Retransmission1 is current index is: 9|| dataLoss is: 15
+State for model Receiver1 is current ACK is: 9 & size is: 5
+State for model NetworkDelay1 is current PacketSequence is: 9 & size is: 5
+State for model SwitchBuffer1 is current PacketSequence is: 9 & size is: 5 & BufferSize is: 23
+State for model NetworkDelay2 is current PacketSequence is: 1 & size is: 5
+State for model SwitchBuffer2 is current PacketSequence is: 8 & size is: 5 & BufferSize is: 29
+00:00:02:705
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 5|| seq # is: 9 || totalGeneratedSize is: 200
+State for model PacketForwarder1 is current size is: 5|| seq # is: 9
+State for model Retransmission1 is current index is: 9|| dataLoss is: 15
+State for model Receiver1 is current ACK is: 9 & size is: 5
+State for model NetworkDelay1 is current PacketSequence is: 9 & size is: 5
+State for model SwitchBuffer1 is current PacketSequence is: 9 & size is: 5 & BufferSize is: 23
+State for model NetworkDelay2 is current PacketSequence is: 2 & size is: 5
+State for model SwitchBuffer2 is current PacketSequence is: 1 & size is: 5 & BufferSize is: 7
+00:00:02:705
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 5|| seq # is: 9 || totalGeneratedSize is: 200
+State for model PacketForwarder1 is current size is: 5|| seq # is: 9
+State for model Retransmission1 is current index is: 9|| dataLoss is: 15
+State for model Receiver1 is current ACK is: 9 & size is: 5
+State for model NetworkDelay1 is current PacketSequence is: 9 & size is: 5
+State for model SwitchBuffer1 is current PacketSequence is: 9 & size is: 5 & BufferSize is: 23
+State for model NetworkDelay2 is current PacketSequence is: 2 & size is: 5
+State for model SwitchBuffer2 is current PacketSequence is: 1 & size is: 5 & BufferSize is: 7
+00:00:02:710
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 5|| seq # is: 9 || totalGeneratedSize is: 200
+State for model PacketForwarder1 is current size is: 5|| seq # is: 9
+State for model Retransmission1 is current index is: 9|| dataLoss is: 15
+State for model Receiver1 is current ACK is: 9 & size is: 5
+State for model NetworkDelay1 is current PacketSequence is: 9 & size is: 5
+State for model SwitchBuffer1 is current PacketSequence is: 9 & size is: 5 & BufferSize is: 23
+State for model NetworkDelay2 is current PacketSequence is: 3 & size is: 5
+State for model SwitchBuffer2 is current PacketSequence is: 2 & size is: 5 & BufferSize is: 39
+00:00:02:710
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 5|| seq # is: 9 || totalGeneratedSize is: 200
+State for model PacketForwarder1 is current size is: 5|| seq # is: 9
+State for model Retransmission1 is current index is: 9|| dataLoss is: 15
+State for model Receiver1 is current ACK is: 9 & size is: 5
+State for model NetworkDelay1 is current PacketSequence is: 9 & size is: 5
+State for model SwitchBuffer1 is current PacketSequence is: 9 & size is: 5 & BufferSize is: 23
+State for model NetworkDelay2 is current PacketSequence is: 3 & size is: 5
+State for model SwitchBuffer2 is current PacketSequence is: 2 & size is: 5 & BufferSize is: 39
+00:00:02:715
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 5|| seq # is: 9 || totalGeneratedSize is: 200
+State for model PacketForwarder1 is current size is: 5|| seq # is: 9
+State for model Retransmission1 is current index is: 9|| dataLoss is: 15
+State for model Receiver1 is current ACK is: 9 & size is: 5
+State for model NetworkDelay1 is current PacketSequence is: 9 & size is: 5
+State for model SwitchBuffer1 is current PacketSequence is: 9 & size is: 5 & BufferSize is: 23
+State for model NetworkDelay2 is current PacketSequence is: 4 & size is: 5
+State for model SwitchBuffer2 is current PacketSequence is: 3 & size is: 5 & BufferSize is: 10
+00:00:02:715
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 5|| seq # is: 9 || totalGeneratedSize is: 200
+State for model PacketForwarder1 is current size is: 5|| seq # is: 9
+State for model Retransmission1 is current index is: 9|| dataLoss is: 15
+State for model Receiver1 is current ACK is: 9 & size is: 5
+State for model NetworkDelay1 is current PacketSequence is: 9 & size is: 5
+State for model SwitchBuffer1 is current PacketSequence is: 9 & size is: 5 & BufferSize is: 23
+State for model NetworkDelay2 is current PacketSequence is: 4 & size is: 5
+State for model SwitchBuffer2 is current PacketSequence is: 3 & size is: 5 & BufferSize is: 10
+00:00:02:720
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 5|| seq # is: 9 || totalGeneratedSize is: 200
+State for model PacketForwarder1 is current size is: 5|| seq # is: 9
+State for model Retransmission1 is current index is: 9|| dataLoss is: 15
+State for model Receiver1 is current ACK is: 9 & size is: 5
+State for model NetworkDelay1 is current PacketSequence is: 9 & size is: 5
+State for model SwitchBuffer1 is current PacketSequence is: 9 & size is: 5 & BufferSize is: 23
+State for model NetworkDelay2 is current PacketSequence is: 5 & size is: 5
+State for model SwitchBuffer2 is current PacketSequence is: 4 & size is: 5 & BufferSize is: 25
+00:00:02:720
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 5|| seq # is: 9 || totalGeneratedSize is: 200
+State for model PacketForwarder1 is current size is: 5|| seq # is: 9
+State for model Retransmission1 is current index is: 9|| dataLoss is: 15
+State for model Receiver1 is current ACK is: 9 & size is: 5
+State for model NetworkDelay1 is current PacketSequence is: 9 & size is: 5
+State for model SwitchBuffer1 is current PacketSequence is: 9 & size is: 5 & BufferSize is: 23
+State for model NetworkDelay2 is current PacketSequence is: 5 & size is: 5
+State for model SwitchBuffer2 is current PacketSequence is: 4 & size is: 5 & BufferSize is: 25
+00:00:02:725
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 5|| seq # is: 9 || totalGeneratedSize is: 200
+State for model PacketForwarder1 is current size is: 5|| seq # is: 9
+State for model Retransmission1 is current index is: 9|| dataLoss is: 15
+State for model Receiver1 is current ACK is: 9 & size is: 5
+State for model NetworkDelay1 is current PacketSequence is: 9 & size is: 5
+State for model SwitchBuffer1 is current PacketSequence is: 9 & size is: 5 & BufferSize is: 23
+State for model NetworkDelay2 is current PacketSequence is: 6 & size is: 5
+State for model SwitchBuffer2 is current PacketSequence is: 5 & size is: 5 & BufferSize is: 18
+00:00:02:725
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 5|| seq # is: 9 || totalGeneratedSize is: 200
+State for model PacketForwarder1 is current size is: 5|| seq # is: 9
+State for model Retransmission1 is current index is: 9|| dataLoss is: 15
+State for model Receiver1 is current ACK is: 9 & size is: 5
+State for model NetworkDelay1 is current PacketSequence is: 9 & size is: 5
+State for model SwitchBuffer1 is current PacketSequence is: 9 & size is: 5 & BufferSize is: 23
+State for model NetworkDelay2 is current PacketSequence is: 6 & size is: 5
+State for model SwitchBuffer2 is current PacketSequence is: 5 & size is: 5 & BufferSize is: 18
+00:00:02:730
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 5|| seq # is: 9 || totalGeneratedSize is: 200
+State for model PacketForwarder1 is current size is: 5|| seq # is: 9
+State for model Retransmission1 is current index is: 9|| dataLoss is: 15
+State for model Receiver1 is current ACK is: 9 & size is: 5
+State for model NetworkDelay1 is current PacketSequence is: 9 & size is: 5
+State for model SwitchBuffer1 is current PacketSequence is: 9 & size is: 5 & BufferSize is: 23
+State for model NetworkDelay2 is current PacketSequence is: 9 & size is: 5
+State for model SwitchBuffer2 is current PacketSequence is: 6 & size is: 5 & BufferSize is: 37
+00:00:02:730
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 5|| seq # is: 9 || totalGeneratedSize is: 200
+State for model PacketForwarder1 is current size is: 5|| seq # is: 9
+State for model Retransmission1 is current index is: 9|| dataLoss is: 15
+State for model Receiver1 is current ACK is: 9 & size is: 5
+State for model NetworkDelay1 is current PacketSequence is: 9 & size is: 5
+State for model SwitchBuffer1 is current PacketSequence is: 9 & size is: 5 & BufferSize is: 23
+State for model NetworkDelay2 is current PacketSequence is: 9 & size is: 5
+State for model SwitchBuffer2 is current PacketSequence is: 6 & size is: 5 & BufferSize is: 37
+00:00:02:745
+State for model input_reader_start_signal is next time: inf
+State for model PacketGenerator1 is current size is: 5|| seq # is: 9 || totalGeneratedSize is: 200
+State for model PacketForwarder1 is current size is: 5|| seq # is: 9
+State for model Retransmission1 is current index is: 9|| dataLoss is: 15
+State for model Receiver1 is current ACK is: 9 & size is: 5
+State for model NetworkDelay1 is current PacketSequence is: 9 & size is: 5
+State for model SwitchBuffer1 is current PacketSequence is: 9 & size is: 5 & BufferSize is: 23
+State for model NetworkDelay2 is current PacketSequence is: 9 & size is: 5
+State for model SwitchBuffer2 is current PacketSequence is: 9 & size is: 5 & BufferSize is: 3
